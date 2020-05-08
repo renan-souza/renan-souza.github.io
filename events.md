@@ -10,4 +10,4 @@ title: Talks and Events Participation
 
 ---
 
-Last updated on {% include last-updated.txt %}
+{% include foot.html %}

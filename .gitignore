@@ -1,10 +1,12 @@
-_posts/ideas
-
 *.swp
-
 /_site/
 /images/latex/
-
 bower_components
-
 .jekyll-metadata
+**/*.pyc*
+**/*dist*
+**/*egg*
+**/*build*
+/.idea
+**/*.log
+**/*.DS_Store

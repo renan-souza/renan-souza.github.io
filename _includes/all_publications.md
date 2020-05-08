@@ -7,16 +7,16 @@ Please, feel free to reach me if you need a preprint of a paper not available he
 <ul>
 
 
-<li> <a href="#theses" > Theses </a> </li>
+<li> <a href="#--theses-" > Theses </a> </li>
 
 
-<li> <a href="#journal-articles" > Journal Articles </a> </li>
+<li> <a href="#--journal-articles-" > Journal Articles </a> </li>
 
 
-<li> <a href="#conference-and-workshop-papers" > Conference and Workshop Papers </a> </li>
+<li> <a href="#--conference-and-workshop-papers-" > Conference and Workshop Papers </a> </li>
 
 
-<li> <a href="#patents" > Patents </a> </li>
+<li> <a href="#--patents-" > Patents </a> </li>
 
 
 </ul>
@@ -24,7 +24,7 @@ Please, feel free to reach me if you need a preprint of a paper not available he
 
 
 
-## <a id="theses"><i class="fa fa-chevron-right"></i> Theses </a> <a href="https://github.com/renan-souza/cv/blob/master/publications/theses.bib" target="_blank"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+## <a id="theses"><a/> <i class="fa fa-chevron-right"></i> Theses <a href="https://raw.githubusercontent.com/renan-souza/cv/master/publications/theses.bib"  target="_blank"><img src="/images/BibTeX.png" style="width:2.0em; border: 0" /></a>
 
 <table class="table table-hover">
 
@@ -66,7 +66,7 @@ Please, feel free to reach me if you need a preprint of a paper not available he
 
 </table>
 
-## <a id="journal-articles"><i class="fa fa-chevron-right"></i> Journal Articles </a> <a href="https://github.com/renan-souza/cv/blob/master/publications/journals.bib" target="_blank"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+## <a id="journal-articles"><a/> <i class="fa fa-chevron-right"></i> Journal Articles <a href="https://raw.githubusercontent.com/renan-souza/cv/master/publications/journals.bib"  target="_blank"><img src="/images/BibTeX.png" style="width:2.0em; border: 0" /></a>
 
 <table class="table table-hover">
 
@@ -120,7 +120,7 @@ Please, feel free to reach me if you need a preprint of a paper not available he
 
 </table>
 
-## <a id="conference-and-workshop-papers"><i class="fa fa-chevron-right"></i> Conference and Workshop Papers </a> <a href="https://github.com/renan-souza/cv/blob/master/publications/conferences-workshops.bib" target="_blank"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+## <a id="conference-and-workshop-papers"><a/> <i class="fa fa-chevron-right"></i> Conference and Workshop Papers <a href="https://raw.githubusercontent.com/renan-souza/cv/master/publications/conferences-workshops.bib"  target="_blank"><img src="/images/BibTeX.png" style="width:2.0em; border: 0" /></a>
 
 <table class="table table-hover">
 
@@ -366,7 +366,7 @@ Please, feel free to reach me if you need a preprint of a paper not available he
 
 </table>
 
-## <a id="patents"><i class="fa fa-chevron-right"></i> Patents </a> <a href="https://github.com/renan-souza/cv/blob/master/publications/patents.bib" target="_blank"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
+## <a id="patents"><a/> <i class="fa fa-chevron-right"></i> Patents <a href="https://raw.githubusercontent.com/renan-souza/cv/master/publications/patents.bib"  target="_blank"><img src="/images/BibTeX.png" style="width:2.0em; border: 0" /></a>
 
 <table class="table table-hover">
 

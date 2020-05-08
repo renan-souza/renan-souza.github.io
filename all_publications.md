@@ -10,4 +10,4 @@ title: Renan Souza's Publications
 
 ---
 
-Last updated on {% include last-updated.txt %}
+{% include foot.html %}
