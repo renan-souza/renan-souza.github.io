@@ -1,26 +1,41 @@
-name: Brandon Amos
-url: http://bamos.github.io
 destination: ./_site
-twitter: brandondamos
-lsi: false
-port: 4000
-markdown: kramdown
+exclude:
+- .travis.yml
+- validate.rb
+- README.md
+- Gemfile
+- Gemfile.lock
+- bower_components
+- update-vendor-deps.sh
+- vendor/bundle
+- vendor/bower.json
 future: true
+gems:
+- jekyll-sitemap
 kramdown:
   parse_block_html: true
   syntax_highlighter: rouge
+lsi: false
+markdown: kramdown
 permalink: pretty
-#paginate: 5
-gems:
-  - jekyll-sitemap
-
-exclude:
-  - .travis.yml
-  - validate.rb
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - bower_components
-  - update-vendor-deps.sh
-  - vendor/bundle
-  - vendor/bower.json
+personal:
+  description: Renan Souza's Website and CV
+  email: rfsouza@br.ibm.com
+  name:
+    first: Renan
+    last: Souza
+  pdf: /data/cv.pdf
+  site_h1: Renan Souza, Ph.D.
+  social:
+    dblp: Souza:Renan
+    facebook: renan.francisco.souza
+    github: renan-souza
+    google_scholar: x9t36ewAAAAJ
+    ibm: br-rfsouza
+    lattes: 4414741541160361
+    linkedin: renansouza1
+    research_gate: Renan_Souza9
+  src: https://github.com/renan-souza/cv
+  status: Data Science and Engineering Researcher at IBM Research
+  url: renan-souza.github.io
+port: 4444

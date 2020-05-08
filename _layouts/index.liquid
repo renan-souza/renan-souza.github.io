@@ -1,0 +1,102 @@
+---
+layout: base
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-1 vcenter idxHdr">
+      <div style='font-size: 2em; color: #4582ec; font-weight: bold; padding-bottom: 0.3em;'>
+        {{site.personal.site_h1}}
+      </div>
+      <div style='font-size: 1.2em;'>
+        {{ site.personal.status }}
+      </div>
+
+      <br/>
+
+      <div style="padding: 0.3em; background-color: #4582ec; display: inline-block; border-radius: 4px; font-size: 1.2em;">
+        <a href="/data/cv.pdf" target='_blank' style='text-decoration: none;'>
+          <i style='color: white' class="fa fa-download"></i>
+        </a>
+
+        <a href="/data/cv.pdf" target='_blank' style='color: white; text-decoration: none;'>Full CV</a>
+      </div>
+
+      <ul class="list-inline idxIcons" style='font-size: 1.9em; margin-top: 0.5em;'>
+        <li>
+          <a href="https://www.linkedin.com/in/{{site.personal.social.linkedin}}" target="_blank" title="LinkedIn">
+            <img src="/images/social/linkedin.png" class="img-icon"/>
+          </a>
+        </li>
+
+        <li>
+          <a href="mailto:{{site.personal.email}}" target="_blank" title="Email">
+            <img src="/images/social/email.png" class="img-icon"/>
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.facebook.com/{{site.personal.social.facebook}}" target="_blank" title="Facebook">
+            <img src="/images/social/facebook.png" class="img-icon"/>
+          </a>
+        </li>
+
+        <li>
+          <a href="https://github.com/{{site.personal.social.github}}" target="_blank" title="GitHub">
+            <img src="/images/social/github.png" class="img-icon"/>
+          </a>
+        </li>
+
+
+        <br/>
+
+        <li>
+          <a href="https://scholar.google.com.br/citations?user={{site.personal.social.google_scholar}}" target="_blank" title="Google Scholar">
+            <img src="/images/social/googlescholar.png" class="img-icon"/>
+          </a>
+        </li>
+
+        <li>
+            <a href="http://researcher.ibm.com/researcher/view.php?person={{site.personal.social.ibm}}" target="_blank" title="IBM Research Profile">
+                <img src="/images/social/ibm.png" class="img-icon"/>
+            </a>
+        </li>
+
+
+
+        <li>
+          <a href="https://www.researchgate.net/profile/{{site.personal.social.research_gate}}" target="_blank" title="Research Gate">
+            <img src="/images/social/researchgate.png" class="img-icon"/>
+           </a>
+        </li>
+
+
+        <li>
+          <a href="https://dblp.org/pers/s/{{site.personal.social.dblp}}.html" target="_blank" title="DBLP">
+              <img src="/images/social/dblp.png" class="img-icon"/>
+          </a>
+        </li>
+
+        <li>
+          <a href="http://lattes.cnpq.br/{{site.personal.social.lattes}}" target="_blank" title="Lattes">
+              <img src="/images/social/lattes.png" class="img-icon"/>
+          </a>
+        </li>
+
+      </ul>
+    </div>
+    <div class="col-md-2 vcenter idxHdr">
+      <a href="/images/{{ site.personal.name.first | downcase  }}-{{ site.personal.name.last | downcase }}.jpg">
+        <img src="/images/{{ site.personal.name.first| downcase  }}-{{ site.personal.name.last | downcase  }}.jpg"
+             style="border-radius: 20px; margin: 10px; max-width: none; width: 130%;"
+             alt="{{ site.personal.name.first }} {{ site.personal.name.last}}"/>
+      </a>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      {{ content }}
+    </div>
+  </div>
+</div>
