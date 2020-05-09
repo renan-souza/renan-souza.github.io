@@ -76,8 +76,14 @@ Please, feel free to reach me if you need a preprint of a paper not available he
     <strong>R. Souza</strong>, V. Silva, J. Camata, A. Coutinho, P. Valduriez, and M. Mattoso<br>
     Future Generation Computer Systems 2019<br>
     
-    [J1] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02127456/document' target='_blank'>pdf</a>] <br>
+    [J1] 
+[<a href='javascript: none'
+    onclick='$("#abs_souza_keeping_2019J").toggle()'>abstract</a>] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02127456' target='_blank'>pdf</a>]  [<a href='https://doi.org/10.1016/j.future.2019.05.011' target='_blank'>doi</a>] <br>
     
+<div id="abs_souza_keeping_2019J" style="text-align: justify; display: none" markdown="1">
+<strong>Abstract. </strong>In long-lasting scientific workflow executions in HPC machines, computational scientists (the users in this work) often need to fine-tune several workflow parameters. These tunings are done through user steering actions that may significantly improve performance (e.g., reduce execution time) or improve the overall results. However, in executions that last for weeks, users can lose track of what has been adapted if the tunings are not properly registered. In this work, we build on provenance data management to address the problem of tracking online parameter fine-tuning in dynamic workflows steered by users. We propose a lightweight solution to capture and manage provenance of the steering actions online with negligible overhead. The resulting provenance database relates tuning data with data for domain, dataflow provenance, execution, and performance, and is available for analysis at runtime. We show how users may get a detailed view of the execution, providing insights to determine when and how to tune. We discuss the applicability of our solution in different domains and validate its ability to allow for online capture and analyses of parameter fine-tunings in a real workflow in the Oil and Gas industry. In this experiment, the user could determine which tuned parameters influenced simulation accuracy and performance. The observed overhead for keeping track of user steering actions at runtime is less than 1% of total execution time.<br/><strong>Keywords: </strong> Dynamic workflows, Computational steering, Provenance data, Parameter tuning
+</div>
+
 </td>
 </tr>
 
@@ -88,7 +94,7 @@ Please, feel free to reach me if you need a preprint of a paper not available he
     V. Silva, L. Neves, <strong>R. Souza</strong>, A. Coutinho, D. de Oliveira, and M. Mattoso<br>
     Future Generation Computer Systems 2018<br>
     
-    [J2] [<a href='https://doi.org/10.1016/j.future.2018.05.078' target='_blank'>pdf</a>] <br>
+    [J2] [<a href='https://doi.org/10.1016/j.future.2018.05.078' target='_blank'>pdf</a>]  [<a href='https://doi.org/10.1016/j.future.2018.05.078' target='_blank'>doi</a>] <br>
     
 </td>
 </tr>
@@ -96,12 +102,18 @@ Please, feel free to reach me if you need a preprint of a paper not available he
 
 <tr>
 <td style="vertical-align: middle; text-align: justify;">
-    <strong>Data Reduction in Scientific Workflows using Provenance Monitoring and User Steering</strong><br>
+    <strong>Data Reduction in Scientific Workflows Using Provenance Monitoring and User Steering</strong><br>
     <strong>R. Souza</strong>, V. Silva, A. Coutinho, P. Valduriez, and M. Mattoso<br>
     Future Generation Computer Systems 2017<br>
     
-    [J3] [<a href='https://doi.org/10.1016/j.future.2017.11.028' target='_blank'>pdf</a>] <br>
+    [J3] 
+[<a href='javascript: none'
+    onclick='$("#abs_Souza2017DataJ").toggle()'>abstract</a>] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01679967/document' target='_blank'>pdf</a>]  [<a href='https://doi.org/10.1016/j.future.2017.11.028' target='_blank'>doi</a>] <br>
     
+<div id="abs_Souza2017DataJ" style="text-align: justify; display: none" markdown="1">
+<strong>Abstract. </strong>Scientific workflows need to be iteratively, and often interactively, executed for large input datasets. Reducing data from input datasets is a powerful way to reduce overall execution time in such workflows. When this is accomplished online (i.e., without requiring the user to stop execution to reduce the data, and then resume), it can save much time. However, determining which subsets of the input data should be removed becomes a major problem. A related problem is to guarantee that the workflow system will maintain execution and data consistent with the reduction. Keeping track of how users interact with the workflow is essential for data provenance purposes. In this paper, we adopt the “human-in-the-loop” approach, which enables users to steer the running workflow and reduce subsets from datasets online. We propose an adaptive workflow monitoring approach that combines provenance data monitoring and computational steering to support users in analyzing the evolution of key parameters and determining the subset of data to remove. We extend a provenance data model to keep track of users’ interactions when they reduce data at runtime. In our experimental validation, we develop a test case from the oil and gas domain, using a 936-cores cluster. The results on this test case show that the approach yields reductions of 32% of execution time and 14% of the data processed.<br/><strong>Keywords: </strong> Scientific Workflows, Human in the Loop, Online Data Reduction, Provenance Data, Dynamic Workflows
+</div>
+
 </td>
 </tr>
 
@@ -112,7 +124,7 @@ Please, feel free to reach me if you need a preprint of a paper not available he
     M. de Bayser, P. Cavalin, <strong>R. Souza</strong>, A. Braz, H. Candello, C. Pinhanez, and J. Briot<br>
     arXiv preprint Computation and Language (cs.CL) 2017<br>
     
-    [J4] [<a href='https://arxiv.org/abs/1705.01214' target='_blank'>pdf</a>] <br>
+    [J4] [<a href='https://arxiv.org/abs/1705.01214' target='_blank'>pdf</a>]  [<a href='https://doi.org/arXiv:1705.01214' target='_blank'>doi</a>] <br>
     
 </td>
 </tr>
@@ -178,8 +190,14 @@ Please, feel free to reach me if you need a preprint of a paper not available he
     <strong>R. Souza</strong>, L. Azevedo, R. Thiago, E. Soares, M. Nery, M. Netto, E. Brazil, R. Cerqueira, P. Valduriez, and M. Mattoso<br>
     IEEE International Conference on e-Science (eScience) 2019<br>
     
-    [C5] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02265932' target='_blank'>pdf</a>] <br>
+    [C5] 
+[<a href='javascript: none'
+    onclick='$("#abs_souza_efficient_2019C").toggle()'>abstract</a>] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02265932' target='_blank'>pdf</a>]  [<a href='https://doi.org/10.1109/eScience.2019.00047' target='_blank'>doi</a>] <br>
     
+<div id="abs_souza_efficient_2019C" style="text-align: justify; display: none" markdown="1">
+<strong>Abstract. </strong>Computational  Science  and  Engineering  (CSE) projects are typically developed by multidisciplinary teams. Despite being part of the same project, each team manages its own workflows, using  specific  execution  environments  and  data processingtools. Analyzing the data processed by all workflows globally is a core task in a CSE project. However, this analysis ishard because the data generated by these workflows are not integrated. In addition, since these workflows may take a long time to execute, data analysis needs to be done at runtime to reduce cost and time of the CSE project. A typical solution in scientific data analysis is to capture and relate the data in a provenance database while the workflows run, thus allowing for data analysisat runtime. However, the main problem is that such data capture competes with the running workflows, adding significant overhead to their execution. To mitigate this problem, we introduce in this paper a system called ProvLake, which adopts design principles for providing efficientdistributed data capture from the workflows. While capturing the data, ProvLake logically integrates and ingests them into a provenance database ready for analysesat runtime. We validated  ProvLake ina  real  use  case  in  the  O&G  industry encompassingfour workflows that process 5TB datasets for a deep learning classifier. Compared with Komadu, the closest solution that meets our goals, our approach enables runtime multiworkflow data analysis with much smaller overhead, such as 0.1%.<br/><strong>Keywords: </strong> Multiworkflow provenance, Multi-Data Lineage, Data Lake Provenance, ProvLake
+</div>
+
 </td>
 </tr>
 
@@ -202,8 +220,14 @@ Please, feel free to reach me if you need a preprint of a paper not available he
     <strong>R. Souza</strong>, L. Azevedo, V. Lourenço, E. Soares, R. Thiago, R. Brandão, D. Civitarese, E. Vital Brazil, M. Moreno, P. Valduriez, M. Mattoso, R. Cerqueira, and M. A. S. Netto<br>
     Workflows in Support of Large-Scale Science (WORKS) co-located with the ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2019<br>
     
-    [C7] [<a href='https://arxiv.org/pdf/1910.04223' target='_blank'>pdf</a>] <br>
+    [C7] 
+[<a href='javascript: none'
+    onclick='$("#abs_souza_provenancedata_2019C").toggle()'>abstract</a>] [<a href='https://arxiv.org/pdf/1910.04223' target='_blank'>pdf</a>]  [<a href='https://doi.org/10.1109/WORKS49585.2019.00006' target='_blank'>doi</a>] <br>
     
+<div id="abs_souza_provenancedata_2019C" style="text-align: justify; display: none" markdown="1">
+<strong>Abstract. </strong>Machine Learning (ML) has become essential in several industries. In Computational Science and Engineering (CSE), the complexity of the ML lifecycle comes from the large variety of data, scientists' expertise, tools, and workflows. If data are not tracked properly during the lifecycle, it becomes unfeasible to recreate a ML model from scratch or to explain to stakeholders how it was created. The main limitation of provenance tracking solutions is that they cannot cope with provenance capture and integration of domain and ML data processed in the multiple workflows in the lifecycle while keeping the provenance capture overhead low. To handle this problem, in this paper we contribute with a detailed characterization of provenance data in the ML lifecycle in CSE; a new provenance data representation, called PROV-ML, built on top of W3C PROV and ML Schema; and extensions to a system that tracks provenance from multiple workflows to address the characteristics of ML and CSE, and to allow for provenance queries with a standard vocabulary. We show a practical use in a real case in the Oil and Gas industry, along with its evaluation using 48 GPUs in parallel.<br/><strong>Keywords: </strong> Machine Learning Lifecycle, Workflow Provenance, Computational Science and Engineering
+</div>
+
 </td>
 </tr>
 
