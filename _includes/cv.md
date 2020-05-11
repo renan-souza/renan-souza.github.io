@@ -23,7 +23,10 @@ for complete information on education, professional experience, and technical sk
 </p>
 
 
-## <i class="fa fa-chevron-right"></i> Selected Publications <a href="https://raw.githubusercontent.com/renan-souza/cv/master/publications/selected.bib"  target="_blank"><img src="/images/BibTeX.png" style="width:2.0em; border: 0" /></a>
+<h2><i class="fa fa-chevron-right"></i> Selected Publications <a href="https://raw.githubusercontent.com/renan-souza/cv/master/publications/selected.bib"  target="_blank"><img src="/images/BibTeX.png" style="width:2.0em; border: 0" /></a><a href="/all_publications"><span style="font-size: 60%"><strong>All publications</strong></span></h2>
+
+
+
 
 <table class="table table-hover">
 
