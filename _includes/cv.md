@@ -16,9 +16,9 @@ for complete information on education, professional experience, and technical sk
 
 <p style="text-align: justfy">
         Large-scale Data Science and Engineering &bull;
-        Parallel Execution of Workflows and Big Data Provenance &bull;
+        Parallel Workflows and Big Data Provenance &bull;
         Big Data Analytics &bull;
-        Grid, Cluster, and Cloud Computing &bull;
+        High Performance Computing in Clusters and Clouds &bull;
         Machine Learning &bull;
 </p>
 
@@ -28,7 +28,7 @@ for complete information on education, professional experience, and technical sk
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3" style="vertical-align: middle;"><a href='https://arxiv.org/pdf/1910.04223' target='_blank'><img src="images/publications/souza_provenancedata_2019.png"/></a> </td>
+<td class="col-md-3 hidden-xs" style="vertical-align: middle;"><a href='https://arxiv.org/pdf/1910.04223' target='_blank'><img src="images/publications/souza_provenancedata_2019.png"/></a> </td>
 <td style="vertical-align: middle; text-align: justify;">
     <strong>Provenance Data in the Machine Learning Lifecycle in Computational Science and Engineering</strong><br>
     <strong>R. Souza</strong>, L. Azevedo, V. Lourenço, E. Soares, R. Thiago, R. Brandão, D. Civitarese, E. Vital Brazil, M. Moreno, P. Valduriez, M. Mattoso, R. Cerqueira, and M. A. S. Netto<br>
@@ -47,7 +47,7 @@ for complete information on education, professional experience, and technical sk
 
 
 <tr>
-<td class="col-md-3" style="vertical-align: middle;"><a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02265932' target='_blank'><img src="images/publications/souza_efficient_2019.png"/></a> </td>
+<td class="col-md-3 hidden-xs" style="vertical-align: middle;"><a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02265932' target='_blank'><img src="images/publications/souza_efficient_2019.png"/></a> </td>
 <td style="vertical-align: middle; text-align: justify;">
     <strong>Efficient Runtime Capture of Multiworkflow Data Using Provenance</strong><br>
     <strong>R. Souza</strong>, L. Azevedo, R. Thiago, E. Soares, M. Nery, M. Netto, E. Brazil, R. Cerqueira, P. Valduriez, and M. Mattoso<br>
@@ -66,7 +66,7 @@ for complete information on education, professional experience, and technical sk
 
 
 <tr>
-<td class="col-md-3" style="vertical-align: middle;"><a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02127456' target='_blank'><img src="images/publications/souza_keeping_2019.png"/></a> </td>
+<td class="col-md-3 hidden-xs" style="vertical-align: middle;"><a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02127456' target='_blank'><img src="images/publications/souza_keeping_2019.png"/></a> </td>
 <td style="vertical-align: middle; text-align: justify;">
     <strong>Keeping Track of User Steering Actions in Dynamic Workflows</strong><br>
     <strong>R. Souza</strong>, V. Silva, J. Camata, A. Coutinho, P. Valduriez, and M. Mattoso<br>
@@ -85,7 +85,7 @@ for complete information on education, professional experience, and technical sk
 
 
 <tr>
-<td class="col-md-3" style="vertical-align: middle;"><a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01679967/document' target='_blank'><img src="images/publications/Souza2017Data.png"/></a> </td>
+<td class="col-md-3 hidden-xs" style="vertical-align: middle;"><a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01679967/document' target='_blank'><img src="images/publications/Souza2017Data.png"/></a> </td>
 <td style="vertical-align: middle; text-align: justify;">
     <strong>Data Reduction in Scientific Workflows Using Provenance Monitoring and User Steering</strong><br>
     <strong>R. Souza</strong>, V. Silva, A. Coutinho, P. Valduriez, and M. Mattoso<br>
