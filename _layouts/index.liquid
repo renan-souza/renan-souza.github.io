@@ -16,12 +16,22 @@ layout: base
       <br/>
 
       <div style="padding: 0.3em; background-color: #4582ec; display: inline-block; border-radius: 4px; font-size: 1.2em;">
-        <a href="/data/cv.pdf" target='_blank' style='text-decoration: none;'>
-          <i style='color: white' class="fa fa-download"></i>
+        <a href="/data/{{ site.personal.name.first }}-{{ site.personal.name.last }}-CV-{{ site.date }}.pdf" target='_blank' style='color: white; text-decoration: none;'>
+            <i style='color: white' class="fa fa-download"></i>
+            Full CV
         </a>
-
-        <a href="/data/cv.pdf" target='_blank' style='color: white; text-decoration: none;'>Full CV</a>
       </div>
+
+
+      &nbsp;
+
+      <div style="padding: 0.3em; background-color: #4582ec; display: inline-block; border-radius: 4px; font-size: 1.2em;">
+        <a href="/data/{{ site.personal.name.first }}-{{ site.personal.name.last }}-CV-short-{{ site.date }}.pdf" target='_blank' style='color: white; text-decoration: none;'>
+            <i style='color: white' class="fa fa-download"></i>Short CV
+        </a>
+      </div>
+
+
 
       <ul class="list-inline idxIcons" style='font-size: 1.9em; margin-top: 0.5em;'>
         <li>

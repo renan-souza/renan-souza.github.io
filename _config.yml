@@ -1,3 +1,4 @@
+date: '2020-05-12'
 destination: ./_site
 exclude:
 - .travis.yml
@@ -24,7 +25,6 @@ personal:
   name:
     first: Renan
     last: Souza
-  pdf: /data/cv.pdf
   site_h1: Renan Souza, Ph.D.
   social:
     dblp: Souza:Renan
@@ -37,5 +37,5 @@ personal:
     research_gate: Renan_Souza9
   src: https://github.com/renan-souza/cv
   status: Data Science and Engineering Researcher at IBM Research
-  url: renan-souza.github.io
+  url: RenanSouza.org
 port: 4444
