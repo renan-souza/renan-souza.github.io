@@ -1,15 +1,15 @@
 ## <i class="fa fa-chevron-right"></i> Bio
 
 <p style="text-align: justify;">
-    Renan Francisco Santos Souza holds a Ph.D. (2019) and a M.Sc. (2015) in Computer Science from [COPPE/Federal University of Rio de Janeiro](https://www.cos.ufrj.br) (UFRJ), and a [B.Sc. in Computer Science](https://dcc.ufrj.br) from UFRJ (2009-2013). Since 2015, he works at [IBM Research Brazil](https://www.research.ibm.com/labs/brazil/), where he is a Research Scientist in the [Industrial Cloud Technologies](https://researcher.watson.ibm.com/researcher/view_group_pubs.php?grp=5113) group. He has been working both as a software engineer and a researcher in several projects since 2010 and has been actively publishing scientific papers in international conferences and referred journals since 2014. During his B.Sc., he spent a school year at [Missouri State University](https://www.missouristate.edu/) and did a summer internship at [Stanford University](https://www.stanford.edu/) in the [SLAC](https://www6.slac.stanford.edu/) National Laboratory. During his Ph.D., he was a visiting researcher at [Inria/Univ. Montpellier](https://team.inria.fr/zenith/) in France in 2019. In 2017, he won the best M.Sc. thesis award from SBBD, the main conference on data management in Latin America. He does research on large-scale data science and engineering for the support of Artificial Intelligence systems.
+    Renan Francisco Santos Souza holds a Ph.D. (2019) and an M.Sc. (2015) in Computer Science from [COPPE/Federal University of Rio de Janeiro](https://www.cos.ufrj.br) (UFRJ), and a [B.Sc. in Computer Science](https://dcc.ufrj.br) from UFRJ (2009-2013). Since 2015, he works at [IBM Research Brazil](https://www.research.ibm.com/labs/brazil/), where he is a Research Scientist in the [Industrial Cloud Technologies](https://researcher.watson.ibm.com/researcher/view_group_pubs.php?grp=5113) group. He has been working both as a software engineer and a researcher in several projects since 2010 and has been actively publishing scientific papers in refereed international conferences and journals since 2014. During his B.Sc., he spent a school year at [Missouri State University](https://www.missouristate.edu/) and did a summer internship at [Stanford University](https://www.stanford.edu/) in the [SLAC](https://www6.slac.stanford.edu/) National Laboratory. During his Ph.D., he was a visiting researcher at [Inria/Univ. Montpellier](https://team.inria.fr/zenith/) in France in 2019. In 2017, he won the best M.Sc. thesis award from SBBD, the main conference on data management in Latin America. He researches large-scale data science and engineering techniques for the support of Artificial Intelligence systems.
 </p>
 
 
-See my 
-<a href="data/cv.pdf" target='_blank' class="fa fa-download">
+See 
+<a href="data/Renan-Souza-CV-2020-05-12.pdf" target='_blank' class="fa fa-download">
     Full CV
 </a>
-for complete information on education, professional experience, and technical skills.
+for complete information about education, professional experience, and technical skills.
 
 
 ## <i class="fa fa-chevron-right"></i> Research Interests
