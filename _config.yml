@@ -20,7 +20,7 @@ markdown: kramdown
 permalink: pretty
 personal:
   description: Renan Souza's Website and CV
-  email: renan@renansouza.org
+  email: contact@renansouza.org
   name:
     first: Renan
     last: Souza
@@ -38,4 +38,4 @@ personal:
   status: Data Science and Engineering Researcher at IBM Research
   url: RenanSouza.org
 port: 4444
-today: '2020-05-12'
+today: '2020-05-17'
