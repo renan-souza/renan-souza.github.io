@@ -11,7 +11,7 @@ Please, feel free to reach me if you need a presentation not available here.
 
   <td><b>Open Subsurface Data Universe Development Workshop</b> 
  in 
-    in Houston, TX
+    Houston, TX
     <br/>
     
     
@@ -29,7 +29,7 @@ Please, feel free to reach me if you need a presentation not available here.
   <td><b>IEEE/ACM Supercomputing (SC)</b> 
         <a href="https://sc19.supercomputing.org" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
-    in Denver, CO
+    Denver, CO
     <br/>
  
             <i>Workflows in Support of Large-scale Science (WORKS)</i>
@@ -56,7 +56,7 @@ Please, feel free to reach me if you need a presentation not available here.
 
   <td><b>SciDISC Workhsop</b> 
  in 
-    in Rio de Janeiro, Brazil
+    Rio de Janeiro, Brazil
     <br/>
         <ul>
                <li>
@@ -81,7 +81,7 @@ Please, feel free to reach me if you need a presentation not available here.
 
   <td><b>Open Subsurface Data Universe F2F Meeting</b> 
  in 
-    in Houston, TX
+    Houston, TX
     <br/>
     
     
@@ -99,7 +99,7 @@ Please, feel free to reach me if you need a presentation not available here.
   <td><b>IEEE International Conference on e-Science</b> 
         <a href="https://escience2019.sdsc.edu" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
-    in San Diego, CA
+    San Diego, CA
     <br/>
         <ul>
                <li>
@@ -125,7 +125,7 @@ Please, feel free to reach me if you need a presentation not available here.
   <td><b>INRIA Talks</b> 
         <a href="https://team.inria.fr/zenith/zenith-seminar-renan-souza-15-jan-2019/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
-    in Montpellier, France
+    Montpellier, France
     <br/>
         <ul>
                <li>
@@ -150,7 +150,7 @@ Please, feel free to reach me if you need a presentation not available here.
 
   <td><b>IBM Regional Technical Exchange</b> 
  in 
-    in Rio de Janeiro, Brazil
+    Rio de Janeiro, Brazil
     <br/>
     
     
@@ -168,7 +168,7 @@ Please, feel free to reach me if you need a presentation not available here.
   <td><b>Provenance Week</b> 
         <a href="http://provenanceweek.org/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
-    in London, UK
+    London, UK
     <br/>
  
             <i>International Provenance and Annotation Workshop (IPAW)</i>
@@ -209,7 +209,7 @@ Please, feel free to reach me if you need a presentation not available here.
   <td><b>International Conference on Very Large Databases (VLDB)</b> 
         <a href="http://vldb2018.lncc.br/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
-    in Rio de Janeiro, Brazil
+    Rio de Janeiro, Brazil
     <br/>
  
             <i>Latin American Data Science Workshop</i>
@@ -236,7 +236,7 @@ Please, feel free to reach me if you need a presentation not available here.
   <td><b>SBC Brazilian Syposium on Databases (SBBD)</b> 
         <a href="http://sbbd.org.br/2018/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
-    in Rio de Janeiro, Brazil
+    Rio de Janeiro, Brazil
     <br/>
     
     
@@ -254,7 +254,7 @@ Please, feel free to reach me if you need a presentation not available here.
   <td><b>SBC Brazilian Syposium on Databases (SBBD)</b> 
         <a href="http://sbbd.org.br/2017/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
-    in Uberlandia, Brazil
+    Uberlandia, Brazil
     <br/>
         <ul>
                <li>
@@ -283,7 +283,7 @@ Please, feel free to reach me if you need a presentation not available here.
 
   <td><b>Federal University of Uberlandia, Brazil</b> 
  in 
-    in Uberlandia, Brazil
+    Uberlandia, Brazil
     <br/>
         <ul>
                <li>
@@ -308,7 +308,7 @@ Please, feel free to reach me if you need a presentation not available here.
 
   <td><b>Hacker at the Smart City Cloud Hackathon OpenStack Rio</b> 
  in 
-    in Rio de Janeiro, Brazil
+    Rio de Janeiro, Brazil
     <br/>
     
     
@@ -325,7 +325,7 @@ Please, feel free to reach me if you need a presentation not available here.
 
   <td><b>Computer Science Week at UFRJ</b> 
  in 
-    in Rio de Janeiro, Brazil
+    Rio de Janeiro, Brazil
     <br/>
         <ul>
                <li>
@@ -350,7 +350,7 @@ Please, feel free to reach me if you need a presentation not available here.
 
   <td><b>SBC Brazilian Conference on Artificial Intelligence (BRACIS)</b> 
  in 
-    in Recife, Brazil
+    Recife, Brazil
     <br/>
         <ul>
                <li>
@@ -376,7 +376,7 @@ Please, feel free to reach me if you need a presentation not available here.
 
   <td><b>IEEE/ACM Supercomputing (SC)</b> 
  in 
-    in Salt Lake City, UT
+    Salt Lake City, UT
     <br/>
  
             <i>Workflows in Support of Large-scale Science (WORKS)</i>
@@ -402,7 +402,7 @@ Please, feel free to reach me if you need a presentation not available here.
 
   <td><b>ASE BigData/SocialCom/CyberSecurity</b> 
  in 
-    in Stanford University, Menlo Park, CA
+    Stanford University, Menlo Park, CA
     <br/>
         <ul>
                <li>

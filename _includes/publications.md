@@ -428,15 +428,15 @@ Please, feel free to reach me if you need a preprint of a paper not available he
 <td style="vertical-align: middle; text-align: justify;">
     
             <strong>Ravel: A MAS orchestration platform for Human-Chatbots Conversations</strong><br>
-            M. de Bayser, C. Pinhanez, H. Candello, M. Affonso, M. Vasconcelos, M. Guerra, P. Cavalin, and <strong>R. Souza</strong><br><i>The 6th International Workshop on Engineering Multi-Agent Systems (EMAS@AAMAS 2018)</i>, 2018.<br>
+            M. de Bayser, C. Pinhanez, H. Candello, M. Affonso, M. Vasconcelos, M. Guerra, P. Cavalin, and <strong>R. Souza</strong><br><i>International Workshop on Engineering Multi-Agent Systems (EMAS@AAMAS 2018)</i>, 2018.<br>
             
-            [C12] 
+            [C12] [<a href='http://emas2018.dibris.unige.it/images/papers/EMAS18-19.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_de2018ravelC").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_de2018ravelC" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@inproceedings&#123;de2018ravel,<br/>&nbsp;&nbsp;author = &#123;de Bayser, Maira Gatti and Pinhanez, Claudio and Candello, Heloisa and Affonso, Marisa and Vasconcelos, Mauro Pichiliani and Guerra, Melina Alberio and Cavalin, Paulo and Souza, Renan&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;The 6th International Workshop on Engineering Multi-Agent Systems (EMAS@AAMAS 2018)&#125;,<br/>&nbsp;&nbsp;title = &#123;Ravel: A MAS orchestration platform for Human-Chatbots Conversations&#125;,<br/>&nbsp;&nbsp;year = &#123;2018&#125;<br/>&#125;<br/><br/>
+@inproceedings&#123;de2018ravel,<br/>&nbsp;&nbsp;author = &#123;de Bayser, Maira Gatti and Pinhanez, Claudio and Candello, Heloisa and Affonso, Marisa and Vasconcelos, Mauro Pichiliani and Guerra, Melina Alberio and Cavalin, Paulo and Souza, Renan&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;International Workshop on Engineering Multi-Agent Systems (EMAS@AAMAS 2018)&#125;,<br/>&nbsp;&nbsp;pdf = &#123;http://emas2018.dibris.unige.it/images/papers/EMAS18-19.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Ravel: A MAS orchestration platform for Human-Chatbots Conversations&#125;,<br/>&nbsp;&nbsp;year = &#123;2018&#125;<br/>&#125;<br/><br/>
 </div>
 
         
