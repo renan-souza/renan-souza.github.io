@@ -54,7 +54,7 @@ Please, feel free to reach me if you need a presentation not available here.
 </tr>
 <tr>  
 
-  <td><b>SciDISC Workhsop</b> 
+  <td><b>SciDISC Workshop</b> 
  in 
     Rio de Janeiro, Brazil
     <br/>
@@ -213,6 +213,7 @@ Please, feel free to reach me if you need a presentation not available here.
     <br/>
  
             <i>Latin American Data Science Workshop</i>
+                <a href="https://eic.cefet-rj.br/ladas2018/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
             <br/>
                 <ul>
                     <li>
@@ -356,7 +357,6 @@ Please, feel free to reach me if you need a presentation not available here.
                <li>
                  Graph Analytics with Spark,
                    Tutorial
-                       , <a href="https://cin.ufpe.br/~bracis2016/tutorials-kdmile.html" target="_blank">link</a>                                
                </li> 
             
         </ul>
