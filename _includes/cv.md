@@ -6,7 +6,7 @@
 
 
 See 
-<a href="data/Renan-Souza-CV.pdf" target='_blank' class="fa fa-download">
+<a href="/cv" target='_blank' class="fa fa-download">
     Full CV
 </a>
 for complete information about education, professional experience, and technical skills.

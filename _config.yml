@@ -19,7 +19,6 @@ lsi: false
 markdown: kramdown
 permalink: pretty
 personal:
-  cv_url: https://renansouza.org/cv
   description: Renan Souza's Website and CV
   email: contact@renansouza.org
   keywords: renan, renan francisco, renan souza, renan francisco santos souza, renan
