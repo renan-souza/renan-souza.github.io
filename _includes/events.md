@@ -9,6 +9,82 @@ Please, feel free to reach me if you need a presentation not available here.
 <table class="table table-hover">
 <tr>  
 
+  <td><b>International Conference on Management of Data (SIGMOD)</b> 
+ in 
+    Portland, OR. (virtual)
+    <br/>
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2020 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
+  <td><b>Brazilian Symposium on Databases (SBBD)</b> 
+ in 
+    Rio (virtual)
+    <br/>
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2020 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
+  <td><b>High-Performance Data Science workshop</b> 
+ in 
+    Rio (virtual)
+    <br/>
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2020 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
+  <td><b>Seminarios de Engenharia e Ciencia Computacional</b> 
+ in 
+    Rio (virtual)
+    <br/>
+        <ul>
+               <li>
+                 Workflow Provenance in the Lifecycle of Scientific Machine Learning,
+                   Oral presentation
+               </li> 
+            
+        </ul>
+        
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2020 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
   <td><b>Open Subsurface Data Universe Development Workshop</b> 
  in 
     Houston, TX

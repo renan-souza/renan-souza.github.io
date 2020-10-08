@@ -97,10 +97,58 @@ Please, feel free to reach me if you need a preprint of a paper not available he
 <tr>
 <td style="vertical-align: middle; text-align: justify;">
     
+            <strong>Workflow Provenance in the Lifecycle of Scientific Machine Learning</strong><br>
+            <strong>R. Souza</strong>, L. Azevedo, V. Lourenço, E. Soares, R. Thiago, R. Brandão, D. Civitarese, E. Brazil, M. Moreno, P. Valduriez, M. Mattoso, R. Cerqueira, and M. Netto<br><i>arXiv preprint Databases (cs.DB)</i>, 2020.<br>
+            
+            [J1] 
+[<a href='javascript: none'
+    onclick='$("#abs_asouza2020workflowJ").toggle()'>abstract</a>] [<a href='https://arxiv.org/abs/2010.00330' target='_blank'>online</a>]  [<a href='https://arxiv.org/pdf/2010.00330.pdf' target='_blank'>pdf</a>]  
+            [<a href='javascript: none'
+            onclick='$("#bib_asouza2020workflowJ").toggle()'>bibtex</a>]<br>
+            
+<div id="abs_asouza2020workflowJ" style="text-align: justify; display: none" markdown="1">
+<strong>Abstract. </strong>Machine Learning (ML) has already fundamentally changed several businesses. More recently, it has also been profoundly impacting the computational science and engineering domains, like geoscience, climate science, and health science. In these domains, users need to perform comprehensive data analyses combining scientific data and ML models to provide for critical requirements, such as reproducibility, model explainability, and experiment data understanding.  However, scientific ML is multidisciplinary, heterogeneous, and affected by the physical constraints of the domain, making such analyses even more challenging. In this work, we leverage workflow provenance techniques to build a holistic view to support the lifecycle of scientific ML.
+We contribute with (i) characterization of the lifecycle and taxonomy for data analyses; (ii) design principles to build this view, with a W3C PROV compliant data representation and a reference system architecture; and (iii) lessons learned after an evaluation in an Oil & Gas case using an HPC cluster with 393 nodes and 946 GPUs.
+The experiments show that the principles enable queries that integrate domain semantics with ML models while keeping low overhead (<1%), high scalability, and an order of magnitude of query acceleration under certain workloads against without our representation.
+</div>
+
+            
+<div id="bib_asouza2020workflowJ" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@article&#123;asouza2020workflow,<br/>&nbsp;&nbsp;abstract = &#123;Machine Learning (ML) has already fundamentally changed several businesses. More recently, it has also been profoundly impacting the computational science and engineering domains, like geoscience, climate science, and health science. In these domains, users need to perform comprehensive data analyses combining scientific data and ML models to provide for critical requirements, such as reproducibility, model explainability, and experiment data understanding.  However, scientific ML is multidisciplinary, heterogeneous, and affected by the physical constraints of the domain, making such analyses even more challenging. In this work, we leverage workflow provenance techniques to build a holistic view to support the lifecycle of scientific ML.<br/>We contribute with (i) characterization of the lifecycle and taxonomy for data analyses; (ii) design principles to build this view, with a W3C PROV compliant data representation and a reference system architecture; and (iii) lessons learned after an evaluation in an Oil \& Gas case using an HPC cluster with 393 nodes and 946 GPUs.<br/>The experiments show that the principles enable queries that integrate domain semantics with ML models while keeping low overhead (<1\%), high scalability, and an order of magnitude of query acceleration under certain workloads against without our representation.&#125;,<br/>&nbsp;&nbsp;author = &#123;Renan Souza and Leonardo G. Azevedo and Vítor Lourenço and Elton Soares and Raphael Thiago and Rafael Brandão and Daniel Civitarese and Emilio Vital Brazil and Marcio Moreno and Patrick Valduriez and Marta Mattoso and Renato Cerqueira and Marco A. S. Netto&#125;,<br/>&nbsp;&nbsp;journal = &#123;arXiv preprint Databases (cs.DB)&#125;,<br/>&nbsp;&nbsp;link = &#123;https://arxiv.org/abs/2010.00330&#125;,<br/>&nbsp;&nbsp;pages = &#123;1--21&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://arxiv.org/pdf/2010.00330.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Workflow Provenance in the Lifecycle of Scientific Machine Learning&#125;,<br/>&nbsp;&nbsp;year = &#123;2020&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
+            <strong>Adding Hyperknowledge-enabled data lineage to a machine learning workflow management system for oil and gas</strong><br>
+            L. Azevedo, <strong>R. Souza</strong>, R. Brandão, V. Lourenço, M. Costalonga, M. de OC Machado, M. Moreno, and R. Cerqueira<br><i>First Break</i>, 2020.<br>
+            
+            [J2] [<a href='https://doi.org/10.3997/1365-2397.fb2020055' target='_blank'>doi</a>]  
+            [<a href='javascript: none'
+            onclick='$("#bib_azevedo2020addingJ").toggle()'>bibtex</a>]<br>
+            
+            
+<div id="bib_azevedo2020addingJ" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@article&#123;azevedo2020adding,<br/>&nbsp;&nbsp;author = &#123;Azevedo, Leonardo Guerreiro and Souza, Renan and Brandão, Rafael and Lourenço, Vítor N and Costalonga, Marcelo and de OC Machado, Marcelo and Moreno, Marcio and Cerqueira, Renato&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.3997/1365-2397.fb2020055&#125;,<br/>&nbsp;&nbsp;journal = &#123;First Break&#125;,<br/>&nbsp;&nbsp;number = &#123;7&#125;,<br/>&nbsp;&nbsp;pages = &#123;89--93&#125;,<br/>&nbsp;&nbsp;publisher = &#123;European Association of Geoscientists \& Engineers&#125;,<br/>&nbsp;&nbsp;title = &#123;Adding Hyperknowledge-enabled data lineage to a machine learning workflow management system for oil and gas&#125;,<br/>&nbsp;&nbsp;volume = &#123;38&#125;,<br/>&nbsp;&nbsp;year = &#123;2020&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
             <strong>Keeping Track of User Steering Actions in Dynamic Workflows</strong><br>
             <strong>R. Souza</strong>, V. Silva, J. Camata, A. Coutinho, P. Valduriez, and M. Mattoso<br><i>Future Generation Computer Systems</i>, 2019.<br>
             
-            [J1] 
+            [J3] 
 [<a href='javascript: none'
     onclick='$("#abs_souza_keeping_2019J").toggle()'>abstract</a>] [<a href='https://doi.org/10.1016/j.future.2019.05.011' target='_blank'>doi</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02127456/document' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -126,7 +174,7 @@ Please, feel free to reach me if you need a preprint of a paper not available he
             <strong>Adding Domain Data to Code Profiling Tools to Debug Workflow Parallel Execution</strong><br>
             V. Silva, L. Neves, <strong>R. Souza</strong>, A. Coutinho, D. de Oliveira, and M. Mattoso<br><i>Future Generation Computer Systems</i>, 2018.<br>
             
-            [J2] [<a href='https://doi.org/10.1016/j.future.2018.05.078' target='_blank'>doi</a>]  
+            [J4] [<a href='https://doi.org/10.1016/j.future.2018.05.078' target='_blank'>doi</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_silva_adding_2018J").toggle()'>bibtex</a>]<br>
             
@@ -146,7 +194,7 @@ Please, feel free to reach me if you need a preprint of a paper not available he
             <strong>Data Reduction in Scientific Workflows Using Provenance Monitoring and User Steering</strong><br>
             <strong>R. Souza</strong>, V. Silva, A. Coutinho, P. Valduriez, and M. Mattoso<br><i>Future Generation Computer Systems</i>, 2017.<br>
             
-            [J3] 
+            [J5] 
 [<a href='javascript: none'
     onclick='$("#abs_Souza2017DataJ").toggle()'>abstract</a>] [<a href='https://doi.org/10.1016/j.future.2017.11.028' target='_blank'>doi</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01679967/document' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -172,7 +220,7 @@ Please, feel free to reach me if you need a preprint of a paper not available he
             <strong>A Hybrid Architecture for Multi-party Conversational Systems</strong><br>
             M. de Bayser, P. Cavalin, <strong>R. Souza</strong>, A. Braz, H. Candello, C. Pinhanez, and J. Briot<br><i>arXiv preprint Computation and Language (cs.CL)</i>, 2017.<br>
             
-            [J4] [<a href='https://arxiv.org/abs/1705.01214' target='_blank'>online</a>]  [<a href='https://arxiv.org/pdf/1705.01214.pdf' target='_blank'>pdf</a>]  
+            [J6] [<a href='https://arxiv.org/abs/1705.01214' target='_blank'>online</a>]  [<a href='https://arxiv.org/pdf/1705.01214.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_de2017hybridJ").toggle()'>bibtex</a>]<br>
             
