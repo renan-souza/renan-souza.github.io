@@ -243,10 +243,50 @@ The experiments show that the principles enable queries that integrate domain se
 <tr>
 <td style="vertical-align: middle; text-align: justify;">
     
+            <strong>Cycle Orchestrator: A Knowledge-Based Approach for Structuring Cyclic ML Pipelines in the O&G Industry</strong><br>
+            R. Brand\~ao, V. Louren\c{c}o, M. Machado, L. Azevedo, M. Cardoso, <strong>R. Souza</strong>, G. Lima, R. Cerqueira, and M. Moreno<br><i>International Semantic Web Conference (ISWC)</i>, 2020.<br>
+            
+            [C1] 
+            [<a href='javascript: none'
+            onclick='$("#bib_brandao2020cycleC").toggle()'>bibtex</a>]<br>
+            
+            
+<div id="bib_brandao2020cycleC" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@inproceedings&#123;brandao2020cycle,<br/>&nbsp;&nbsp;author = &#123;Brand&#123;\~a&#125;o, Rafael and Louren&#123;\c&#123;c&#125;&#125;o, Vitor and Machado, Marcelo and Azevedo, Leonardo and Cardoso, Marcelo and Souza, Renan and Lima, Guilherme and Cerqueira, Renato and Moreno, Marcio&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;International Semantic Web Conference (ISWC)&#125;,<br/>&nbsp;&nbsp;title = &#123;Cycle Orchestrator: A Knowledge-Based Approach for Structuring Cyclic ML Pipelines in the O\&G Industry&#125;,<br/>&nbsp;&nbsp;year = &#123;2020&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
+            <strong>A Knowledge-Based Approach for Structuring Cyclic Workflows</strong><br>
+            R. Brand\~ao, V. Louren\c{c}o, M. Machado, L. Azevedo, M. Cardoso, <strong>R. Souza</strong>, G. Lima, R. Cerqueira, and M. Moreno<br><i>International Semantic Web Conference (ISWC)</i>, 2020.<br>
+            
+            [C2] 
+            [<a href='javascript: none'
+            onclick='$("#bib_brandao2020knowledgeC").toggle()'>bibtex</a>]<br>
+            
+            
+<div id="bib_brandao2020knowledgeC" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@inproceedings&#123;brandao2020knowledge,<br/>&nbsp;&nbsp;author = &#123;Brand&#123;\~a&#125;o, Rafael and Louren&#123;\c&#123;c&#125;&#125;o, Vitor and Machado, Marcelo and Azevedo, Leonardo and Cardoso, Marcelo and Souza, Renan and Lima, Guilherme and Cerqueira, Renato and Moreno, Marcio&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;International Semantic Web Conference (ISWC)&#125;,<br/>&nbsp;&nbsp;title = &#123;A Knowledge-Based Approach for Structuring Cyclic Workflows&#125;,<br/>&nbsp;&nbsp;year = &#123;2020&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
             <strong>Runtime Steering of Parallel CFD Simulations</strong><br>
             <strong>R. Souza</strong>, J. Camata, M. Mattoso, and A. Coutinho<br><i>International Conference on Parallel Computational Fluid Dynamics</i>, 2020.<br>
             
-            [C1] 
+            [C3] 
             [<a href='javascript: none'
             onclick='$("#bib_souza_runtime_2020C").toggle()'>bibtex</a>]<br>
             
@@ -266,7 +306,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Experiencing ProvLake to Manage the Data Lineage of AI Workflows</strong><br>
             L. Azevedo, <strong>R. Souza</strong>, R. Thiago, E. Soares, and M. Moreno<br><i>Meeting in Innovation in Information Systems (EISI) in Brazilian Symposium in Information Systems (SBSI)</i>, 2020.<br>
             
-            [C2] 
+            [C4] 
             [<a href='javascript: none'
             onclick='$("#bib_azevedo_experiencing_2020C").toggle()'>bibtex</a>]<br>
             
@@ -286,7 +326,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Modern Federated Databases: an Overview</strong><br>
             L. Azevedo, <strong>R. Souza</strong>, E. Soares, and M. Moreno<br><i>International Conference on Enterprise Information Systems (ICEIS)</i>, 2020.<br>
             
-            [C3] 
+            [C5] 
             [<a href='javascript: none'
             onclick='$("#bib_azevedo_federated_2020C").toggle()'>bibtex</a>]<br>
             
@@ -306,7 +346,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Supporting the Training of Physics Informed Neural Networks for Seismic Inversion Using Provenance</strong><br>
             <strong>R. Souza</strong>, A. Codas, J. Nogueira Junior, M. Quinones, L. Azevedo, R. Thiago, E. Soares, M. Cardoso, and L. Martins<br><i>American Association of Petroleum Geologists Annual Convention and Exhibition (AAPG)</i>, 2020.<br>
             
-            [C4] 
+            [C6] 
             [<a href='javascript: none'
             onclick='$("#bib_souza_aapg_2020C").toggle()'>bibtex</a>]<br>
             
@@ -326,7 +366,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Managing Data Lineage of O&G Machine Learning Models: The Sweet Spot for Shale Use Case</strong><br>
             R. Thiago, <strong>R. Souza</strong>, L. Azevedo, E. Soares, R. Santos, W. Santos, M. De Bayser, M. Cardoso, M. Moreno, and R. Cerqueira<br><i>European Association of Geoscientists and Engineers (EAGE) Digitalization Conference and Exhibition</i>, 2020.<br>
             
-            [C5] [<a href='https://doi.org/10.3997/2214-4609.202032075' target='_blank'>doi</a>]  [<a href='https://arxiv.org/pdf/2003.04915.pdf' target='_blank'>pdf</a>]  
+            [C7] [<a href='https://doi.org/10.3997/2214-4609.202032075' target='_blank'>doi</a>]  [<a href='https://arxiv.org/pdf/2003.04915.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_souza_eage_2020C").toggle()'>bibtex</a>]<br>
             
@@ -346,7 +386,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Efficient Runtime Capture of Multiworkflow Data Using Provenance</strong><br>
             <strong>R. Souza</strong>, L. Azevedo, R. Thiago, E. Soares, M. Nery, M. Netto, E. Brazil, R. Cerqueira, P. Valduriez, and M. Mattoso<br><i>IEEE International Conference on e-Science (eScience)</i>, 2019.<br>
             
-            [C6] 
+            [C8] 
 [<a href='javascript: none'
     onclick='$("#abs_souza_efficient_2019C").toggle()'>abstract</a>] [<a href='https://doi.org/10.1109/eScience.2019.00047' target='_blank'>doi</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02265932/document' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -372,7 +412,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Managing Data Traceability in the Data Lifecycle for Deep Learning Applied to Seismic Data</strong><br>
             <strong>R. Souza</strong>, E. Brazil, L. Azevedo, R. Ferreira, E. Soares, R. Thiago, M. Nery, V. Torres, and R. Cerqueira<br><i>American Association of Petroleum Geologists Annual Convention and Exhibition (AAPG)</i>, 2019.<br>
             
-            [C7] [<a href='https://www.searchanddiscovery.com/abstracts/html/2019/ace2019/abstracts/1718.html' target='_blank'>online</a>]  
+            [C9] [<a href='https://www.searchanddiscovery.com/abstracts/html/2019/ace2019/abstracts/1718.html' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_souza_managing_2019C").toggle()'>bibtex</a>]<br>
             
@@ -392,7 +432,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Provenance Data in the Machine Learning Lifecycle in Computational Science and Engineering</strong><br>
             <strong>R. Souza</strong>, L. Azevedo, V. Lourenço, E. Soares, R. Thiago, R. Brandão, D. Civitarese, E. Vital Brazil, M. Moreno, P. Valduriez, M. Mattoso, R. Cerqueira, and M. A. S. Netto<br><i>Workflows in Support of Large-Scale Science (WORKS) co-located with the ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>, 2019.<br>
             
-            [C8] 
+            [C10] 
 [<a href='javascript: none'
     onclick='$("#abs_souza_provenancedata_2019C").toggle()'>abstract</a>] [<a href='https://doi.org/10.1109/WORKS49585.2019.00006' target='_blank'>doi</a>]  [<a href='https://arxiv.org/pdf/1910.04223' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -418,7 +458,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Towards a human-in-the-loop library for tracking hyperparameter tuning in deep learning development</strong><br>
             <strong>R. Souza</strong>, L. Neves, L. Azeredo, R. Luiz, E. Tady, P. Cavalin, and M. Mattoso<br><i>Latin American Data Science (LaDaS) workshop co-located with the Very Large Database (VLDB) conference</i>, 2018.<br>
             
-            [C9] [<a href='http://ceur-ws.org/Vol-2170/paper12.pdf' target='_blank'>pdf</a>]  
+            [C11] [<a href='http://ceur-ws.org/Vol-2170/paper12.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_souza_towards_2018C").toggle()'>bibtex</a>]<br>
             
@@ -438,7 +478,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Capturing Provenance for Runtime Data Analysis in Computational Science and Engineering Applications</strong><br>
             V. Silva, <strong>R. Souza</strong>, J. Camata, D. de Oliveira, P. Valduriez, A. Coutinho, and M. Mattoso<br><i>Provenance and Annotation of Data and Processes - International Provenance and Annotation Workshop (IPAW)</i>, 2018.<br>
             
-            [C10] [<a href='https://doi.org/10.1007/978-3-319-98379-0_15' target='_blank'>doi</a>]  
+            [C12] [<a href='https://doi.org/10.1007/978-3-319-98379-0_15' target='_blank'>doi</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_Silva2018CapturingC").toggle()'>bibtex</a>]<br>
             
@@ -458,7 +498,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Provenance of Dynamic Adaptations in User-Steered Dataflows</strong><br>
             <strong>R. Souza</strong> and M. Mattoso<br><i>Provenance and Annotation of Data and Processes - International Provenance and Annotation Workshop (IPAW)</i>, 2018.<br>
             
-            [C11] [<a href='https://doi.org/10.1007/978-3-319-98379-0_2' target='_blank'>doi</a>]  [<a href='https://www.researchgate.net/publication/327460259_Provenance_of_Dynamic_Adaptations_in_User-Steered_Dataflows_7th_International_Provenance_and_Annotation_Workshop_IPAW_2018_London_UK_July_9-10_2018_Proceedings' target='_blank'>pdf</a>]  
+            [C13] [<a href='https://doi.org/10.1007/978-3-319-98379-0_2' target='_blank'>doi</a>]  [<a href='https://www.researchgate.net/publication/327460259_Provenance_of_Dynamic_Adaptations_in_User-Steered_Dataflows_7th_International_Provenance_and_Annotation_Workshop_IPAW_2018_London_UK_July_9-10_2018_Proceedings' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_Souza2018ProvenanceC").toggle()'>bibtex</a>]<br>
             
@@ -478,7 +518,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Ravel: A MAS orchestration platform for Human-Chatbots Conversations</strong><br>
             M. de Bayser, C. Pinhanez, H. Candello, M. Affonso, M. Vasconcelos, M. Guerra, P. Cavalin, and <strong>R. Souza</strong><br><i>International Workshop on Engineering Multi-Agent Systems (EMAS@AAMAS 2018)</i>, 2018.<br>
             
-            [C12] [<a href='http://emas2018.dibris.unige.it/images/papers/EMAS18-19.pdf' target='_blank'>pdf</a>]  
+            [C14] [<a href='http://emas2018.dibris.unige.it/images/papers/EMAS18-19.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_de2018ravelC").toggle()'>bibtex</a>]<br>
             
@@ -498,7 +538,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Scientific Data Analysis Using Data-Intensive Scalable Computing: the SciDISC Project</strong><br>
             P. Valduriez, M. Mattoso, R. Akbarinia, H. Borges, J. Camata, A. Coutinho, D. Gaspar, N. Lemus, J. Liu, H. Lustosa, F. Masseglia, F. Nogueira Da Silva, V. Silva, <strong>R. Souza</strong>, K. Ocaña, E. Ogasawara, D. Oliveira, E. Pacitti, F. Porto, and D. Shasha<br><i>LADaS: Latin America Data Science Workshop</i>, 2018.<br>
             
-            [C13] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01867804' target='_blank'>online</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01867804/file/ldas%202018%20-%20scidisc.pdf' target='_blank'>pdf</a>]  
+            [C15] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01867804' target='_blank'>online</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01867804/file/ldas%202018%20-%20scidisc.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_valduriez:lirmm-01867804C").toggle()'>bibtex</a>]<br>
             
@@ -518,7 +558,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Spark Scalability Analysis in a Scientific Workflow</strong><br>
             <strong>R. Souza</strong>, V. Silva, P. Miranda, A. Lima, P. Valduriez, and M. Mattoso<br><i>Simpósio Brasileiro de Banco de Dados (SBBD)</i>, 2017.<br>
             
-            [C14] [<a href='http://sbbd.org.br/2017/wp-content/uploads/sites/3/2018/02/p288-293.pdf' target='_blank'>pdf</a>]  
+            [C16] [<a href='http://sbbd.org.br/2017/wp-content/uploads/sites/3/2018/02/p288-293.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_Souza2017SparkC").toggle()'>bibtex</a>]<br>
             
@@ -538,7 +578,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Tracking of online parameter fine-tuning in scientific workflows</strong><br>
             <strong>R. Souza</strong>, V. Silva, J. Camata, A. Coutinho, P. Valduriez, and M. Mattoso<br><i>Workflows in Support of Large-Scale Science (WORKS) workshop  co-located with the ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>, 2017.<br>
             
-            [C15] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01620974' target='_blank'>online</a>]  
+            [C17] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01620974' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_Souza2017TrackingC").toggle()'>bibtex</a>]<br>
             
@@ -558,7 +598,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Integrating Domain-data Steering with Code-profiling Tools to Debug Data-intensive Workflows</strong><br>
             V. Silva, L. Neves, <strong>R. Souza</strong>, A. Coutinho, D. Oliveira, and M. Mattoso<br><i>Workflows in Support of Large-Scale Science (WORKS) workshop  co-located with the ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>, 2016.<br>
             
-            [C16] 
+            [C18] 
             [<a href='javascript: none'
             onclick='$("#bib_Silva2016IntegratingC").toggle()'>bibtex</a>]<br>
             
@@ -578,7 +618,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Online Input Data Reduction in Scientific Workflows</strong><br>
             <strong>R. Souza</strong>, V. Silva, A. Coutinho, P. Valduriez, and M. Mattoso<br><i>Workflows in Support of Large-Scale Science (WORKS) workshop  co-located with the ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>, 2016.<br>
             
-            [C17] [<a href='https://hal.archives-ouvertes.fr/lirmm-01400538' target='_blank'>online</a>]  
+            [C19] [<a href='https://hal.archives-ouvertes.fr/lirmm-01400538' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_Souza2016OnlineC").toggle()'>bibtex</a>]<br>
             
@@ -598,7 +638,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Applying data warehousing and big data techniques to analyze internet performance</strong><br>
             T. Barbosa, <strong>R. Souza</strong>, S. Cruz, M. Campos, and R. Cottrell, 2016.<br>
             
-            [C18] [<a href='https://www.slac.stanford.edu/pubs/slacpubs/16250/slac-pub-16464.pdf' target='_blank'>pdf</a>]  
+            [C20] [<a href='https://www.slac.stanford.edu/pubs/slacpubs/16250/slac-pub-16464.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_barbosa2016applyingC").toggle()'>bibtex</a>]<br>
             
@@ -618,7 +658,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Building a question-answering corpus using social media and news articles</strong><br>
             P. Cavalin, F. Figueiredo, M. de Bayser, L. Moyano, H. Candello, A. Appel, and <strong>R. Souza</strong><br><i>International Conference on Computational Processing of the Portuguese Language</i>, 2016.<br>
             
-            [C19] 
+            [C21] 
             [<a href='javascript: none'
             onclick='$("#bib_cavalin2016buildingC").toggle()'>bibtex</a>]<br>
             
@@ -638,7 +678,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Enhancing Energy Production with Exascale HPC Methods</strong><br>
             J. Camata, J. Cela, D. Costa, A. Coutinho, D. Fernández-Galisteo, C. Jimenez, V. Kourdioumov, M. Mattoso, R. Mayo-García, T. Miras, J. Moríñigo, J. Navarro, P. Navaux, D. De Oliveira, M. Rodríguez-Pascual, V. Silva, <strong>R. Souza</strong>, and P. Valduriez<br><i>CARLA: Latin American High Performance Computing Conference</i>, 2016.<br>
             
-            [C20] [<a href='https://doi.org/10.1007/978-3-319-57972-6\_17' target='_blank'>doi</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01654914' target='_blank'>online</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01654914/file/Enhancing%20Energy%20Production%20with%20Exascale%20HPC.pdf' target='_blank'>pdf</a>]  
+            [C22] [<a href='https://doi.org/10.1007/978-3-319-57972-6\_17' target='_blank'>doi</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01654914' target='_blank'>online</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01654914/file/Enhancing%20Energy%20Production%20with%20Exascale%20HPC.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_camata:lirmm-01654914C").toggle()'>bibtex</a>]<br>
             
@@ -658,7 +698,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Applying future Exascale HPC methodologies in the energy sector</strong><br>
             J. Camata, J. Cela, D. Costa, A. Coutinho, D. Fernández-Galisteo, C. Jiménez, V. Kourdioumov, M. Mattoso, R. Mayo-García, T. Miras, J. Moríñigo, J. Navarro, D. de Oliveira, M. Rodríguez-Pascual, V. Silva, <strong>R. Souza</strong>, and P. Valduriez<br><i>Russian Supercomputing Days</i>, 2016.<br>
             
-            [C21] [<a href='https://upcommons.upc.edu/handle/2117/90905' target='_blank'>online</a>]  [<a href='https://upcommons.upc.edu/bitstream/handle/2117/90905/Applying%20future%20Exascale%20HPC%20methodologies%20in%20the%20energy%20sector.pdf' target='_blank'>pdf</a>]  
+            [C23] [<a href='https://upcommons.upc.edu/handle/2117/90905' target='_blank'>online</a>]  [<a href='https://upcommons.upc.edu/bitstream/handle/2117/90905/Applying%20future%20Exascale%20HPC%20methodologies%20in%20the%20energy%20sector.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_camata_applying_2016C").toggle()'>bibtex</a>]<br>
             
@@ -678,7 +718,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Parallel Execution of Workflows Driven by a Distributed Database Management System</strong><br>
             <strong>R. Souza</strong>, V. Silva, D. Oliveira, P. Valduriez, A. Lima, and M. Mattoso<br><i>ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>, 2015.<br>
             
-            [C22] [<a href='http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post284.html' target='_blank'>online</a>]  [<a href='http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/poster_files/post284s2-file3.pdf' target='_blank'>pdf</a>]  
+            [C24] [<a href='http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post284.html' target='_blank'>online</a>]  [<a href='http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/poster_files/post284s2-file3.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_Souza2015ParallelC").toggle()'>bibtex</a>]<br>
             
@@ -698,7 +738,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Uma Abordagem para Publicação de Dados de Proveniência de Workflows Científicos na Web Semântica</strong><br>
             R. Castro, <strong>R. Souza</strong>, V. Silva, K. Ocaña, D. Oliveira, and M. Mattoso<br><i>Simpósio Brasileiro de Banco de Dados (SBBD)</i>, 2015.<br>
             
-            [C23] 
+            [C25] 
             [<a href='javascript: none'
             onclick='$("#bib_castro2015abordagemC").toggle()'>bibtex</a>]<br>
             
@@ -718,7 +758,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Linked open data publication strategies: Application in networking performance measurement data</strong><br>
             <strong>R. Souza</strong>, L. Cottrell, B. White, M. Campos, and M. Mattoso<br><i>ASE BigData/SocialCom/CyberSecurity, Stanford, CA</i>, 2014.<br>
             
-            [C24] [<a href='https://www.slac.stanford.edu/cgi-bin/getdoc/slac-pub-15950.pdf' target='_blank'>pdf</a>]  
+            [C26] [<a href='https://www.slac.stanford.edu/cgi-bin/getdoc/slac-pub-15950.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_souza2014linkedC").toggle()'>bibtex</a>]<br>
             
