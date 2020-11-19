@@ -244,7 +244,7 @@ The experiments show that the principles enable queries that integrate domain se
 <td style="vertical-align: middle; text-align: justify;">
     
             <strong>Cycle Orchestrator: A Knowledge-Based Approach for Structuring Cyclic ML Pipelines in the O&G Industry</strong><br>
-            R. Brand\~ao, V. Louren\c{c}o, M. Machado, L. Azevedo, M. Cardoso, <strong>R. Souza</strong>, G. Lima, R. Cerqueira, and M. Moreno<br><i>International Semantic Web Conference (ISWC)</i>, 2020.<br>
+            R. Brand&atilde;o, V. Louren&ccedil;o, M. Machado, L. Azevedo, M. Cardoso, <strong>R. Souza</strong>, G. Lima, R. Cerqueira, and M. Moreno<br><i>International Semantic Web Conference (ISWC)</i>, 2020.<br>
             
             [C1] 
             [<a href='javascript: none'
@@ -264,7 +264,7 @@ The experiments show that the principles enable queries that integrate domain se
 <td style="vertical-align: middle; text-align: justify;">
     
             <strong>A Knowledge-Based Approach for Structuring Cyclic Workflows</strong><br>
-            R. Brand\~ao, V. Louren\c{c}o, M. Machado, L. Azevedo, M. Cardoso, <strong>R. Souza</strong>, G. Lima, R. Cerqueira, and M. Moreno<br><i>International Semantic Web Conference (ISWC)</i>, 2020.<br>
+            R. Brand&atilde;o, V. Louren&ccedil;o, M. Machado, L. Azevedo, M. Cardoso, <strong>R. Souza</strong>, G. Lima, R. Cerqueira, and M. Moreno<br><i>International Semantic Web Conference (ISWC)</i>, 2020.<br>
             
             [C2] 
             [<a href='javascript: none'
