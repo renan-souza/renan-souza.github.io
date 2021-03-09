@@ -781,10 +781,30 @@ The experiments show that the principles enable queries that integrate domain se
 <tr>
 <td style="vertical-align: middle; text-align: justify;">
     
+            <strong>Metadata-based scientific data characterization driven by a knowledge database at scale</strong><br>
+            <strong>R. Souza</strong>, R. Mozart, F. Da Silva, A. Vital, and V. Silva, 2021.<br>
+            
+            [P1] 
+            [<a href='javascript: none'
+            onclick='$("#bib_souza2021metadataP").toggle()'>bibtex</a>]<br>
+            
+            
+<div id="bib_souza2021metadataP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@misc&#123;souza2021metadata,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan and Mozart, Reinaldo and Da Silva, Ferreira Rodrigo and Vital, Ashton and Silva, Viviane Torres da&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 16/527,546&#125;,<br/>&nbsp;&nbsp;title = &#123;Metadata-based scientific data characterization driven by a knowledge database at scale&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
             <strong>Creating coordinated multi-chatbots using natural dialogues by means of knowledge base</strong><br>
             M. De Bayser, A. Braz, P. Cavalin, F. Figueiredo, and <strong>R. Souza</strong>, 2018.<br>
             
-            [P1] 
+            [P2] 
             [<a href='javascript: none'
             onclick='$("#bib_de2018creatingP").toggle()'>bibtex</a>]<br>
             
@@ -804,7 +824,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>System and method for managing artificial conversational entities enhanced by social knowledge</strong><br>
             A. Braz, P. Cavalin, F. Figueiredo, M. De Bayser, and <strong>R. Souza</strong>, 2018.<br>
             
-            [P2] 
+            [P3] 
             [<a href='javascript: none'
             onclick='$("#bib_braz2018systemP").toggle()'>bibtex</a>]<br>
             
@@ -824,7 +844,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Predicting user question in question and answer system</strong><br>
             A. Appel, A. Gama Leal, and <strong>R. Souza</strong>, 2017.<br>
             
-            [P3] 
+            [P4] 
             [<a href='javascript: none'
             onclick='$("#bib_appel2017predictingP").toggle()'>bibtex</a>]<br>
             

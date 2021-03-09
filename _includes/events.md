@@ -9,6 +9,55 @@ Please, feel free to reach me if you need a presentation not available here.
 <table class="table table-hover">
 <tr>  
 
+  <td><b>SIAM Conference on Computational Science and Engineering</b> 
+        <a href="https://www.siam.org/conferences/cm/conference/cse21" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
+ in 
+    Forth Worth, TX (virtual)
+    <br/>
+        <ul>
+               <li>
+                 AI4Seismic: An AI-Driven Platform to Accelerate Geological Discoveries,
+                   Oral presentation
+                       , <a href="https://sinews.siam.org/Details-Page/ai4seismic-platform-combines-artificial-intelligence-and-seismic-data-analysis" target="_blank">link</a>                                
+               </li> 
+               <li>
+                 Workflow Provenance in the Lifecycle of Scientific Machine Learning,
+                   Oral presentation
+                       , <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70197" target="_blank">link</a>                                
+               </li> 
+            
+        </ul>
+        
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2021 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
+  <td><b>Open Subsurface Data Universe Development Workshop</b> 
+ in 
+    
+    <br/>
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;"> </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
   <td><b>International Conference on Management of Data (SIGMOD)</b> 
  in 
     Portland, OR. (virtual)
