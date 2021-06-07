@@ -97,10 +97,36 @@ Please, feel free to reach me if you need a preprint of a paper not available he
 <tr>
 <td style="vertical-align: middle; text-align: justify;">
     
+            <strong>Distributed In-memory Data Management for Workflow Executions</strong><br>
+            <strong>R. Souza</strong>, V. Silva, A. Lima, D. Oliveira, P. Valduriez, and M. Mattoso<br><i>PeerJ Computer Science</i>, 2021.<br>
+            
+            [J1] 
+[<a href='javascript: none'
+    onclick='$("#abs_souza_distributed_2021J").toggle()'>abstract</a>] [<a href='https://doi.org/10.7717/peerj-cs.527' target='_blank'>doi</a>]  [<a href='https://peerj.com/articles/cs-527/' target='_blank'>online</a>]  [<a href='https://arxiv.org/ftp/arxiv/papers/2105/2105.04720.pdf' target='_blank'>pdf</a>]  
+            [<a href='javascript: none'
+            onclick='$("#bib_souza_distributed_2021J").toggle()'>bibtex</a>]<br>
+            
+<div id="abs_souza_distributed_2021J" style="text-align: justify; display: none" markdown="1">
+<strong>Abstract. </strong>Complex scientific experiments from various domains are typically modeled as workflows and executed on large-scale machines using a Parallel Workflow Management System (WMS). Since such executions usually last for hours or days, some WMSs provide user steering support, i.e., they allow users to run data analyses and, depending on the results, adapt the workflows at runtime. A challenge in the parallel execution control design is to manage workflow data for efficient executions while enabling user steering support. Data access for high scalability is typically transaction-oriented, while for data analysis, it is online analytical-oriented so that managing such hybrid workloads makes the challenge even harder. In this work, we present SchalaDB, an architecture with a set of design principles and techniques based on distributed in-memory data management for efficient workflow execution control and user steering. We propose a distributed data design for scalable workflow task scheduling and high availability driven by a parallel and distributed in-memory DBMS. To evaluate our proposal, we develop d-Chiron, a WMS designed according to SchalaDB's principles. We carry out an extensive experimental evaluation on an HPC cluster with up to 960 computing cores. Among other analyses, we show that even when running data analyses for user steering, SchalaDB's overhead is negligible for workloads composed of hundreds of concurrent tasks on shared data. Our results encourage workflow engine developers to follow a parallel and distributed data-oriented approach not only for scheduling and monitoring but also for user steering.
+</div>
+
+            
+<div id="bib_souza_distributed_2021J" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@article&#123;souza_distributed_2021,<br/>&nbsp;&nbsp;abstract = &#123;Complex scientific experiments from various domains are typically modeled as workflows and executed on large-scale machines using a Parallel Workflow Management System (WMS). Since such executions usually last for hours or days, some WMSs provide user steering support, i.e., they allow users to run data analyses and, depending on the results, adapt the workflows at runtime. A challenge in the parallel execution control design is to manage workflow data for efficient executions while enabling user steering support. Data access for high scalability is typically transaction-oriented, while for data analysis, it is online analytical-oriented so that managing such hybrid workloads makes the challenge even harder. In this work, we present SchalaDB, an architecture with a set of design principles and techniques based on distributed in-memory data management for efficient workflow execution control and user steering. We propose a distributed data design for scalable workflow task scheduling and high availability driven by a parallel and distributed in-memory DBMS. To evaluate our proposal, we develop d-Chiron, a WMS designed according to SchalaDB's principles. We carry out an extensive experimental evaluation on an HPC cluster with up to 960 computing cores. Among other analyses, we show that even when running data analyses for user steering, SchalaDB's overhead is negligible for workloads composed of hundreds of concurrent tasks on shared data. Our results encourage workflow engine developers to follow a parallel and distributed data-oriented approach not only for scheduling and monitoring but also for user steering.&#125;,<br/>&nbsp;&nbsp;author = &#123;Souza, R. and Silva, V. and Lima, A. A. B. and Oliveira, D. and Valduriez, P. and Mattoso, M.&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.7717/peerj-cs.527&#125;,<br/>&nbsp;&nbsp;journal = &#123;PeerJ Computer Science&#125;,<br/>&nbsp;&nbsp;link = &#123;https://peerj.com/articles/cs-527/&#125;,<br/>&nbsp;&nbsp;pages = &#123;1--30&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://arxiv.org/ftp/arxiv/papers/2105/2105.04720.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Distributed In-memory Data Management for Workflow Executions&#125;,<br/>&nbsp;&nbsp;volume = &#123;7&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
             <strong>Workflow Provenance in the Lifecycle of Scientific Machine Learning</strong><br>
             <strong>R. Souza</strong>, L. Azevedo, V. Lourenço, E. Soares, R. Thiago, R. Brandão, D. Civitarese, E. Brazil, M. Moreno, P. Valduriez, M. Mattoso, R. Cerqueira, and M. Netto<br><i>arXiv preprint Databases (cs.DB)</i>, 2020.<br>
             
-            [J1] 
+            [J2] 
 [<a href='javascript: none'
     onclick='$("#abs_asouza2020workflowJ").toggle()'>abstract</a>] [<a href='https://arxiv.org/abs/2010.00330' target='_blank'>online</a>]  [<a href='https://arxiv.org/pdf/2010.00330.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -128,7 +154,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Adding Hyperknowledge-enabled data lineage to a machine learning workflow management system for oil and gas</strong><br>
             L. Azevedo, <strong>R. Souza</strong>, R. Brandão, V. Lourenço, M. Costalonga, M. de OC Machado, M. Moreno, and R. Cerqueira<br><i>First Break</i>, 2020.<br>
             
-            [J2] [<a href='https://doi.org/10.3997/1365-2397.fb2020055' target='_blank'>doi</a>]  
+            [J3] [<a href='https://doi.org/10.3997/1365-2397.fb2020055' target='_blank'>doi</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_azevedo2020addingJ").toggle()'>bibtex</a>]<br>
             
@@ -148,7 +174,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Keeping Track of User Steering Actions in Dynamic Workflows</strong><br>
             <strong>R. Souza</strong>, V. Silva, J. Camata, A. Coutinho, P. Valduriez, and M. Mattoso<br><i>Future Generation Computer Systems</i>, 2019.<br>
             
-            [J3] 
+            [J4] 
 [<a href='javascript: none'
     onclick='$("#abs_souza_keeping_2019J").toggle()'>abstract</a>] [<a href='https://doi.org/10.1016/j.future.2019.05.011' target='_blank'>doi</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02127456/document' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -174,7 +200,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Adding Domain Data to Code Profiling Tools to Debug Workflow Parallel Execution</strong><br>
             V. Silva, L. Neves, <strong>R. Souza</strong>, A. Coutinho, D. de Oliveira, and M. Mattoso<br><i>Future Generation Computer Systems</i>, 2018.<br>
             
-            [J4] [<a href='https://doi.org/10.1016/j.future.2018.05.078' target='_blank'>doi</a>]  
+            [J5] [<a href='https://doi.org/10.1016/j.future.2018.05.078' target='_blank'>doi</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_silva_adding_2018J").toggle()'>bibtex</a>]<br>
             
@@ -194,7 +220,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Data Reduction in Scientific Workflows Using Provenance Monitoring and User Steering</strong><br>
             <strong>R. Souza</strong>, V. Silva, A. Coutinho, P. Valduriez, and M. Mattoso<br><i>Future Generation Computer Systems</i>, 2017.<br>
             
-            [J5] 
+            [J6] 
 [<a href='javascript: none'
     onclick='$("#abs_Souza2017DataJ").toggle()'>abstract</a>] [<a href='https://doi.org/10.1016/j.future.2017.11.028' target='_blank'>doi</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01679967/document' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -206,7 +232,7 @@ The experiments show that the principles enable queries that integrate domain se
 
             
 <div id="bib_Souza2017DataJ" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@article&#123;Souza2017Data,<br/>&nbsp;&nbsp;abstract = &#123;Scientific workflows need to be iteratively, and often interactively, executed for large input datasets. Reducing data from input datasets is a powerful way to reduce overall execution time in such workflows. When this is accomplished online (i.e., without requiring the user to stop execution to reduce the data, and then resume), it can save much time. However, determining which subsets of the input data should be removed becomes a major problem. A related problem is to guarantee that the workflow system will maintain execution and data consistent with the reduction. Keeping track of how users interact with the workflow is essential for data provenance purposes. In this paper, we adopt the “human-in-the-loop” approach, which enables users to steer the running workflow and reduce subsets from datasets online. We propose an adaptive workflow monitoring approach that combines provenance data monitoring and computational steering to support users in analyzing the evolution of key parameters and determining the subset of data to remove. We extend a provenance data model to keep track of users’ interactions when they reduce data at runtime. In our experimental validation, we develop a test case from the oil and gas domain, using a 936-cores cluster. The results on this test case show that the approach yields reductions of 32\% of execution time and 14\% of the data processed.&#125;,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan and Silva, Vítor and Coutinho, Alvaro L. G. A. and Valduriez, Patrick and Mattoso, Marta&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.1016/j.future.2017.11.028&#125;,<br/>&nbsp;&nbsp;issn = &#123;0167-739X&#125;,<br/>&nbsp;&nbsp;journal = &#123;Future Generation Computer Systems&#125;,<br/>&nbsp;&nbsp;keyword = &#123;Scientific Workflows, Human in the Loop, Online Data Reduction, Provenance Data, Dynamic Workflows&#125;,<br/>&nbsp;&nbsp;pages = &#123;1--34&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://hal-lirmm.ccsd.cnrs.fr/lirmm-01679967/document&#125;,<br/>&nbsp;&nbsp;title = &#123;Data Reduction in Scientific Workflows Using Provenance Monitoring and User Steering&#125;,<br/>&nbsp;&nbsp;volume = &#123;online&#125;,<br/>&nbsp;&nbsp;year = &#123;2017&#125;<br/>&#125;<br/><br/>
+@article&#123;Souza2017Data,<br/>&nbsp;&nbsp;abstract = &#123;Scientific workflows need to be iteratively, and often interactively, executed for large input datasets. Reducing data from input datasets is a powerful way to reduce overall execution time in such workflows. When this is accomplished online (i.e., without requiring the user to stop execution to reduce the data, and then resume), it can save much time. However, determining which subsets of the input data should be removed becomes a major problem. A related problem is to guarantee that the workflow system will maintain execution and data consistent with the reduction. Keeping track of how users interact with the workflow is essential for data provenance purposes. In this paper, we adopt the “human-in-the-loop” approach, which enables users to steer the running workflow and reduce subsets from datasets online. We propose an adaptive workflow monitoring approach that combines provenance data monitoring and computational steering to support users in analyzing the evolution of key parameters and determining the subset of data to remove. We extend a provenance data model to keep track of users’ interactions when they reduce data at runtime. In our experimental validation, we develop a test case from the oil and gas domain, using a 936-cores cluster. The results on this test case show that the approach yields reductions of 32\% of execution time and 14\% of the data processed.&#125;,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan and Silva, Vítor and Coutinho, Alvaro L. G. A. and Valduriez, Patrick and Mattoso, Marta&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.1016/j.future.2017.11.028&#125;,<br/>&nbsp;&nbsp;issn = &#123;0167-739X&#125;,<br/>&nbsp;&nbsp;journal = &#123;Future Generation Computer Systems&#125;,<br/>&nbsp;&nbsp;keyword = &#123;Scientific Workflows, Human in the Loop, Online Data Reduction, Provenance Data, Dynamic Workflows&#125;,<br/>&nbsp;&nbsp;pages = &#123;481--501&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://hal-lirmm.ccsd.cnrs.fr/lirmm-01679967/document&#125;,<br/>&nbsp;&nbsp;title = &#123;Data Reduction in Scientific Workflows Using Provenance Monitoring and User Steering&#125;,<br/>&nbsp;&nbsp;volume = &#123;110&#125;,<br/>&nbsp;&nbsp;year = &#123;2017&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -220,7 +246,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>A Hybrid Architecture for Multi-party Conversational Systems</strong><br>
             M. de Bayser, P. Cavalin, <strong>R. Souza</strong>, A. Braz, H. Candello, C. Pinhanez, and J. Briot<br><i>arXiv preprint Computation and Language (cs.CL)</i>, 2017.<br>
             
-            [J6] [<a href='https://arxiv.org/abs/1705.01214' target='_blank'>online</a>]  [<a href='https://arxiv.org/pdf/1705.01214.pdf' target='_blank'>pdf</a>]  
+            [J7] [<a href='https://arxiv.org/abs/1705.01214' target='_blank'>online</a>]  [<a href='https://arxiv.org/pdf/1705.01214.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_de2017hybridJ").toggle()'>bibtex</a>]<br>
             
@@ -781,10 +807,30 @@ The experiments show that the principles enable queries that integrate domain se
 <tr>
 <td style="vertical-align: middle; text-align: justify;">
     
+            <strong>Continuous storage of data in a system with limited storage capacity</strong><br>
+            L. Real, M. dos Santos, and <strong>R. Souza</strong>, 2021.<br>
+            
+            [P1] 
+            [<a href='javascript: none'
+            onclick='$("#bib_real2021continuousP").toggle()'>bibtex</a>]<br>
+            
+            
+<div id="bib_real2021continuousP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@misc&#123;real2021continuous,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and dos Santos, Marcelo Nery and Souza, Renan Francisco Santos&#125;,<br/>&nbsp;&nbsp;title = &#123;Continuous storage of data in a system with limited storage capacity&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
             <strong>Metadata-based scientific data characterization driven by a knowledge database at scale</strong><br>
             <strong>R. Souza</strong>, R. Mozart, F. Da Silva, A. Vital, and V. Silva, 2021.<br>
             
-            [P1] 
+            [P2] 
             [<a href='javascript: none'
             onclick='$("#bib_souza2021metadataP").toggle()'>bibtex</a>]<br>
             
@@ -804,7 +850,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Creating coordinated multi-chatbots using natural dialogues by means of knowledge base</strong><br>
             M. De Bayser, A. Braz, P. Cavalin, F. Figueiredo, and <strong>R. Souza</strong>, 2018.<br>
             
-            [P2] 
+            [P3] 
             [<a href='javascript: none'
             onclick='$("#bib_de2018creatingP").toggle()'>bibtex</a>]<br>
             
@@ -824,7 +870,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>System and method for managing artificial conversational entities enhanced by social knowledge</strong><br>
             A. Braz, P. Cavalin, F. Figueiredo, M. De Bayser, and <strong>R. Souza</strong>, 2018.<br>
             
-            [P3] 
+            [P4] 
             [<a href='javascript: none'
             onclick='$("#bib_braz2018systemP").toggle()'>bibtex</a>]<br>
             
@@ -844,7 +890,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Predicting user question in question and answer system</strong><br>
             A. Appel, A. Gama Leal, and <strong>R. Souza</strong>, 2017.<br>
             
-            [P4] 
+            [P5] 
             [<a href='javascript: none'
             onclick='$("#bib_appel2017predictingP").toggle()'>bibtex</a>]<br>
             

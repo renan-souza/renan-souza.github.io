@@ -1,6 +1,5 @@
 *.swp
 /_site/
-/images/latex/
 bower_components
 .jekyll-metadata
 **/*.pyc*
