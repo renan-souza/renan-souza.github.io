@@ -1,20 +1,9 @@
 destination: ./_site
-exclude:
-- .travis.yml
-- validate.rb
-- README.md
-- Gemfile
-- Gemfile.lock
-- bower_components
-- update-vendor-deps.sh
-- vendor/bundle
-- vendor/bower.json
+exclude: [.travis.yml, validate.rb, README.md, Gemfile, Gemfile.lock, bower_components,
+  update-vendor-deps.sh, vendor/bundle, vendor/bower.json]
 future: true
-gems:
-- jekyll-sitemap
-kramdown:
-  parse_block_html: true
-  syntax_highlighter: rouge
+gems: [jekyll-sitemap]
+kramdown: {parse_block_html: true, syntax_highlighter: rouge}
 lsi: false
 markdown: kramdown
 permalink: pretty
@@ -46,21 +35,13 @@ personal:
     distributed systems, renan distributed database, renan parallel, renan souza parallel,
     renan linked open data, renan souza linked data, renan semantic web, renan souza
     semantic web, renan ontologies, renan ontology'
-  name:
-    first: Renan
-    last: Souza
+  name: {first: Renan, last: Souza}
   site_h1: Renan Souza, Ph.D.
-  social:
-    dblp: Souza:Renan
-    facebook: renan.francisco.souza
-    github: renan-souza
-    google_scholar: x9t36ewAAAAJ
-    ibm: br-rfsouza
-    lattes: 4414741541160361
-    linkedin: renansouza1
-    research_gate: Renan_Souza9
+  social: {dblp: 'Souza:Renan', facebook: renan.francisco.souza, github: renan-souza,
+    google_scholar: x9t36ewAAAAJ, ibm: br-rfsouza, lattes: 4414741541160361, linkedin: renansouza1,
+    research_gate: Renan_Souza9}
   src: https://github.com/renan-souza/cv
   status: Data Science and Data Engineering Researcher at IBM Research
   url: RenanSouza.org
 port: 4444
-today: '2021-08-14'
+today: '2021-09-23'
