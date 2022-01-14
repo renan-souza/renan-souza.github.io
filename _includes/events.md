@@ -9,6 +9,59 @@ Please, feel free to reach me if you need a presentation not available here.
 <table class="table table-hover">
 <tr>  
 
+  <td><b>Brazilian Symposium on Databases (SBBD)</b> 
+        <a href="https://sbbd.org.br/2021/ctdbd/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
+ in 
+    Rio de Janeiro, RJ (virtual)
+    <br/>
+        <ul>
+               <li>
+                 User Steering Support in Large-Scale Workflows,
+                   Oral presentation
+                       , <a href="https://www.youtube.com/watch?v=Kbnyt-T0EIs" target="_blank">link</a>                                
+               </li> 
+            
+        </ul>
+        
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2021 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
+  <td><b>Federal Fluminense University (UFF) Computer Science Seminars</b> 
+ in 
+    Rio de Janeiro, RJ (virtual)
+    <br/>
+        <ul>
+               <li>
+                 A Knowledge-centric Approach to Support Large-scale AI Systems (in PT),
+                   Oral presentation
+                       , <a href="https://www.youtube.com/watch?v=9U4qtwcQAZU" target="_blank">link</a>                                
+               </li> 
+            
+        </ul>
+        
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2021 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
   <td><b>SIAM Conference on Computational Science and Engineering</b> 
         <a href="https://www.siam.org/conferences/cm/conference/cse21" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
@@ -17,7 +70,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  AI4Seismic: An AI-Driven Platform to Accelerate Geological Discoveries,
-                   Oral presentation
+                   Oral presentation, Highlighted by the SIAM press
                        , <a href="https://sinews.siam.org/Details-Page/ai4seismic-platform-combines-artificial-intelligence-and-seismic-data-analysis" target="_blank">link</a>                                
                </li> 
                <li>
