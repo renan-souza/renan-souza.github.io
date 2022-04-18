@@ -152,7 +152,7 @@ The experiments show that the principles enable queries that integrate domain se
 <td style="vertical-align: middle; text-align: justify;">
     
             <strong>Workflows Community Summit: Advancing the State-of-the-art of Scientific Workflows Management Systems Research and Development</strong><br>
-            R. da Silva, H. Casanova, K. Chard, ..., <strong>R. Souza</strong>, and e. al.<br><i>arXiv preprint Distributed, Parallel, and Cluster Computing (cs.DC)</i>, 2021.<br>
+            R. da Silva, H. Casanova, K. Chard, ..., <strong>R. Souza</strong>, and <i>et al.</i><br><i>arXiv preprint Distributed, Parallel, and Cluster Computing (cs.DC)</i>, 2021.<br>
             
             [J3] [<a href='https://arxiv.org/abs/2106.05177' target='_blank'>online</a>]  [<a href='https://arxiv.org/pdf/2106.05177.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -160,7 +160,7 @@ The experiments show that the principles enable queries that integrate domain se
             
             
 <div id="bib_rafael_2021_wf_summitJ" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@inproceedings&#123;rafael_2021_wf_summit,<br/>&nbsp;&nbsp;author = &#123;da Silva, Rafael Ferreira and Casanova, Henri and  Chard, Kyle and ... and Souza, Renan and et al.&#125;,<br/>&nbsp;&nbsp;journal = &#123;arXiv preprint Distributed, Parallel, and Cluster Computing (cs.DC)&#125;,<br/>&nbsp;&nbsp;link = &#123;https://arxiv.org/abs/2106.05177&#125;,<br/>&nbsp;&nbsp;pages = &#123;1--24&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://arxiv.org/pdf/2106.05177.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Workflows Community Summit: Advancing the State-of-the-art of Scientific Workflows Management Systems Research and Development&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
+@inproceedings&#123;rafael_2021_wf_summit,<br/>&nbsp;&nbsp;author = &#123;da Silva, Rafael Ferreira and Casanova, Henri and  Chard, Kyle and ... and Souza, Renan and &#123;et al.&#125;&#125;,<br/>&nbsp;&nbsp;journal = &#123;arXiv preprint Distributed, Parallel, and Cluster Computing (cs.DC)&#125;,<br/>&nbsp;&nbsp;link = &#123;https://arxiv.org/abs/2106.05177&#125;,<br/>&nbsp;&nbsp;pages = &#123;1--24&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://arxiv.org/pdf/2106.05177.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Workflows Community Summit: Advancing the State-of-the-art of Scientific Workflows Management Systems Research and Development&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -172,7 +172,7 @@ The experiments show that the principles enable queries that integrate domain se
 <td style="vertical-align: middle; text-align: justify;">
     
             <strong>Adding Hyperknowledge-enabled data lineage to a machine learning workflow management system for oil and gas</strong><br>
-            L. Azevedo, <strong>R. Souza</strong>, R. Brandão, V. Lourenço, M. Costalonga, M. de OC Machado, M. Moreno, and R. Cerqueira<br><i>First Break</i>, 2020.<br>
+            L. Azevedo, <strong>R. Souza</strong>, R. Brandão, V. Lourenço, M. Costalonga, M. de Machado, M. Moreno, and R. Cerqueira<br><i>First Break</i>, 2020.<br>
             
             [J4] [<a href='https://doi.org/10.3997/1365-2397.fb2020055' target='_blank'>doi</a>]  
             [<a href='javascript: none'
@@ -180,7 +180,7 @@ The experiments show that the principles enable queries that integrate domain se
             
             
 <div id="bib_azevedo2020addingJ" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@article&#123;azevedo2020adding,<br/>&nbsp;&nbsp;author = &#123;Azevedo, Leonardo Guerreiro and Souza, Renan and Brandão, Rafael and Lourenço, Vítor N and Costalonga, Marcelo and de OC Machado, Marcelo and Moreno, Marcio and Cerqueira, Renato&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.3997/1365-2397.fb2020055&#125;,<br/>&nbsp;&nbsp;journal = &#123;First Break&#125;,<br/>&nbsp;&nbsp;number = &#123;7&#125;,<br/>&nbsp;&nbsp;pages = &#123;89--93&#125;,<br/>&nbsp;&nbsp;publisher = &#123;European Association of Geoscientists \& Engineers&#125;,<br/>&nbsp;&nbsp;title = &#123;Adding Hyperknowledge-enabled data lineage to a machine learning workflow management system for oil and gas&#125;,<br/>&nbsp;&nbsp;volume = &#123;38&#125;,<br/>&nbsp;&nbsp;year = &#123;2020&#125;<br/>&#125;<br/><br/>
+@article&#123;azevedo2020adding,<br/>&nbsp;&nbsp;author = &#123;Azevedo, Leonardo Guerreiro and Souza, Renan and Brandão, Rafael and Lourenço, Vítor N and Costalonga, Marcelo and de Machado, Marcelo and Moreno, Marcio and Cerqueira, Renato&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.3997/1365-2397.fb2020055&#125;,<br/>&nbsp;&nbsp;journal = &#123;First Break&#125;,<br/>&nbsp;&nbsp;number = &#123;7&#125;,<br/>&nbsp;&nbsp;pages = &#123;89--93&#125;,<br/>&nbsp;&nbsp;publisher = &#123;European Association of Geoscientists \& Engineers&#125;,<br/>&nbsp;&nbsp;title = &#123;Adding Hyperknowledge-enabled data lineage to a machine learning workflow management system for oil and gas&#125;,<br/>&nbsp;&nbsp;volume = &#123;38&#125;,<br/>&nbsp;&nbsp;year = &#123;2020&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -292,13 +292,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Context-aware Execution Migration Tool for Data Science Jupyter Notebooks on Hybrid Clouds</strong><br>
             R. Cunha, L. Real, <strong>R. Souza</strong>, B. Silva, and M. Netto<br><i>IEEE e-Science</i>, 2021.<br>
             
-            [C1] [<a href='https://arxiv.org/pdf/2107.00187.pdf' target='_blank'>pdf</a>]  
+            [C1] [<a href='https://doi.org/10.1109/eScience51609.2021.00013' target='_blank'>doi</a>]  [<a href='https://arxiv.org/pdf/2107.00187.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_cunha_2021_contextC").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_cunha_2021_contextC" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@inproceedings&#123;cunha_2021_context,<br/>&nbsp;&nbsp;author = &#123;Cunha, Renato LF and Real, Lucas V and Souza, Renan and Silva, Bruno and Netto, Marco AS&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;IEEE e-Science&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://arxiv.org/pdf/2107.00187.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Context-aware Execution Migration Tool for Data Science Jupyter Notebooks on Hybrid Clouds&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
+@inproceedings&#123;cunha_2021_context,<br/>&nbsp;&nbsp;author = &#123;Cunha, Renato LF and Real, Lucas V and Souza, Renan and Silva, Bruno and Netto, Marco AS&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;IEEE e-Science&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.1109/eScience51609.2021.00013&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://arxiv.org/pdf/2107.00187.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Context-aware Execution Migration Tool for Data Science Jupyter Notebooks on Hybrid Clouds&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
 </div>
 
         
