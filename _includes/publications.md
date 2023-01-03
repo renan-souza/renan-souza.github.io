@@ -907,10 +907,70 @@ The experiments show that the principles enable queries that integrate domain se
 <tr>
 <td style="vertical-align: middle; text-align: justify;">
     
+            <strong>Asset identification for collaborative projects in software development</strong><br>
+            L. Real, R. Cunha, M. dos Santos, and <strong>R. Souza</strong>, 2022.<br>
+            
+            [P1] 
+            [<a href='javascript: none'
+            onclick='$("#bib_real2022assetP").toggle()'>bibtex</a>]<br>
+            
+            
+<div id="bib_real2022assetP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@misc&#123;real2022asset,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and Cunha, Renato Luiz De Freitas and dos Santos, Marcelo Nery and Souza, Renan&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/118,646&#125;,<br/>&nbsp;&nbsp;title = &#123;Asset identification for collaborative projects in software development&#125;,<br/>&nbsp;&nbsp;year = &#123;2022&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
+            <strong>Program context migration</strong><br>
+            L. Real, M. Netto, R. Cunha, <strong>R. Souza</strong>, and A. Braz, 2022.<br>
+            
+            [P2] 
+            [<a href='javascript: none'
+            onclick='$("#bib_real2022programP").toggle()'>bibtex</a>]<br>
+            
+            
+<div id="bib_real2022programP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@misc&#123;real2022program,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and Netto, Marco Aurelio Stelmar and Cunha, Renato Luiz De Freitas and Souza, Renan and Braz, Alan&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/216,817&#125;,<br/>&nbsp;&nbsp;title = &#123;Program context migration&#125;,<br/>&nbsp;&nbsp;year = &#123;2022&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
+            <strong>Model Document Creation in Source Code Development Environments using Semantic-aware Detectable Action Impacts</strong><br>
+            A. Appel, C. De Freitas, C. Mendes, A. Vital, N. Dos, S. Marcelo, M. Stelmar Netto, P. Avegliano, <strong>R. Souza</strong>, and C. Villas, 2022.<br>
+            
+            [P3] 
+            [<a href='javascript: none'
+            onclick='$("#bib_appel2022modelP").toggle()'>bibtex</a>]<br>
+            
+            
+<div id="bib_appel2022modelP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@misc&#123;appel2022model,<br/>&nbsp;&nbsp;author = &#123;Appel, Ana Paula and De Freitas, Cunha Renato Luiz and Mendes, Carlos Raoni De Alencar and Vital, Ashton and Dos, Nery and Marcelo, Santos and Stelmar Netto, Marco Aurelio and Avegliano, Priscilla Barreira and Souza, Renan and Villas, Costa&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/353,731&#125;,<br/>&nbsp;&nbsp;title = &#123;Model Document Creation in Source Code Development Environments using Semantic-aware Detectable Action Impacts&#125;,<br/>&nbsp;&nbsp;year = &#123;2022&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
             <strong>Continuous storage of data in a system with limited storage capacity</strong><br>
             L. Real, M. dos Santos, and <strong>R. Souza</strong>, 2021.<br>
             
-            [P1] 
+            [P4] 
             [<a href='javascript: none'
             onclick='$("#bib_real2021continuousP").toggle()'>bibtex</a>]<br>
             
@@ -930,7 +990,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Metadata-based scientific data characterization driven by a knowledge database at scale</strong><br>
             <strong>R. Souza</strong>, R. Mozart, F. Da Silva, A. Vital, and V. Silva, 2021.<br>
             
-            [P2] 
+            [P5] 
             [<a href='javascript: none'
             onclick='$("#bib_souza2021metadataP").toggle()'>bibtex</a>]<br>
             
@@ -950,7 +1010,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Creating coordinated multi-chatbots using natural dialogues by means of knowledge base</strong><br>
             M. De Bayser, A. Braz, P. Cavalin, F. Figueiredo, and <strong>R. Souza</strong>, 2018.<br>
             
-            [P3] 
+            [P6] 
             [<a href='javascript: none'
             onclick='$("#bib_de2018creatingP").toggle()'>bibtex</a>]<br>
             
@@ -970,7 +1030,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>System and method for managing artificial conversational entities enhanced by social knowledge</strong><br>
             A. Braz, P. Cavalin, F. Figueiredo, M. De Bayser, and <strong>R. Souza</strong>, 2018.<br>
             
-            [P4] 
+            [P7] 
             [<a href='javascript: none'
             onclick='$("#bib_braz2018systemP").toggle()'>bibtex</a>]<br>
             
@@ -990,7 +1050,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Predicting user question in question and answer system</strong><br>
             A. Appel, A. Gama Leal, and <strong>R. Souza</strong>, 2017.<br>
             
-            [P5] 
+            [P8] 
             [<a href='javascript: none'
             onclick='$("#bib_appel2017predictingP").toggle()'>bibtex</a>]<br>
             
