@@ -14,37 +14,41 @@ personal:
     coppe, renan ibm, renan souza ibm, data engineering, data science, provenance,
     scientific workflows, databases, data management, ciencia da computacao, computer
     science, computer engineering, machine learning, artificial intelligence, ibm
-    research, ibm, renan ibm research, renan souza ibm research, ufrj, universidade
-    federal do rio de janeiro, federal university of rio de janeiro, coppe, slac,
-    missouri state university, stanford university, renan ufrj, renan coppe, renan
-    souza ufrj, renan souza coppe, renan scholar, renan souza scholar, souza ibm,
-    souza ufrj, renan universidade federal do rio de janeiro, renan souza universidade
-    federal do rio de janeiro, renan federal university of rio de janeiro, renan souza
-    federal university of rio de janeiro, ufrj, universidade federal do rio de janeiro,
-    federal university of rio de janeiro, souza coppe, renan databases, renan data
-    management, renan workflows, renan provenance, renan souza provenance, renan slac,
-    renan stanford, renan souza slac, renan souza stanford, renan msu, renan souza
-    msu, renan phd, renan doctorate, renan souza phd, renan souza doctorate, renan
-    dsc, renan souza dsc, renan brazil, renan souza brazil, renan rio, renan souza
-    rio, renan rio de janeiro, renan souza rio de janeiro, renan missouri, renan souza
-    missouri, renan souza workflows, renan souza databases, renan scientific, renan
-    computer science, renan data science, renan souza data science, renan steering,
-    renan engineering, renan souza engineering, renan souza data, renan data, renan
-    souza data engineering, renan data engineering, renan knowledge engineering, renan
-    souza knowledge engineering, renan scientist, renan research, renan researcher,
-    renan souza researcher, renan souza research, renan souza scientist, renan distributed,
-    renan souza distributed, renan souza distributed systems, renan systems, renan
-    distributed systems, renan distributed database, renan parallel, renan souza parallel,
-    renan linked open data, renan souza linked data, renan semantic web, renan souza
-    semantic web, renan ontologies, renan ontology
+    research, ibm, renan ibm research, renan souza ibm research, oak ridge, oak ridge
+    national lab, oak ridge national laboratory, ornl, renan oak ridge, renan oak
+    ridge national lab, renan oak ridge national laboratory, renan ornl, renan souza
+    oak ridge, renan souza oak ridge national lab, renan souza oak ridge national
+    laboratory, renan souza ornl, souza oak ridge, souza oak ridge national lab, souza
+    oak ridge national laboratory, souza ornl, ufrj, universidade federal do rio de
+    janeiro, federal university of rio de janeiro, coppe, slac, missouri state university,
+    stanford university, renan ufrj, renan coppe, renan souza ufrj, renan souza coppe,
+    renan scholar, renan souza scholar, souza ibm, souza ufrj, renan universidade
+    federal do rio de janeiro, renan souza universidade federal do rio de janeiro,
+    renan federal university of rio de janeiro, renan souza federal university of
+    rio de janeiro, ufrj, universidade federal do rio de janeiro, federal university
+    of rio de janeiro, souza coppe, renan databases, renan data management, renan
+    workflows, renan provenance, renan souza provenance, renan slac, renan stanford,
+    renan souza slac, renan souza stanford, renan msu, renan souza msu, renan phd,
+    renan doctorate, renan souza phd, renan souza doctorate, renan dsc, renan souza
+    dsc, renan brazil, renan souza brazil, renan rio, renan souza rio, renan rio de
+    janeiro, renan souza rio de janeiro, renan missouri, renan souza missouri, renan
+    souza workflows, renan souza databases, renan scientific, renan computer science,
+    renan data science, renan souza data science, renan steering, renan engineering,
+    renan souza engineering, renan souza data, renan data, renan souza data engineering,
+    renan data engineering, renan knowledge engineering, renan souza knowledge engineering,
+    renan scientist, renan research, renan researcher, renan souza researcher, renan
+    souza research, renan souza scientist, renan distributed, renan souza distributed,
+    renan souza distributed systems, renan systems, renan distributed systems, hpc,
+    renan hpc, renan souza hpc, renan distributed database, renan parallel, renan
+    souza parallel, renan linked open data, renan souza linked data, renan semantic
+    web, renan souza semantic web, renan ontologies, renan ontology
   name: {first: Renan, last: Souza}
   site_h1: Renan Souza, Ph.D.
   social: {dblp: 'Souza:Renan', facebook: renan.francisco.souza, github: renan-souza,
-    google_scholar: x9t36ewAAAAJ, ibm: br-rfsouza, lattes: 4414741541160361, linkedin: renansouza1,
+    google_scholar: x9t36ewAAAAJ, lattes: 4414741541160361, linkedin: renansouza1,
     research_gate: Renan_Souza9}
   src: https://github.com/renan-souza/cv
-  status: Large-scale Data Science and Engineering Researcher at Oak Ridge National
-    Laboratory
+  status: Data Science and Engineering Researcher at Oak Ridge National Laboratory
   url: RenanSouza.org
 port: 4444
 today: '2023-01-03'
