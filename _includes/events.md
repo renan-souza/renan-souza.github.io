@@ -9,6 +9,32 @@ Please, feel free to reach me if you need a presentation not available here.
 <table class="table table-hover">
 <tr>  
 
+  <td><b>IEEE International Conference on e-Science</b> 
+        <a href="https://www.escience-conference.org/2023/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
+ in 
+    Limassol, Cyprus
+    <br/>
+        <ul>
+               <li>
+                 Towards Lightweight Data Integration using Multi-workflow Provenance and Data Observability,
+                   Oral presentation
+               </li> 
+            
+        </ul>
+        
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2023 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
   <td><b>Brazilian Symposium on Databases (SBBD)</b> 
         <a href="https://sbbd.org.br/2021/ctdbd/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 

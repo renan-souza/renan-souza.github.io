@@ -1,7 +1,7 @@
 ## <i class="fa fa-chevron-right"></i> Bio
 
 <p style="text-align: justify;">
-    Renan Francisco Santos Souza holds a Ph.D., M.Sc., and B.Sc (2009-2019) in Computer Science from the [Federal University of Rio de Janeiro (UFRJ)](https://www.cos.ufrj.br). Since 2022, he has been a staff research scientist at the [Oak Ridge National Laboratory](https://www.ornl.gov/) in the [Data Lifecycle and Scalable Workflows](https://www.ornl.gov/group/dlsw) group. Before that (2015-2022), he was a staff research scientist at [IBM Research](https://www.research.ibm.com/labs/brazil/) in the [Intelligent Cloud Technologies](https://researcher.watson.ibm.com/researcher/view_group_pubs.php?grp=5113) group. He has been working both as a software engineer and a researcher on several projects since 2010. During his B.Sc., he spent a year at [Missouri State University](https://www.missouristate.edu/) and was an intern at [Stanford University](https://www.stanford.edu/) in the [SLAC](https://www6.slac.stanford.edu/) National Laboratory. During his Ph.D., he was a visiting researcher at [Inria](https://inria.fr/), France. He received the best M.Sc. thesis and an honored mention for the best Ph.D. thesis awards from SBBD, the main conference on data science in Latin America. He researches large-scale data management techniques to support the evolution of Artificial Intelligence systems in HPC and clouds.
+    Renan Francisco Santos Souza holds a Ph.D., M.Sc., and B.Sc (2009-2019) in Computer Science from the [Federal University of Rio de Janeiro (UFRJ)](https://www.cos.ufrj.br). Since 2022, he has been a staff research scientist at the [Oak Ridge National Laboratory](https://www.ornl.gov/) in the Workflow and Ecosystem Services group. Before that (2015-2022), he was a staff research scientist at [IBM Research](https://www.research.ibm.com/labs/brazil/) in the [Intelligent Cloud Technologies](https://researcher.watson.ibm.com/researcher/view_group_pubs.php?grp=5113) group. He has been working as a software engineer, researcher, and tech lead on several projects since 2010. During his B.Sc., he spent a year at [Missouri State University](https://www.missouristate.edu/) and was an intern at [Stanford University](https://www.stanford.edu/) in the [SLAC](https://www6.slac.stanford.edu/) National Laboratory. During his Ph.D., he was a visiting researcher at [Inria](https://inria.fr/), France. He received the best M.Sc. thesis and an honored mention for the best Ph.D. thesis awards from SBBD, the main conference on data science in Latin America. He researches large-scale data management techniques to support the evolution of Artificial Intelligence systems in HPC and clouds.
 </p>
 
 
@@ -34,13 +34,40 @@ for more information about education, professional experience, and technical ski
 <table class="table table-hover">
 
 <tr>
+<td class="col-md-3 hidden-xs hidden-sm" style="vertical-align: middle;"><img src="images/publications/souza2023towards.png" style="border:0"/></td>
+<td style="vertical-align: middle; text-align: justify;">
+    
+            <strong>Towards Lightweight Data Integration using Multi-workflow Provenance and Data Observability</strong><br>
+            <strong>R. Souza</strong>, T. Skluzacek, S. Wilkinson, M. Ziatdinov, and R. da Silva<br><i>IEEE International Conference on e-Science</i>, 2023.<br>
+            
+            [1] 
+[<a href='javascript: none'
+    onclick='$("#abs_souza2023towards").toggle()'>abstract</a>] [<a href='https://arxiv.org/pdf/2308.09004.pdf' target='_blank'>pdf</a>]  
+            [<a href='javascript: none'
+            onclick='$("#bib_souza2023towards").toggle()'>bibtex</a>]<br>
+            
+<div id="abs_souza2023towards" style="text-align: justify; display: none" markdown="1">
+<strong>Abstract. </strong>Modern large-scale scientific discovery requires multidisciplinary collaboration across diverse computing facilities, including High Performance Computing (HPC) machines and the Edge-to-Cloud continuum. Integrated data analysis plays a crucial role in scientific discovery, especially in the current AI era, by enabling Responsible AI development, FAIR, Reproducibility, and User Steering. However, the heterogeneous nature of science poses challenges such as dealing with multiple supporting tools, cross-facility environments, and efficient HPC execution. Building on data observability, adapter system design, and provenance, we propose MIDA: an approach for lightweight runtime Multi-workflow Integrated Data Analysis. MIDA defines data observability strategies and adaptability methods for various parallel systems and machine learning tools. With observability, it intercepts the dataflows in the background without requiring instrumentation while integrating domain, provenance, and telemetry data at runtime into a unified database ready for user steering queries. We conduct experiments showing end-to-end multi-workflow analysis integrating data from Dask and MLFlow in a real distributed deep learning use case for materials science that runs on multiple environments with up to 276 GPUs in parallel. We show near-zero overhead running up to 100,000 tasks on 1,680 CPU cores on the Summit supercomputer.
+</div>
+
+            
+<div id="bib_souza2023towards" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@inproceedings&#123;souza2023towards,<br/>&nbsp;&nbsp;abstract = &#123;Modern large-scale scientific discovery requires multidisciplinary collaboration across diverse computing facilities, including High Performance Computing (HPC) machines and the Edge-to-Cloud continuum. Integrated data analysis plays a crucial role in scientific discovery, especially in the current AI era, by enabling Responsible AI development, FAIR, Reproducibility, and User Steering. However, the heterogeneous nature of science poses challenges such as dealing with multiple supporting tools, cross-facility environments, and efficient HPC execution. Building on data observability, adapter system design, and provenance, we propose MIDA: an approach for lightweight runtime Multi-workflow Integrated Data Analysis. MIDA defines data observability strategies and adaptability methods for various parallel systems and machine learning tools. With observability, it intercepts the dataflows in the background without requiring instrumentation while integrating domain, provenance, and telemetry data at runtime into a unified database ready for user steering queries. We conduct experiments showing end-to-end multi-workflow analysis integrating data from Dask and MLFlow in a real distributed deep learning use case for materials science that runs on multiple environments with up to 276 GPUs in parallel. We show near-zero overhead running up to 100,000 tasks on 1,680 CPU cores on the Summit supercomputer.&#125;,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan and Skluzacek, Tyler J and Wilkinson, Sean R and Ziatdinov, Maxim and da Silva, Rafael Ferreira&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;IEEE International Conference on e-Science&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://arxiv.org/pdf/2308.09004.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Towards Lightweight Data Integration using Multi-workflow Provenance and Data Observability&#125;,<br/>&nbsp;&nbsp;year = &#123;2023&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
 <td class="col-md-3 hidden-xs hidden-sm" style="vertical-align: middle;"><img src="images/publications/asouza2020workflow.png" style="border:0"/></td>
 <td style="vertical-align: middle; text-align: justify;">
     
             <strong>Workflow Provenance in the Lifecycle of Scientific Machine Learning</strong><br>
             <strong>R. Souza</strong>, L. G. Azevedo, V. Lourenço, E. Soares, R. Thiago, R. Brandão, D. Civitarese, E. Vital Brazil, M. Moreno, P. Valduriez, M. Mattoso, R. Cerqueira, and M. A. S. Netto<br><i>Concurrency and Computation: Practice and Experience</i>, 2021.<br>
             
-            [1] 
+            [2] 
 [<a href='javascript: none'
     onclick='$("#abs_asouza2020workflow").toggle()'>abstract</a>] [<a href='https://doi.org/10.1002/cpe.6544' target='_blank'>online</a>]  [<a href='https://arxiv.org/pdf/2010.00330.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -69,7 +96,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Distributed In-memory Data Management for Workflow Executions</strong><br>
             <strong>R. Souza</strong>, V. Silva, A. Lima, D. Oliveira, P. Valduriez, and M. Mattoso<br><i>PeerJ Computer Science</i>, 2021.<br>
             
-            [2] 
+            [3] 
 [<a href='javascript: none'
     onclick='$("#abs_souza_distributed_2021").toggle()'>abstract</a>] [<a href='https://doi.org/10.7717/peerj-cs.527' target='_blank'>doi</a>]  [<a href='https://peerj.com/articles/cs-527/' target='_blank'>online</a>]  [<a href='https://arxiv.org/ftp/arxiv/papers/2105/2105.04720.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -82,33 +109,6 @@ The experiments show that the principles enable queries that integrate domain se
             
 <div id="bib_souza_distributed_2021" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
 @article&#123;souza_distributed_2021,<br/>&nbsp;&nbsp;abstract = &#123;Complex scientific experiments from various domains are typically modeled as workflows and executed on large-scale machines using a Parallel Workflow Management System (WMS). Since such executions usually last for hours or days, some WMSs provide user steering support, i.e., they allow users to run data analyses and, depending on the results, adapt the workflows at runtime. A challenge in the parallel execution control design is to manage workflow data for efficient executions while enabling user steering support. Data access for high scalability is typically transaction-oriented, while for data analysis, it is online analytical-oriented so that managing such hybrid workloads makes the challenge even harder. In this work, we present SchalaDB, an architecture with a set of design principles and techniques based on distributed in-memory data management for efficient workflow execution control and user steering. We propose a distributed data design for scalable workflow task scheduling and high availability driven by a parallel and distributed in-memory DBMS. To evaluate our proposal, we develop d-Chiron, a WMS designed according to SchalaDB's principles. We carry out an extensive experimental evaluation on an HPC cluster with up to 960 computing cores. Among other analyses, we show that even when running data analyses for user steering, SchalaDB's overhead is negligible for workloads composed of hundreds of concurrent tasks on shared data. Our results encourage workflow engine developers to follow a parallel and distributed data-oriented approach not only for scheduling and monitoring but also for user steering.&#125;,<br/>&nbsp;&nbsp;author = &#123;Souza, R. and Silva, V. and Lima, A. A. B. and Oliveira, D. and Valduriez, P. and Mattoso, M.&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.7717/peerj-cs.527&#125;,<br/>&nbsp;&nbsp;journal = &#123;PeerJ Computer Science&#125;,<br/>&nbsp;&nbsp;link = &#123;https://peerj.com/articles/cs-527/&#125;,<br/>&nbsp;&nbsp;pages = &#123;1--30&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://arxiv.org/ftp/arxiv/papers/2105/2105.04720.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Distributed In-memory Data Management for Workflow Executions&#125;,<br/>&nbsp;&nbsp;volume = &#123;7&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
-</div>
-
-        
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3 hidden-xs hidden-sm" style="vertical-align: middle;"><a href='https://doi.org/10.1109/eScience.2019.00047' target='_blank'><img src="images/publications/souza_efficient_2019.png" style="border:0"/></a> </td>
-<td style="vertical-align: middle; text-align: justify;">
-    
-            <strong>Efficient Runtime Capture of Multiworkflow Data Using Provenance</strong><br>
-            <strong>R. Souza</strong>, L. Azevedo, R. Thiago, E. Soares, M. Nery, M. Netto, E. Brazil, R. Cerqueira, P. Valduriez, and M. Mattoso<br><i>IEEE International Conference on e-Science (eScience)</i>, 2019.<br>
-            
-            [3] 
-[<a href='javascript: none'
-    onclick='$("#abs_souza_efficient_2019").toggle()'>abstract</a>] [<a href='https://doi.org/10.1109/eScience.2019.00047' target='_blank'>doi</a>]  [<a href='https://doi.org/10.1109/eScience.2019.00047' target='_blank'>online</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-02265932/document' target='_blank'>pdf</a>]  
-            [<a href='javascript: none'
-            onclick='$("#bib_souza_efficient_2019").toggle()'>bibtex</a>]<br>
-            
-<div id="abs_souza_efficient_2019" style="text-align: justify; display: none" markdown="1">
-<strong>Abstract. </strong>Computational  Science  and  Engineering  (CSE) projects are typically developed by multidisciplinary teams. Despite being part of the same project, each team manages its own workflows, using  specific  execution  environments  and  data processingtools. Analyzing the data processed by all workflows globally is a core task in a CSE project. However, this analysis is hard because the data generated by these workflows are not integrated. In addition, since these workflows may take a long time to execute, data analysis needs to be done at runtime to reduce cost and time of the CSE project. A typical solution in scientific data analysis is to capture and relate the data in a provenance database while the workflows run, thus allowing for data analysisat runtime. However, the main problem is that such data capture competes with the running workflows, adding significant overhead to their execution. To mitigate this problem, we introduce in this paper a system called ProvLake, which adopts design principles for providing efficientdistributed data capture from the workflows. While capturing the data, ProvLake logically integrates and ingests them into a provenance database ready for analyses at runtime. We validated  ProvLake ina  real  use  case  in  the  O&G  industry encompassing four workflows that process 5TB datasets for a deep learning classifier. Compared with Komadu, the closest solution that meets our goals, our approach enables runtime multiworkflow data analysis with much smaller overhead, such as 0.1%.<br/><strong>Keywords: </strong> Multiworkflow provenance, Multi-Data Lineage, Data Lake Provenance, ProvLake
-</div>
-
-            
-<div id="bib_souza_efficient_2019" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@inproceedings&#123;souza_efficient_2019,<br/>&nbsp;&nbsp;abstract = &#123;Computational  Science  and  Engineering  (CSE) projects are typically developed by multidisciplinary teams. Despite being part of the same project, each team manages its own workflows, using  specific  execution  environments  and  data processingtools. Analyzing the data processed by all workflows globally is a core task in a CSE project. However, this analysis is hard because the data generated by these workflows are not integrated. In addition, since these workflows may take a long time to execute, data analysis needs to be done at runtime to reduce cost and time of the CSE project. A typical solution in scientific data analysis is to capture and relate the data in a provenance database while the workflows run, thus allowing for data analysisat runtime. However, the main problem is that such data capture competes with the running workflows, adding significant overhead to their execution. To mitigate this problem, we introduce in this paper a system called ProvLake, which adopts design principles for providing efficientdistributed data capture from the workflows. While capturing the data, ProvLake logically integrates and ingests them into a provenance database ready for analyses at runtime. We validated  ProvLake ina  real  use  case  in  the  O&G  industry encompassing four workflows that process 5TB datasets for a deep learning classifier. Compared with Komadu, the closest solution that meets our goals, our approach enables runtime multiworkflow data analysis with much smaller overhead, such as 0.1\%.&#125;,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan and Azevedo, Leonardo and Thiago, Raphael and Soares, Elton and Nery, Marcelo and Netto, Marco and Brazil, Emilio Vital and Cerqueira, Renato and Valduriez, Patrick and Mattoso, Marta&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;&#123;IEEE&#125; International Conference on e-Science (eScience)&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.1109/eScience.2019.00047&#125;,<br/>&nbsp;&nbsp;keyword = &#123;Multiworkflow provenance, Multi-Data Lineage, Data Lake Provenance, ProvLake&#125;,<br/>&nbsp;&nbsp;link = &#123;https://doi.org/10.1109/eScience.2019.00047&#125;,<br/>&nbsp;&nbsp;pages = &#123;1--10&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://hal-lirmm.ccsd.cnrs.fr/lirmm-02265932/document&#125;,<br/>&nbsp;&nbsp;title = &#123;Efficient Runtime Capture of Multiworkflow Data Using Provenance&#125;,<br/>&nbsp;&nbsp;year = &#123;2019&#125;<br/>&#125;<br/><br/>
 </div>
 
         
