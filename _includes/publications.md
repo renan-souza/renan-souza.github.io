@@ -996,13 +996,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Data transformation for acceleration of context migration in interactive computing notebooks</strong><br>
             L. Real, R. Cunha, <strong>R. Souza</strong>, and M. Netto, 2023.<br>
             
-            [P1] 
+            [P1] [<a href='https://patents.google.com/patent/US20230012543A1/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_real2023dataP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_real2023dataP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;real2023data,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and Cunha, Renato Luiz De Freitas and Souza, Renan and Netto, Marco Aurelio Stelmar&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/683,279&#125;,<br/>&nbsp;&nbsp;title = &#123;Data transformation for acceleration of context migration in interactive computing notebooks&#125;,<br/>&nbsp;&nbsp;year = &#123;2023&#125;<br/>&#125;<br/><br/>
+@misc&#123;real2023data,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and Cunha, Renato Luiz De Freitas and Souza, Renan and Netto, Marco Aurelio Stelmar&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US20230012543A1/en&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/683,279&#125;,<br/>&nbsp;&nbsp;title = &#123;Data transformation for acceleration of context migration in interactive computing notebooks&#125;,<br/>&nbsp;&nbsp;year = &#123;2023&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -1016,13 +1016,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Remotely healing crashed processes</strong><br>
             M. Netto, B. Silva, R. Cunha, <strong>R. Souza</strong>, and L. Real, 2023.<br>
             
-            [P2] 
+            [P2] [<a href='https://patents.google.com/patent/US20230088318A1/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_netto2023remotelyP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_netto2023remotelyP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;netto2023remotely,<br/>&nbsp;&nbsp;author = &#123;Netto, Marco Aurelio Stelmar and Silva, Bruno and Cunha, Renato Luiz De Freitas and Souza, Renan and Real, Lucas Correia Villa&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/480,087&#125;,<br/>&nbsp;&nbsp;title = &#123;Remotely healing crashed processes&#125;,<br/>&nbsp;&nbsp;year = &#123;2023&#125;<br/>&#125;<br/><br/>
+@misc&#123;netto2023remotely,<br/>&nbsp;&nbsp;author = &#123;Netto, Marco Aurelio Stelmar and Silva, Bruno and Cunha, Renato Luiz De Freitas and Souza, Renan and Real, Lucas Correia Villa&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US20230088318A1/en&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/480,087&#125;,<br/>&nbsp;&nbsp;title = &#123;Remotely healing crashed processes&#125;,<br/>&nbsp;&nbsp;year = &#123;2023&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -1036,13 +1036,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Asset identification for collaborative projects in software development</strong><br>
             L. Real, R. Cunha, M. dos Santos, and <strong>R. Souza</strong>, 2022.<br>
             
-            [P3] 
+            [P3] [<a href='https://patents.google.com/patent/US11650812/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_real2022assetP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_real2022assetP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;real2022asset,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and Cunha, Renato Luiz De Freitas and dos Santos, Marcelo Nery and Souza, Renan&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/118,646&#125;,<br/>&nbsp;&nbsp;title = &#123;Asset identification for collaborative projects in software development&#125;,<br/>&nbsp;&nbsp;year = &#123;2022&#125;<br/>&#125;<br/><br/>
+@misc&#123;real2022asset,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and Cunha, Renato Luiz De Freitas and dos Santos, Marcelo Nery and Souza, Renan&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US11650812/en&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/118,646&#125;,<br/>&nbsp;&nbsp;title = &#123;Asset identification for collaborative projects in software development&#125;,<br/>&nbsp;&nbsp;year = &#123;2022&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -1056,13 +1056,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Program context migration</strong><br>
             L. Real, M. Netto, R. Cunha, <strong>R. Souza</strong>, and A. Braz, 2022.<br>
             
-            [P4] 
+            [P4] [<a href='https://patents.google.com/patent/US20220318049A1/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_real2022programP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_real2022programP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;real2022program,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and Netto, Marco Aurelio Stelmar and Cunha, Renato Luiz De Freitas and Souza, Renan and Braz, Alan&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/216,817&#125;,<br/>&nbsp;&nbsp;title = &#123;Program context migration&#125;,<br/>&nbsp;&nbsp;year = &#123;2022&#125;<br/>&#125;<br/><br/>
+@misc&#123;real2022program,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and Netto, Marco Aurelio Stelmar and Cunha, Renato Luiz De Freitas and Souza, Renan and Braz, Alan&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US20220318049A1/en&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/216,817&#125;,<br/>&nbsp;&nbsp;title = &#123;Program context migration&#125;,<br/>&nbsp;&nbsp;year = &#123;2022&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -1076,13 +1076,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Model Document Creation in Source Code Development Environments using Semantic-aware Detectable Action Impacts</strong><br>
             A. Appel, C. De Freitas, <strong>R. Souza</strong>, C. Mendes, A. Vital, N. Dos, S. Marcelo, M. Stelmar Netto, P. Avegliano, and C. Villas, 2022.<br>
             
-            [P5] 
+            [P5] [<a href='https://patents.google.com/patent/US20220405065A1/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_appel2022modelP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_appel2022modelP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;appel2022model,<br/>&nbsp;&nbsp;author = &#123;Appel, Ana Paula and De Freitas, Cunha Renato Luiz and Souza, Renan and Mendes, Carlos Raoni De Alencar and Vital, Ashton and Dos, Nery and Marcelo, Santos and Stelmar Netto, Marco Aurelio and Avegliano, Priscilla Barreira and Villas, Costa&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/353,731&#125;,<br/>&nbsp;&nbsp;title = &#123;Model Document Creation in Source Code Development Environments using Semantic-aware Detectable Action Impacts&#125;,<br/>&nbsp;&nbsp;year = &#123;2022&#125;<br/>&#125;<br/><br/>
+@misc&#123;appel2022model,<br/>&nbsp;&nbsp;author = &#123;Appel, Ana Paula and De Freitas, Cunha Renato Luiz and Souza, Renan and Mendes, Carlos Raoni De Alencar and Vital, Ashton and Dos, Nery and Marcelo, Santos and Stelmar Netto, Marco Aurelio and Avegliano, Priscilla Barreira and Villas, Costa&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US20220405065A1/en&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/353,731&#125;,<br/>&nbsp;&nbsp;title = &#123;Model Document Creation in Source Code Development Environments using Semantic-aware Detectable Action Impacts&#125;,<br/>&nbsp;&nbsp;year = &#123;2022&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -1096,13 +1096,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Continuous storage of data in a system with limited storage capacity</strong><br>
             L. Real, M. dos Santos, and <strong>R. Souza</strong>, 2021.<br>
             
-            [P6] 
+            [P6] [<a href='https://patents.google.com/patent/US11221925/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_real2021continuousP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_real2021continuousP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;real2021continuous,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and dos Santos, Marcelo Nery and Souza, Renan&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 16/678,375&#125;,<br/>&nbsp;&nbsp;title = &#123;Continuous storage of data in a system with limited storage capacity&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
+@misc&#123;real2021continuous,<br/>&nbsp;&nbsp;author = &#123;Real, Lucas Correia Villa and dos Santos, Marcelo Nery and Souza, Renan&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US11221925/en&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 16/678,375&#125;,<br/>&nbsp;&nbsp;title = &#123;Continuous storage of data in a system with limited storage capacity&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -1116,13 +1116,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Metadata-based scientific data characterization driven by a knowledge database at scale</strong><br>
             <strong>R. Souza</strong>, R. Mozart, F. Da Silva, A. Vital, and V. Silva, 2021.<br>
             
-            [P7] 
+            [P7] [<a href='https://patents.google.com/patent/US11494611/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_souza2021metadataP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_souza2021metadataP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;souza2021metadata,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan and Mozart, Reinaldo and Da Silva, Ferreira Rodrigo and Vital, Ashton and Silva, Viviane Torres da&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 16/527,546&#125;,<br/>&nbsp;&nbsp;title = &#123;Metadata-based scientific data characterization driven by a knowledge database at scale&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
+@misc&#123;souza2021metadata,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan and Mozart, Reinaldo and Da Silva, Ferreira Rodrigo and Vital, Ashton and Silva, Viviane Torres da&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US11494611/en&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 16/527,546&#125;,<br/>&nbsp;&nbsp;title = &#123;Metadata-based scientific data characterization driven by a knowledge database at scale&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -1136,13 +1136,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Creating coordinated multi-chatbots using natural dialogues by means of knowledge base</strong><br>
             M. De Bayser, A. Braz, P. Cavalin, F. Figueiredo, and <strong>R. Souza</strong>, 2018.<br>
             
-            [P8] 
+            [P8] [<a href='https://patents.google.com/patent/US20180025726A1/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_de2018creatingP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_de2018creatingP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;de2018creating,<br/>&nbsp;&nbsp;author = &#123;De Bayser, Maira Gatti and Braz, Alan and Cavalin, Paulo Rodrigo and Figueiredo, Flavio and Souza, Renan&#125;,<br/>&nbsp;&nbsp;note = &#123;Granted, US Patent Application 15/217,660&#125;,<br/>&nbsp;&nbsp;title = &#123;Creating coordinated multi-chatbots using natural dialogues by means of knowledge base&#125;,<br/>&nbsp;&nbsp;year = &#123;2018&#125;<br/>&#125;<br/><br/>
+@misc&#123;de2018creating,<br/>&nbsp;&nbsp;author = &#123;De Bayser, Maira Gatti and Braz, Alan and Cavalin, Paulo Rodrigo and Figueiredo, Flavio and Souza, Renan&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US20180025726A1/en&#125;,<br/>&nbsp;&nbsp;note = &#123;Granted, US Patent Application 15/217,660&#125;,<br/>&nbsp;&nbsp;title = &#123;Creating coordinated multi-chatbots using natural dialogues by means of knowledge base&#125;,<br/>&nbsp;&nbsp;year = &#123;2018&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -1156,13 +1156,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>System and method for managing artificial conversational entities enhanced by social knowledge</strong><br>
             A. Braz, P. Cavalin, F. Figueiredo, M. De Bayser, and <strong>R. Souza</strong>, 2018.<br>
             
-            [P9] 
+            [P9] [<a href='https://patents.google.com/patent/US10599644/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_braz2018systemP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_braz2018systemP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;braz2018system,<br/>&nbsp;&nbsp;author = &#123;Braz, Alan and Cavalin, Paulo Rodrigo and Figueiredo, Flavio and De Bayser, Maira Gatti and Souza, Renan&#125;,<br/>&nbsp;&nbsp;note = &#123;Granted, US Patent Application 15/265,615&#125;,<br/>&nbsp;&nbsp;title = &#123;System and method for managing artificial conversational entities enhanced by social knowledge&#125;,<br/>&nbsp;&nbsp;year = &#123;2018&#125;<br/>&#125;<br/><br/>
+@misc&#123;braz2018system,<br/>&nbsp;&nbsp;author = &#123;Braz, Alan and Cavalin, Paulo Rodrigo and Figueiredo, Flavio and De Bayser, Maira Gatti and Souza, Renan&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US10599644/en&#125;,<br/>&nbsp;&nbsp;note = &#123;Granted, US Patent Application 15/265,615&#125;,<br/>&nbsp;&nbsp;title = &#123;System and method for managing artificial conversational entities enhanced by social knowledge&#125;,<br/>&nbsp;&nbsp;year = &#123;2018&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -1176,13 +1176,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Predicting user question in question and answer system</strong><br>
             A. Appel, A. Gama Leal, and <strong>R. Souza</strong>, 2017.<br>
             
-            [P10] 
+            [P10] [<a href='https://patents.google.com/patent/US11687811B2/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_appel2017predictingP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_appel2017predictingP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;appel2017predicting,<br/>&nbsp;&nbsp;author = &#123;Appel, Ana P and Gama Leal, Andre and Souza, Renan&#125;,<br/>&nbsp;&nbsp;note = &#123;Granted, US Patent Application 15/171,055&#125;,<br/>&nbsp;&nbsp;title = &#123;Predicting user question in question and answer system&#125;,<br/>&nbsp;&nbsp;year = &#123;2017&#125;<br/>&#125;<br/><br/>
+@misc&#123;appel2017predicting,<br/>&nbsp;&nbsp;author = &#123;Appel, Ana P and Gama Leal, Andre and Souza, Renan&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US11687811B2/en&#125;,<br/>&nbsp;&nbsp;note = &#123;Granted, US Patent Application 15/171,055&#125;,<br/>&nbsp;&nbsp;title = &#123;Predicting user question in question and answer system&#125;,<br/>&nbsp;&nbsp;year = &#123;2017&#125;<br/>&#125;<br/><br/>
 </div>
 
         
