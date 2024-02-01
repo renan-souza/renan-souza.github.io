@@ -9,6 +9,24 @@ Please, feel free to reach me if you need a presentation not available here.
 <table class="table table-hover">
 <tr>  
 
+  <td><b>IEEE/ACM Supercomputing (SC)</b> 
+        <a href="https://sc23.supercomputing.org" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
+ in 
+    Denver, CO
+    <br/>
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2023 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
   <td><b>IEEE International Conference on e-Science</b> 
         <a href="https://www.escience-conference.org/2023/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
@@ -17,7 +35,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Towards Lightweight Data Integration using Multi-workflow Provenance and Data Observability,
-                   Oral presentation
+                   Oral presentation 
                </li> 
             
         </ul>
@@ -43,8 +61,8 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  User Steering Support in Large-Scale Workflows,
-                   Oral presentation
-                       , <a href="https://www.youtube.com/watch?v=Kbnyt-T0EIs" target="_blank">link</a>                                
+                   Oral presentation 
+                   , <a href="https://www.youtube.com/watch?v=Kbnyt-T0EIs" target="_blank">link</a>                                
                </li> 
             
         </ul>
@@ -69,8 +87,8 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  A Knowledge-centric Approach to Support Large-scale AI Systems (in PT),
-                   Oral presentation
-                       , <a href="https://www.youtube.com/watch?v=9U4qtwcQAZU" target="_blank">link</a>                                
+                   Oral presentation 
+                   , <a href="https://www.youtube.com/watch?v=9U4qtwcQAZU" target="_blank">link</a>                                
                </li> 
             
         </ul>
@@ -96,13 +114,13 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  AI4Seismic: An AI-Driven Platform to Accelerate Geological Discoveries,
-                   Oral presentation, Highlighted by the SIAM press
-                       , <a href="https://sinews.siam.org/Details-Page/ai4seismic-platform-combines-artificial-intelligence-and-seismic-data-analysis" target="_blank">link</a>                                
+                   Oral presentation, Highlighted by the SIAM press 
+                   , <a href="https://sinews.siam.org/Details-Page/ai4seismic-platform-combines-artificial-intelligence-and-seismic-data-analysis" target="_blank">link</a>                                
                </li> 
                <li>
                  Workflow Provenance in the Lifecycle of Scientific Machine Learning,
-                   Oral presentation
-                       , <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70197" target="_blank">link</a>                                
+                   Oral presentation 
+                   , <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70197" target="_blank">link</a>                                
                </li> 
             
         </ul>
@@ -137,9 +155,9 @@ Please, feel free to reach me if you need a presentation not available here.
 </tr>
 <tr>  
 
-  <td><b>International Conference on Management of Data (SIGMOD)</b> 
+  <td><b>ACM International Conference on Management of Data (SIGMOD)</b> 
  in 
-    Portland, OR. (virtual)
+    Portland, OR (virtual)
     <br/>
     
     
@@ -195,7 +213,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Workflow Provenance in the Lifecycle of Scientific Machine Learning,
-                   Oral presentation
+                   Oral presentation 
                </li> 
             
         </ul>
@@ -265,7 +283,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Provenance Data in the Machine Learning Lifecycle in Computational Science and Engineering,
-                   Oral presentation
+                   Oral presentation 
                </li> 
             
         </ul>
@@ -308,7 +326,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Efficient Runtime Capture of Multiworkflow Data using Provenance,
-                   Oral presentation
+                   Oral presentation 
                </li> 
             
         </ul>
@@ -334,7 +352,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Providing Online Data Analytical Support for Humans in the Loop of Computational Science and Engineering Applications,
-                   Oral presentation
+                   Oral presentation 
                </li> 
             
         </ul>
@@ -464,11 +482,11 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Spark Scalability Analysis in a Scientific Workflow,
-                   Oral presentation
+                   Oral presentation 
                </li> 
                <li>
                  Controlling the Parallel Execution of Workflows Relying on a Distributed Database,
-                   Oral presentation
+                   Oral presentation 
                </li> 
             
         </ul>
@@ -493,7 +511,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Kubernetes,
-                   Invited talk
+                   Invited talk 
                </li> 
             
         </ul>
@@ -535,7 +553,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Kubernetes,
-                   Oral presentation
+                   Oral presentation 
                </li> 
             
         </ul>
@@ -560,7 +578,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Graph Analytics with Spark,
-                   Tutorial
+                   Tutorial 
                </li> 
             
         </ul>
@@ -611,7 +629,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Linked open data publication strategies: Application in networking performance measurement data,
-                   poster presentation
+                   poster presentation 
                </li> 
             
         </ul>

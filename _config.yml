@@ -44,11 +44,10 @@ personal:
     web, renan souza semantic web, renan ontologies, renan ontology
   name: {first: Renan, last: Souza}
   site_h1: Renan Souza, Ph.D.
-  social: {dblp: 'Souza:Renan', facebook: renan.francisco.souza, github: renan-souza,
-    google_scholar: x9t36ewAAAAJ, lattes: 4414741541160361, linkedin: renansouza1,
-    research_gate: Renan_Souza9}
+  social: {dblp: 'Souza:Renan', github: renan-souza, google_scholar: x9t36ewAAAAJ,
+    lattes: 4414741541160361, linkedin: renansouza1, research_gate: Renan_Souza9}
   src: https://github.com/renan-souza/cv
   status: Data Science and Engineering Research Staff at Oak Ridge National Laboratory
   url: RenanSouza.org
 port: 4444
-today: '2023-10-11'
+today: '2024-02-01'
