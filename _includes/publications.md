@@ -1036,13 +1036,13 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Shortened narrative instruction generator for software code change</strong><br>
             M. Netto, L. Real, B. Silva, and <strong>R. Souza</strong>, 2024.<br>
             
-            [P1] 
+            [P1] [<a href='https://patents.google.com/patent/US20240053980A1/en' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_netto2024shortenedP").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_netto2024shortenedP" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@misc&#123;netto2024shortened,<br/>&nbsp;&nbsp;author = &#123;Netto, Marco Aurelio Stelmar and Real, Lucas Correia Villa and Silva, Bruno and Souza, Renan&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/819,025&#125;,<br/>&nbsp;&nbsp;title = &#123;Shortened narrative instruction generator for software code change&#125;,<br/>&nbsp;&nbsp;year = &#123;2024&#125;<br/>&#125;<br/><br/>
+@misc&#123;netto2024shortened,<br/>&nbsp;&nbsp;author = &#123;Netto, Marco Aurelio Stelmar and Real, Lucas Correia Villa and Silva, Bruno and Souza, Renan&#125;,<br/>&nbsp;&nbsp;link = &#123;https://patents.google.com/patent/US20240053980A1/en&#125;,<br/>&nbsp;&nbsp;note = &#123;US Patent App. 17/819,025&#125;,<br/>&nbsp;&nbsp;title = &#123;Shortened narrative instruction generator for software code change&#125;,<br/>&nbsp;&nbsp;year = &#123;2024&#125;<br/>&#125;<br/><br/>
 </div>
 
         
