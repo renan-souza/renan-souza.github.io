@@ -349,7 +349,7 @@ The experiments show that the principles enable queries that integrate domain se
 <tr>
 <td style="vertical-align: middle; text-align: justify;">
     
-            <strong>{HKPoly}: A Polystore Architecture to Support Data Linkage and Queries on Distributed and Heterogeneous Data</strong><br>
+            <strong>HKPoly: A Polystore Architecture to Support Data Linkage and Queries on Distributed and Heterogeneous Data</strong><br>
             L. Azevedo, <strong>R. Souza</strong>, E. Soares, R. Thiago, J. Tesolin, A. Oliveira, and M. Moreno<br><i>Brazilian Symposium on Information Systems</i>, 2024.<br>
             
             [C2] 
@@ -358,7 +358,7 @@ The experiments show that the principles enable queries that integrate domain se
             
             
 <div id="bib_azevedo_hkpoly2024C" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@inproceedings&#123;azevedo_hkpoly2024,<br/>&nbsp;&nbsp;author = &#123;Azevedo, Leonardo and Souza, Renan and Soares, Elton and Thiago, Raphael and Tesolin, Julio C. C. and Oliveira, Anna and Moreno, Marcio&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;Brazilian Symposium on Information Systems&#125;,<br/>&nbsp;&nbsp;title = &#123;&#123;&#123;HKPoly&#125;&#125;: A Polystore Architecture to Support Data Linkage and Queries on Distributed and Heterogeneous Data&#125;,<br/>&nbsp;&nbsp;year = &#123;2024&#125;<br/>&#125;<br/><br/>
+@inproceedings&#123;azevedo_hkpoly2024,<br/>&nbsp;&nbsp;author = &#123;Azevedo, Leonardo and Souza, Renan and Soares, Elton and Thiago, Raphael and Tesolin, Julio C. C. and Oliveira, Anna and Moreno, Marcio&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;Brazilian Symposium on Information Systems&#125;,<br/>&nbsp;&nbsp;title = &#123;&#123;HKPoly&#125;: A Polystore Architecture to Support Data Linkage and Queries on Distributed and Heterogeneous Data&#125;,<br/>&nbsp;&nbsp;year = &#123;2024&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -395,7 +395,7 @@ The experiments show that the principles enable queries that integrate domain se
 <tr>
 <td style="vertical-align: middle; text-align: justify;">
     
-            <strong>{ProvLight}: Efficient Workflow Provenance Capture on the Edge-to-Cloud Continuum</strong><br>
+            <strong>ProvLight: Efficient Workflow Provenance Capture on the Edge-to-Cloud Continuum</strong><br>
             D. Rosendo, M. Mattoso, A. Costan, <strong>R. Souza</strong>, D. Pina, P. Valduriez, and G. Antoniu<br><i>IEEE International Conference on Cluster Computing</i>, 2023.<br>
             
             [C4] [<a href='https://doi.org/10.1109/CLUSTER52292.2023.00026' target='_blank'>doi</a>]  [<a href='https://www.computer.org/csdl/proceedings-article/cluster/2023/079200a221/1SfUrCnjgAM' target='_blank'>online</a>]  [<a href='https://arxiv.org/pdf/2307.10658' target='_blank'>pdf</a>]  
@@ -404,7 +404,7 @@ The experiments show that the principles enable queries that integrate domain se
             
             
 <div id="bib_rosendo2023provlightC" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@inproceedings&#123;rosendo2023provlight,<br/>&nbsp;&nbsp;author = &#123;Rosendo, Daniel and Mattoso, Marta and Costan, Alexandru and Souza, Renan and Pina, D&#123;\'e&#125;bora and Valduriez, Patrick and Antoniu, Gabriel&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;IEEE International Conference on Cluster Computing&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.1109/CLUSTER52292.2023.00026&#125;,<br/>&nbsp;&nbsp;link = &#123;https://www.computer.org/csdl/proceedings-article/cluster/2023/079200a221/1SfUrCnjgAM&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://arxiv.org/pdf/2307.10658&#125;,<br/>&nbsp;&nbsp;title = &#123;&#123;&#123;ProvLight&#125;&#125;: Efficient Workflow Provenance Capture on the Edge-to-Cloud Continuum&#125;,<br/>&nbsp;&nbsp;year = &#123;2023&#125;<br/>&#125;<br/><br/>
+@inproceedings&#123;rosendo2023provlight,<br/>&nbsp;&nbsp;author = &#123;Rosendo, Daniel and Mattoso, Marta and Costan, Alexandru and Souza, Renan and Pina, D&#123;\'e&#125;bora and Valduriez, Patrick and Antoniu, Gabriel&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;IEEE International Conference on Cluster Computing&#125;,<br/>&nbsp;&nbsp;doi = &#123;10.1109/CLUSTER52292.2023.00026&#125;,<br/>&nbsp;&nbsp;link = &#123;https://www.computer.org/csdl/proceedings-article/cluster/2023/079200a221/1SfUrCnjgAM&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://arxiv.org/pdf/2307.10658&#125;,<br/>&nbsp;&nbsp;title = &#123;&#123;ProvLight&#125;: Efficient Workflow Provenance Capture on the Edge-to-Cloud Continuum&#125;,<br/>&nbsp;&nbsp;year = &#123;2023&#125;<br/>&#125;<br/><br/>
 </div>
 
         
