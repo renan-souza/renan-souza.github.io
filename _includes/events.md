@@ -283,7 +283,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Provenance Data in the Machine Learning Lifecycle in Computational Science and Engineering,
-                   Oral presentation 
+                   Invited talk 
                </li> 
             
         </ul>
