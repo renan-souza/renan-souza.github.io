@@ -19,7 +19,7 @@ for more information about education, professional experience, and technical ski
         Parallel Workflows &bull; 
         Data Provenance &bull; 
         Big Data Analytics &bull; 
-        High Performance Computing in Clusters and Clouds &bull; 
+        High Performance Computing on Clusters and Clouds &bull; 
         Machine Learning 
 </p>
 

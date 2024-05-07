@@ -456,7 +456,7 @@ The experiments show that the principles enable queries that integrate domain se
 <td style="vertical-align: middle; text-align: justify;">
     
             <strong>User Steering Support in Large-scale Workflows</strong><br>
-            <strong>R. Souza</strong><br><i>PhD Thesis Contest: Simpósio Brasileiro de Banco de Dados (SBBD)</i>, 2021.<br>
+            <strong>R. Souza</strong><br><i>PhD Thesis Contest: Brazilian Symposium on Databases (SBBD)</i>, 2021.<br>
             
             [C7] [<a href='https://sol.sbc.org.br/index.php/sbbd_estendido/article/download/18185/18019' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -464,7 +464,7 @@ The experiments show that the principles enable queries that integrate domain se
             
             
 <div id="bib_souza_2021_ctd_sbbdC" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@inproceedings&#123;souza_2021_ctd_sbbd,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;PhD Thesis Contest: Simpósio Brasileiro de Banco de Dados (&#123;SBBD&#125;)&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://sol.sbc.org.br/index.php/sbbd_estendido/article/download/18185/18019&#125;,<br/>&nbsp;&nbsp;title = &#123;User Steering Support in Large-scale Workflows&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
+@inproceedings&#123;souza_2021_ctd_sbbd,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;PhD Thesis Contest: Brazilian Symposium on Databases (&#123;SBBD&#125;)&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://sol.sbc.org.br/index.php/sbbd_estendido/article/download/18185/18019&#125;,<br/>&nbsp;&nbsp;title = &#123;User Steering Support in Large-scale Workflows&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -476,7 +476,7 @@ The experiments show that the principles enable queries that integrate domain se
 <td style="vertical-align: middle; text-align: justify;">
     
             <strong>A Recommender for Choosing Data Systems based on Application Profiling and Benchmarking</strong><br>
-            E. Soares, <strong>R. Souza</strong>, R. Thiago, M. Machado, and L. Azevedo<br><i>Simpósio Brasileiro de Banco de Dados (SBBD)</i>, 2021.<br>
+            E. Soares, <strong>R. Souza</strong>, R. Thiago, M. Machado, and L. Azevedo<br><i>Brazilian Symposium on Databases (SBBD)</i>, 2021.<br>
             
             [C8] 
             [<a href='javascript: none'
@@ -484,7 +484,7 @@ The experiments show that the principles enable queries that integrate domain se
             
             
 <div id="bib_soares_2021_recommenderC" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@inproceedings&#123;soares_2021_recommender,<br/>&nbsp;&nbsp;author = &#123;Soares, Elton and Souza, Renan and Thiago, Raphael and Machado, Marcelo and Azevedo, Leonardo&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;Simpósio Brasileiro de Banco de Dados (&#123;SBBD&#125;)&#125;,<br/>&nbsp;&nbsp;pages = &#123;265-270&#125;,<br/>&nbsp;&nbsp;title = &#123;A Recommender for Choosing Data Systems based on Application Profiling and Benchmarking&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
+@inproceedings&#123;soares_2021_recommender,<br/>&nbsp;&nbsp;author = &#123;Soares, Elton and Souza, Renan and Thiago, Raphael and Machado, Marcelo and Azevedo, Leonardo&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;Brazilian Symposium on Databases (&#123;SBBD&#125;)&#125;,<br/>&nbsp;&nbsp;pages = &#123;265-270&#125;,<br/>&nbsp;&nbsp;title = &#123;A Recommender for Choosing Data Systems based on Application Profiling and Benchmarking&#125;,<br/>&nbsp;&nbsp;year = &#123;2021&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -808,7 +808,7 @@ The experiments show that the principles enable queries that integrate domain se
 <td style="vertical-align: middle; text-align: justify;">
     
             <strong>Spark Scalability Analysis in a Scientific Workflow</strong><br>
-            <strong>R. Souza</strong>, V. Silva, P. Miranda, A. Lima, P. Valduriez, and M. Mattoso<br><i>Simpósio Brasileiro de Banco de Dados (SBBD)</i>, 2017.<br>
+            <strong>R. Souza</strong>, V. Silva, P. Miranda, A. Lima, P. Valduriez, and M. Mattoso<br><i>Brazilian Symposium on Databases (SBBD)</i>, 2017.<br>
             
             [C24] [<a href='http://sbbd.org.br/2017/wp-content/uploads/sites/3/2018/02/p288-293.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
@@ -816,7 +816,27 @@ The experiments show that the principles enable queries that integrate domain se
             
             
 <div id="bib_Souza2017SparkC" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@inproceedings&#123;Souza2017Spark,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan and Silva, Vítor and Miranda, Pedro and Lima, Alexandre A B and Valduriez, Patrick and Mattoso, Marta&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;Simpósio Brasileiro de Banco de Dados (&#123;SBBD&#125;)&#125;,<br/>&nbsp;&nbsp;pages = &#123;288--293&#125;,<br/>&nbsp;&nbsp;pdf = &#123;http://sbbd.org.br/2017/wp-content/uploads/sites/3/2018/02/p288-293.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Spark Scalability Analysis in a Scientific Workflow&#125;,<br/>&nbsp;&nbsp;year = &#123;2017&#125;<br/>&#125;<br/><br/>
+@inproceedings&#123;Souza2017Spark,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan and Silva, Vítor and Miranda, Pedro and Lima, Alexandre A B and Valduriez, Patrick and Mattoso, Marta&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;Brazilian Symposium on Databases (&#123;SBBD&#125;)&#125;,<br/>&nbsp;&nbsp;pages = &#123;288--293&#125;,<br/>&nbsp;&nbsp;pdf = &#123;http://sbbd.org.br/2017/wp-content/uploads/sites/3/2018/02/p288-293.pdf&#125;,<br/>&nbsp;&nbsp;title = &#123;Spark Scalability Analysis in a Scientific Workflow&#125;,<br/>&nbsp;&nbsp;year = &#123;2017&#125;<br/>&#125;<br/><br/>
+</div>
+
+        
+</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align: middle; text-align: justify;">
+    
+            <strong>Parallel Execution of Workflows driven by Distributed Database Techniques</strong><br>
+            <strong>R. Souza</strong><br><i>MSc Thesis Contest: Brazilian Symposium on Databases (SBBD)</i>, 2017.<br>
+            
+            [C25] [<a href='https://scholar.google.com.br/scholar?oi=bibs&cluster=17975638527136409759&btnI=1&hl=en' target='_blank'>pdf</a>]  
+            [<a href='javascript: none'
+            onclick='$("#bib_souza_2017_msc_contestC").toggle()'>bibtex</a>]<br>
+            
+            
+<div id="bib_souza_2017_msc_contestC" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
+@inproceedings&#123;souza_2017_msc_contest,<br/>&nbsp;&nbsp;author = &#123;Souza, Renan&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;MSc Thesis Contest: Brazilian Symposium on Databases (&#123;SBBD&#125;)&#125;,<br/>&nbsp;&nbsp;pdf = &#123;https://scholar.google.com.br/scholar?oi=bibs&cluster=17975638527136409759&btnI=1&hl=en&#125;,<br/>&nbsp;&nbsp;title = &#123;Parallel Execution of Workflows driven by Distributed Database Techniques&#125;,<br/>&nbsp;&nbsp;year = &#123;2017&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -830,7 +850,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Tracking of online parameter fine-tuning in scientific workflows</strong><br>
             <strong>R. Souza</strong>, V. Silva, J. Camata, A. Coutinho, P. Valduriez, and M. Mattoso<br><i>Workflows in Support of Large-Scale Science (WORKS) workshop  co-located with the ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>, 2017.<br>
             
-            [C25] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01620974' target='_blank'>online</a>]  
+            [C26] [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01620974' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_Souza2017TrackingC").toggle()'>bibtex</a>]<br>
             
@@ -850,7 +870,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Integrating Domain-data Steering with Code-profiling Tools to Debug Data-intensive Workflows</strong><br>
             V. Silva, L. Neves, <strong>R. Souza</strong>, A. Coutinho, D. Oliveira, and M. Mattoso<br><i>Workflows in Support of Large-Scale Science (WORKS) workshop  co-located with the ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>, 2016.<br>
             
-            [C26] 
+            [C27] 
             [<a href='javascript: none'
             onclick='$("#bib_Silva2016IntegratingC").toggle()'>bibtex</a>]<br>
             
@@ -870,7 +890,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Online Input Data Reduction in Scientific Workflows</strong><br>
             <strong>R. Souza</strong>, V. Silva, A. Coutinho, P. Valduriez, and M. Mattoso<br><i>Workflows in Support of Large-Scale Science (WORKS) workshop  co-located with the ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>, 2016.<br>
             
-            [C27] [<a href='https://hal.archives-ouvertes.fr/lirmm-01400538' target='_blank'>online</a>]  
+            [C28] [<a href='https://hal.archives-ouvertes.fr/lirmm-01400538' target='_blank'>online</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_Souza2016OnlineC").toggle()'>bibtex</a>]<br>
             
@@ -890,7 +910,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Applying data warehousing and big data techniques to analyze internet performance</strong><br>
             T. Barbosa, <strong>R. Souza</strong>, S. Cruz, M. Campos, and R. Cottrell, 2016.<br>
             
-            [C28] [<a href='https://www.slac.stanford.edu/pubs/slacpubs/16250/slac-pub-16464.pdf' target='_blank'>pdf</a>]  
+            [C29] [<a href='https://www.slac.stanford.edu/pubs/slacpubs/16250/slac-pub-16464.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_barbosa2016applyingC").toggle()'>bibtex</a>]<br>
             
@@ -910,7 +930,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Building a question-answering corpus using social media and news articles</strong><br>
             P. Cavalin, F. Figueiredo, M. de Bayser, L. Moyano, H. Candello, A. Appel, and <strong>R. Souza</strong><br><i>International Conference on Computational Processing of the Portuguese Language</i>, 2016.<br>
             
-            [C29] 
+            [C30] 
             [<a href='javascript: none'
             onclick='$("#bib_cavalin2016buildingC").toggle()'>bibtex</a>]<br>
             
@@ -930,7 +950,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Enhancing Energy Production with Exascale HPC Methods</strong><br>
             J. Camata, J. Cela, D. Costa, A. Coutinho, D. Fernández-Galisteo, C. Jimenez, V. Kourdioumov, M. Mattoso, R. Mayo-García, T. Miras, J. Moríñigo, J. Navarro, P. Navaux, D. De Oliveira, M. Rodríguez-Pascual, V. Silva, <strong>R. Souza</strong>, and P. Valduriez<br><i>CARLA: Latin American High Performance Computing Conference</i>, 2016.<br>
             
-            [C30] [<a href='https://doi.org/10.1007/978-3-319-57972-6\_17' target='_blank'>doi</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01654914' target='_blank'>online</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01654914/file/Enhancing%20Energy%20Production%20with%20Exascale%20HPC.pdf' target='_blank'>pdf</a>]  
+            [C31] [<a href='https://doi.org/10.1007/978-3-319-57972-6\_17' target='_blank'>doi</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01654914' target='_blank'>online</a>]  [<a href='https://hal-lirmm.ccsd.cnrs.fr/lirmm-01654914/file/Enhancing%20Energy%20Production%20with%20Exascale%20HPC.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_camata:lirmm-01654914C").toggle()'>bibtex</a>]<br>
             
@@ -950,7 +970,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Applying future Exascale HPC methodologies in the energy sector</strong><br>
             J. Camata, J. Cela, D. Costa, A. Coutinho, D. Fernández-Galisteo, <strong>R. Souza</strong>, C. Jiménez, V. Kourdioumov, M. Mattoso, R. Mayo-García, T. Miras, J. Moríñigo, J. Navarro, D. de Oliveira, M. Rodríguez-Pascual, V. Silva, and P. Valduriez<br><i>Russian Supercomputing Days</i>, 2016.<br>
             
-            [C31] [<a href='https://upcommons.upc.edu/handle/2117/90905' target='_blank'>online</a>]  [<a href='https://upcommons.upc.edu/bitstream/handle/2117/90905/Applying%20future%20Exascale%20HPC%20methodologies%20in%20the%20energy%20sector.pdf' target='_blank'>pdf</a>]  
+            [C32] [<a href='https://upcommons.upc.edu/handle/2117/90905' target='_blank'>online</a>]  [<a href='https://upcommons.upc.edu/bitstream/handle/2117/90905/Applying%20future%20Exascale%20HPC%20methodologies%20in%20the%20energy%20sector.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_camata_applying_2016C").toggle()'>bibtex</a>]<br>
             
@@ -970,7 +990,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Parallel Execution of Workflows Driven by a Distributed Database Management System</strong><br>
             <strong>R. Souza</strong>, V. Silva, D. Oliveira, P. Valduriez, A. Lima, and M. Mattoso<br><i>ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)</i>, 2015.<br>
             
-            [C32] [<a href='http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post284.html' target='_blank'>online</a>]  [<a href='http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/poster_files/post284s2-file3.pdf' target='_blank'>pdf</a>]  
+            [C33] [<a href='http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post284.html' target='_blank'>online</a>]  [<a href='http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/poster_files/post284s2-file3.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_Souza2015ParallelC").toggle()'>bibtex</a>]<br>
             
@@ -988,15 +1008,15 @@ The experiments show that the principles enable queries that integrate domain se
 <td style="vertical-align: middle; text-align: justify;">
     
             <strong>Uma Abordagem para Publicação de Dados de Proveniência de Workflows Científicos na Web Semântica</strong><br>
-            R. Castro, <strong>R. Souza</strong>, V. Silva, K. Ocaña, D. Oliveira, and M. Mattoso<br><i>Simpósio Brasileiro de Banco de Dados (SBBD)</i>, 2015.<br>
+            R. Castro, <strong>R. Souza</strong>, V. Silva, K. Ocaña, D. Oliveira, and M. Mattoso<br><i>Brazilian Symposium on Databases (SBBD)</i>, 2015.<br>
             
-            [C33] 
+            [C34] 
             [<a href='javascript: none'
             onclick='$("#bib_castro2015abordagemC").toggle()'>bibtex</a>]<br>
             
             
 <div id="bib_castro2015abordagemC" style="display: none; background-color: #eee; font-family:Courier; font-size: 0.8em; text-align: justify; border-color: gray; border: 1px solid lightgray;">
-@inproceedings&#123;castro2015abordagem,<br/>&nbsp;&nbsp;author = &#123;Castro, Rachel and Souza, Renan and Silva, Vítor and Ocaña, Kary and Oliveira, Daniel and Mattoso, Marta&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;Simpósio Brasileiro de Banco de Dados (&#123;SBBD&#125;)&#125;,<br/>&nbsp;&nbsp;title = &#123;Uma Abordagem para Publicação de Dados de Proveniência de Workflows Científicos na Web Semântica&#125;,<br/>&nbsp;&nbsp;year = &#123;2015&#125;<br/>&#125;<br/><br/>
+@inproceedings&#123;castro2015abordagem,<br/>&nbsp;&nbsp;author = &#123;Castro, Rachel and Souza, Renan and Silva, Vítor and Ocaña, Kary and Oliveira, Daniel and Mattoso, Marta&#125;,<br/>&nbsp;&nbsp;booktitle = &#123;Brazilian Symposium on Databases (&#123;SBBD&#125;)&#125;,<br/>&nbsp;&nbsp;title = &#123;Uma Abordagem para Publicação de Dados de Proveniência de Workflows Científicos na Web Semântica&#125;,<br/>&nbsp;&nbsp;year = &#123;2015&#125;<br/>&#125;<br/><br/>
 </div>
 
         
@@ -1010,7 +1030,7 @@ The experiments show that the principles enable queries that integrate domain se
             <strong>Linked open data publication strategies: Application in networking performance measurement data</strong><br>
             <strong>R. Souza</strong>, L. Cottrell, B. White, M. Campos, and M. Mattoso<br><i>ASE BigData/SocialCom/CyberSecurity, Stanford, CA</i>, 2014.<br>
             
-            [C34] [<a href='https://www.slac.stanford.edu/cgi-bin/getdoc/slac-pub-15950.pdf' target='_blank'>pdf</a>]  
+            [C35] [<a href='https://www.slac.stanford.edu/cgi-bin/getdoc/slac-pub-15950.pdf' target='_blank'>pdf</a>]  
             [<a href='javascript: none'
             onclick='$("#bib_souza2014linkedC").toggle()'>bibtex</a>]<br>
             

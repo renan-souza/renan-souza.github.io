@@ -86,8 +86,8 @@ Please, feel free to reach me if you need a presentation not available here.
     <br/>
         <ul>
                <li>
-                 A Knowledge-centric Approach to Support Large-scale AI Systems (in PT),
-                   Oral presentation 
+                 A Knowledge-centric Approach to Support Large-scale AI Systems,
+                   Invited talk (Portuguese) 
                    , <a href="https://www.youtube.com/watch?v=9U4qtwcQAZU" target="_blank">link</a>                                
                </li> 
             
@@ -114,7 +114,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  AI4Seismic: An AI-Driven Platform to Accelerate Geological Discoveries,
-                   Oral presentation, Highlighted by the SIAM press 
+                   Invited talk, Highlighted by the SIAM press 
                    , <a href="https://sinews.siam.org/Details-Page/ai4seismic-platform-combines-artificial-intelligence-and-seismic-data-analysis" target="_blank">link</a>                                
                </li> 
                <li>
@@ -131,23 +131,6 @@ Please, feel free to reach me if you need a presentation not available here.
   
   </td>
   <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2021 </td>
-  
-
-  
-  
-</tr>
-<tr>  
-
-  <td><b>Open Subsurface Data Universe Development Workshop</b> 
- in 
-    
-    <br/>
-    
-    
-  
-  
-  </td>
-  <td class='col-md-0'  style="text-align: center; vertical-align: middle;"> </td>
   
 
   
@@ -206,14 +189,14 @@ Please, feel free to reach me if you need a presentation not available here.
 </tr>
 <tr>  
 
-  <td><b>Seminarios de Engenharia e Ciencia Computacional</b> 
+  <td><b>Computational Science and Engineering Seminar at COPPE/UFRJ</b> 
  in 
     Rio (virtual)
     <br/>
         <ul>
                <li>
                  Workflow Provenance in the Lifecycle of Scientific Machine Learning,
-                   Oral presentation 
+                   Invited talk 
                </li> 
             
         </ul>
@@ -241,6 +224,23 @@ Please, feel free to reach me if you need a presentation not available here.
   
   </td>
   <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2020 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
+  <td><b>Open Subsurface Data Universe Development Workshop</b> 
+ in 
+    Houston, TX
+    <br/>
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2019 </td>
   
 
   
@@ -276,7 +276,7 @@ Please, feel free to reach me if you need a presentation not available here.
 </tr>
 <tr>  
 
-  <td><b>SciDISC Workshop</b> 
+  <td><b>Scientific Data Analysis using Data-intensive Scalable Computing Workshop</b> 
  in 
     Rio de Janeiro, Brazil
     <br/>
@@ -344,7 +344,7 @@ Please, feel free to reach me if you need a presentation not available here.
 </tr>
 <tr>  
 
-  <td><b>INRIA Talks</b> 
+  <td><b>Inria Talks</b> 
         <a href="https://team.inria.fr/zenith/zenith-seminar-renan-souza-15-jan-2019/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
     Montpellier, France
@@ -352,7 +352,7 @@ Please, feel free to reach me if you need a presentation not available here.
         <ul>
                <li>
                  Providing Online Data Analytical Support for Humans in the Loop of Computational Science and Engineering Applications,
-                   Oral presentation 
+                   Invited talk 
                </li> 
             
         </ul>
@@ -456,7 +456,7 @@ Please, feel free to reach me if you need a presentation not available here.
 </tr>
 <tr>  
 
-  <td><b>SBC Brazilian Syposium on Databases (SBBD)</b> 
+  <td><b>Brazilian Syposium on Databases (SBBD)</b> 
         <a href="http://sbbd.org.br/2018/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
     Rio de Janeiro, Brazil
@@ -474,7 +474,7 @@ Please, feel free to reach me if you need a presentation not available here.
 </tr>
 <tr>  
 
-  <td><b>SBC Brazilian Syposium on Databases (SBBD)</b> 
+  <td><b>Brazilian Syposium on Databases (SBBD)</b> 
         <a href="http://sbbd.org.br/2017/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
     Uberlandia, Brazil
@@ -529,7 +529,7 @@ Please, feel free to reach me if you need a presentation not available here.
 </tr>
 <tr>  
 
-  <td><b>Hacker at the Smart City Cloud Hackathon OpenStack Rio</b> 
+  <td><b>Smart City Cloud Hackathon OpenStack Rio</b> 
  in 
     Rio de Janeiro, Brazil
     <br/>
@@ -571,7 +571,7 @@ Please, feel free to reach me if you need a presentation not available here.
 </tr>
 <tr>  
 
-  <td><b>SBC Brazilian Conference on Artificial Intelligence (BRACIS)</b> 
+  <td><b>Brazilian Conference on Artificial Intelligence (BRACIS)</b> 
  in 
     Recife, Brazil
     <br/>
