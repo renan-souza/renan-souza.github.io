@@ -10,6 +10,32 @@ Please, feel free to reach me if you need a presentation not available here.
 <tr>  
 
   <td><b>IEEE/ACM Supercomputing (SC)</b> 
+        <a href="https://sc24.supercomputing.org" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
+ in 
+    Atlanta, GA
+    <br/>
+        <ul>
+               <li>
+                 Integrating Evolutionary Algorithms with Distributed Deep Learning for Optimizing Hyperparameters on HPC Systems,
+                   Oral presentation 
+               </li> 
+            
+        </ul>
+        
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2024 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
+  <td><b>IEEE/ACM Supercomputing (SC)</b> 
         <a href="https://sc23.supercomputing.org" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
     Denver, CO

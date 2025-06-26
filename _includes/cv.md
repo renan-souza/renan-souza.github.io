@@ -1,7 +1,7 @@
 ## <i class="fa fa-chevron-right"></i> Bio
 
 <p style="text-align: justify;">
-    Renan Francisco Santos Souza holds a Ph.D., M.Sc., and B.Sc (2009-2019) in Computer Science from the [Federal University of Rio de Janeiro (UFRJ)](https://www.cos.ufrj.br/index.php/en/). Since 2022, he has been a staff research scientist at the [Oak Ridge National Laboratory](https://www.ornl.gov/). Before that (2015-2022), he was a research scientist and software engineer at [IBM Research](https://research.ibm.com/labs/brazil). He has been working as a software engineer, researcher, and tech lead on several projects since 2010. During his B.Sc., he spent a year at [Missouri State University](https://www.missouristate.edu/) and was an intern at [Stanford University](https://www.stanford.edu/) in the [SLAC](https://www6.slac.stanford.edu/) National Laboratory. During his Ph.D., he was a visiting researcher at [Inria](https://inria.fr/), France. He received the best M.Sc. thesis and honored mention for the best Ph.D. thesis awards from [SBBD](https://sbbd.org.br/), the main conference on data science in Latin America. He researches large-scale data management techniques to support the evolution of Artificial Intelligence systems in HPC and cloud.
+     Renan Francisco Santos Souza holds a Ph.D., M.Sc., and B.Sc. in Computer Science (2009-2019) from the [Federal University of Rio de Janeiro (UFRJ)](https://www.cos.ufrj.br/index.php/en/). Since 2022, he has been a staff research scientist at the [Oak Ridge National Laboratory](https://www.ornl.gov/). From 2015 to 2022, he worked as a research scientist and software engineer at [IBM Research](https://research.ibm.com/labs/brazil). During his Ph.D., he was a visiting researcher at [Inria](https://inria.fr/), France. During his B.Sc., he spent one year at [Missouri State University](https://www.missouristate.edu/) and interned at the [SLAC National Laboratory](https://www6.slac.stanford.edu/) at [Stanford University](https://www.stanford.edu/). He has been active as a software engineer, researcher, and technical lead on multiple projects since 2010. He was awarded with the best M.Sc. thesis and an honorable mention for best Ph.D. thesis from [SBBD](https://sbbd.org.br/), the leading data science and engineering conference in Latin America. His research and development focus on large-scale data management and AI to support the next generation of Edge–Cloud–HPC workflows. 
 </p>
 
 
@@ -16,11 +16,11 @@ for more information about education, professional experience, and technical ski
 
 <p style="text-align: justfy">
         Large-scale Data Science and Data Engineering &bull; 
-        Parallel Workflows &bull; 
-        Data Provenance &bull; 
+        Edge–Cloud–HPC Workflows &bull; 
+        Provenance Data &bull; 
         Big Data Analytics &bull; 
-        High Performance Computing on Clusters and Clouds &bull; 
-        Machine Learning 
+        Machine Learning Systems &bull; 
+        Agentic AI 
 </p>
 
 
