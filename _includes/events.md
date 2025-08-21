@@ -9,6 +9,33 @@ Please, feel free to reach me if you need a presentation not available here.
 <table class="table table-hover">
 <tr>  
 
+  <td><b>IEEE International Conference on e-Science</b> 
+        <a href="https://www.escience-conference.org/2024/" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
+ in 
+    Osaka, Japan (Virtual)
+    <br/>
+        <ul>
+               <li>
+                 Workflow Provenance in the Computing Continuum for Responsible, Trustworthy, and Energy-Efficient AI,
+                   Oral presentation 
+                   , <a href="https://sites.google.com/view/rewords24/" target="_blank">link</a>                                
+               </li> 
+            
+        </ul>
+        
+    
+    
+  
+  
+  </td>
+  <td class='col-md-0'  style="text-align: center; vertical-align: middle;">2024 </td>
+  
+
+  
+  
+</tr>
+<tr>  
+
   <td><b>IEEE/ACM Supercomputing (SC)</b> 
         <a href="https://sc24.supercomputing.org" target="_blank"><img src="/images/external-link.png" style="width: 1.2em; border: 0" /></a>
  in 
