@@ -1,7 +1,7 @@
 ## <i class="fa fa-chevron-right"></i> Bio
 
 <p style="text-align: justify;">
-     Renan Souza holds a Ph.D., M.Sc., and B.Sc. in Computer Science (2009-2019) from the [Federal University of Rio de Janeiro (UFRJ)](https://www.cos.ufrj.br/index.php/en/). Since 2022, he has been a staff research scientist at the [Oak Ridge National Laboratory](https://www.ornl.gov/). From 2015 to 2022, he worked as a research scientist and software engineer at [IBM Research](https://research.ibm.com/labs/brazil). During his Ph.D., he was a visiting researcher at [Inria](https://inria.fr/), France. During his B.Sc., he spent one year at [Missouri State University](https://www.missouristate.edu/) and interned at the [SLAC National Laboratory](https://www6.slac.stanford.edu/) at [Stanford University](https://www.stanford.edu/). He has been active as a software engineer, researcher, and technical lead on multiple projects since 2010. His research and development focus on large-scale data management and AI to support the next generation of Edge–Cloud–HPC workflows. 
+     Renan Souza earned his Ph.D., M.Sc., and B.Sc. in Computer Science (2009-2019) from the [Federal University of Rio de Janeiro (UFRJ)](https://www.cos.ufrj.br/index.php/en/). Since 2022, he has been a researcher and software engineer at [Oak Ridge National Laboratory](https://www.ornl.gov/), after spending seven years at [IBM](https://research.ibm.com/labs/brazil). He was a visiting scientist at [INRIA](https://inria.fr/), France, during his Ph.D. and, during his B.Sc., studied abroad at [Missouri State University](https://www.missouristate.edu/) and interned at [SLAC National Laboratory](https://www6.slac.stanford.edu/) ([Stanford University](https://www.stanford.edu/)). Active in engineering, research, and technical leadership since 2010, he has authored 50+ peer-reviewed papers in leading venues and holds 10+ USPTO patents. His work has influenced researchers, industry, and practitioners in fields of AI, distributed systems, and data management across diverse application domains. His current focus is on designing and building scalable systems to support responsible and trustworthy AI workflows. 
 </p>
 
 
@@ -17,8 +17,8 @@ for more information about education, professional experience, and technical ski
 <p style="text-align: justfy">
         Large-scale Data Science and Data Engineering &bull; 
         Edge–Cloud–HPC Workflows &bull; 
+        AI Workflows &bull; 
         Provenance Data &bull; 
-        Big Data Analytics &bull; 
         Machine Learning Systems &bull; 
         Agentic AI 
 </p>
