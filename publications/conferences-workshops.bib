@@ -1,0 +1,459 @@
+@inproceedings{rosendo2025ai,
+  title={AI Agents for Enabling Autonomous Experiments at ORNL’s HPC and Manufacturing User Facilities},
+  author={Rosendo, Daniel and DeWitt, Stephen and Souza, Renan and Austria, Phillipe and Ghosal, Tirthankar and McDonnell, Marshall and Miller, Ross and Skluzacek, Tyler J and Haley, James and Turcksin, Bruno and others},
+  booktitle = {Extreme-Scale Experiment-in-the-Loop Computing ({XLOOP}) co-located with the {ACM}/{IEEE} International Conference for High Performance Computing, Networking, Storage, and Analysis ({SC})},
+  year      = {2025},
+  address   = {St Louis, MO, USA},
+  doi = {10.1145/3731599.3767592},
+  pdf = {https://rafaelsilva.com/files/publications/rosendo2025xloop.pdf},
+  publisher = {ACM},
+}
+
+@inproceedings{souza_llm_agents_works_sc25,
+  title     = {{LLM} Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology},
+  author={Souza, Renan and Poteet, Timothy and Etz, Brian and Rosendo, Daniel and Gueroudji, Amal and Shin, Woong and Balaprakash, Prasanna and Ferreira da Silva, Rafael},
+  booktitle = {Workflows in Support of Large-Scale Science ({WORKS}) co-located with the {ACM}/{IEEE} International Conference for High Performance Computing, Networking, Storage, and Analysis ({SC})},
+  year      = {2025},
+  address   = {St Louis, MO, USA},
+  pdf = {https://arxiv.org/pdf/2509.13978},
+  publisher = {ACM},
+  abstract = {Modern scientific discovery increasingly relies on workflows that process data across the Edge, Cloud, and High Performance Computing (HPC) continuum. Comprehensive and in-depth analyses of these data are critical for hypothesis validation, anomaly detection, reproducibility, and impactful findings. Although workflow provenance techniques support such analyses, at large scale, the provenance data become complex and difficult to analyze. Existing systems depend on custom scripts, structured queries, or static dashboards, limiting data interaction. In this work, we introduce an evaluation methodology, reference architecture, and open-source implementation that leverages interactive Large Language Model (LLM) agents for runtime data analysis. Our approach uses a lightweight, metadata-driven design that translates natural language into structured provenance queries. Evaluations across LLaMA, GPT, Gemini, and Claude, covering diverse query classes and a real-world chemistry workflow, show that modular design, prompt tuning, and Retrieval-Augmented Generation (RAG) enable accurate and insightful LLM agent responses beyond recorded provenance.},
+  doi       = {10.1145/3731599.3767582},
+  keywords  = {scientific workflows, provenance, LLM agents, Large language models, AI agents, agentic workflows, agentic provenance}
+}
+
+@inproceedings{shin2025r,
+  title={The (R) evolution of Scientific Workflows in the Agentic AI Era: Towards Autonomous Science},
+  author={Shin, Woong and Souza, Renan and Rosendo, Daniel and Suter, Fr{\'e}d{\'e}ric and Wang, Feiyi and Balaprakash, Prasanna and da Silva, Rafael Ferreira},
+  booktitle = {Workflows in Support of Large-Scale Science ({WORKS}) co-located with the {ACM}/{IEEE} International Conference for High Performance Computing, Networking, Storage, and Analysis ({SC})},
+  year      = {2025},
+  address   = {St Louis, MO, USA},
+  pdf = {https://arxiv.org/pdf/2509.09915},
+  publisher = {ACM},
+  keywords  = {Agentic AI, Agentic Workflows, Autonomous Science, Scientific AI Systems, Swarm Intelligence}
+}
+
+@inproceedings{souza_prov_agent_2025,
+  author    = {Renan Souza and Amal Gueroudji and Stephen DeWitt and Daniel Rosendo and Tirthankar Ghosal and Robert Ross and Prasanna Balaprakash and Rafael Ferreira da Silva},
+  title     = {PROV-AGENT: Unified Provenance for Tracking {AI} Agent Interactions in Agentic Workflows},
+  booktitle = {IEEE International Conference on e-Science},
+  year      = {2025},
+  booktitle = { 2025 IEEE International Conference on eScience (eScience) },
+  doi = {10.1109/eScience65000.2025.00093},
+  location  = {Chicago, U.S.A.},
+  pdf = {https://arxiv.org/pdf/2508.02866},
+  publisher = {IEEE},
+  keywords = {Artificial Intelligence, Provenance, Machine Learning, AI workflows, ML workflows, Responsible AI, Trustworthy AI, Reproducibility, AI Lifecycle, Energy-efficient AI},
+  abstract = {Large Language Models (LLMs) and other foundation models are increasingly used as the core of AI agents. In agentic workflows, these agents plan tasks, interact with humans and peers, and influence scientific outcomes across federated and heterogeneous environments. However, agents can hallucinate or reason incorrectly, propagating errors when one agent's output becomes another's input. Thus, assuring that agents' actions are transparent, traceable, reproducible, and reliable is critical to assess hallucination risks and mitigate their workflow impacts. While provenance techniques have long supported these principles, existing methods fail to capture and relate agent-centric metadata such as prompts, responses, and decisions with the broader workflow context and downstream outcomes. In this paper, we introduce PROV-AGENT, a provenance model that extends W3C PROV and leverages the Model Context Protocol (MCP) and data observability to integrate agent interactions into end-to-end workflow provenance. Our contributions include: (1) a provenance model tailored for agentic workflows, (2) a near real-time, open-source system for capturing agentic provenance, and (3) a cross-facility evaluation spanning edge, cloud, and HPC environments, demonstrating support for critical provenance queries and agent reliability analysis.}
+}
+
+@inproceedings{amal_2025,
+  author = {Amal Gueroudji and Tanwi Mallick and Renan Souza and Rafael Ferreira da Silva and 
+          Robert Ross and Matthieu Dorier and Philip Carns and Kyle Chard and Ian Foster},
+  title     = {ControlA: Agentic Workflow Control Mechanisms for Reliable Science},
+  booktitle = {IEEE International Conference on e-Science},
+  year      = {2025},
+  location  = {Chicago, USA},
+  publisher = {IEEE},
+  keywords = {Agentic AI, Agentic workflows, Reliability, Safety, Agentic Systems}
+}
+
+@inproceedings{souza_rtai_2024,
+  author    = {Renan Souza and Silvina Caino-Lores and Mark Coletti and Tyler J. Skluzacek and Alexandru Costan and Frederic Suter and Marta Mattoso and Rafael Ferreira da Silva},
+  title     = {Workflow Provenance in the Computing Continuum for Responsible, Trustworthy, and Energy-Efficient {AI}},
+  booktitle = {IEEE International Conference on e-Science},
+  year      = {2024},
+  location  = {Osaka, Japan},
+  doi = {https://doi.org/10.1109/e-Science62913.2024.10678731},
+  pdf = {https://hal.science/hal-04902079v1/document},
+  publisher = {IEEE},
+  keywords = {Artificial Intelligence, Provenance, Machine Learning, AI workflows, ML workflows, Responsible AI, Trustworthy AI, Reproducibility, AI Lifecycle, Energy-efficient AI},
+  abstract = {As Artificial Intelligence (AI) becomes more pervasive in our society, it is crucial to develop, deploy, and assess Responsible and Trustworthy AI (RTAI) models, i.e., those that consider not only accuracy but also other aspects, such as explainability, fairness, and energy efficiency. Workflow provenance data have historically enabled critical capabilities towards RTAI. Provenance data derivation paths contribute to responsible workflows through transparency in tracking artifacts and resource consumption. Provenance data are well-known for their trustworthiness, helping explainability, reproducibility, and accountability. However, there are complex challenges to achieving RTAI, which are further complicated by the heterogeneous infrastructure in the computing continuum (Edge-Cloud-HPC) used to develop and deploy models. As a result, a significant research and development gap remains between workflow provenance data management and RTAI. In this paper, we present a vision of the pivotal role of workflow provenance in supporting RTAI and discuss related challenges. We present a schematic view of the relationship between RTAI and provenance, and highlight open research directions.}
+}
+
+@inproceedings{coletti_2024,
+  author    = {Mark Coletti and Renan Souza and Tyler J. Skluzacek and Frederic Suter and Rafael Ferreira da Silva},
+  title     = {Integrating Evolutionary Algorithms with Distributed Deep Learning for Optimizing Hyperparameters on {HPC} System},
+  booktitle = {Workflows in Support of Large-Scale Science ({WORKS}) workshop  co-located with the {ACM}/{IEEE} International Conference for High Performance Computing, Networking, Storage, and Analysis ({SC})},
+  year      = {2024},
+  location  = {Atlanta, USA},
+  publisher = {IEEE}
+}
+
+@inproceedings{silva_ee_2024,
+  author    = {Rafael Ferreira da Silva and Woong Shin and Frederic Suter and Ana Gainaru and Renan Souza and Dan Dietz and Shantenu Jha},
+  title     = {{Eco-Driven AI-HPC}: Optimizing Energy Efficiency in Distributed Scientific Workflows},
+  booktitle = {Energy-Efficient Computing for Science Workshop},
+  year      = {2024},
+  location  = {Bethesda, MD, USA}
+}
+
+@inproceedings{skluzacek_pearc_2024,
+  author    = {Tyler J. Skluzacek and Renan Souza and Mark Coletti and Frederic Suter and Rafael Ferreira da Silva},
+  title     = {Towards Cross-Facility Workflows Orchestration through Distributed Automation},
+  booktitle = {Practice and Experience in Advanced Research Computing (PEARC 24)},
+  year      = {2024},
+  location  = {Providence, RI, USA},
+  publisher = {Association for Computing Machinery},
+  url = {https://doi.org/10.1145/3626203.3670606},
+  doi = {10.1145/3626203.3670606},
+}
+
+@inproceedings{dasilva_agu_2024,
+  title={Advancing Computational Earth Sciences: Innovations and Challenges in Scientific HPC Workflows},
+  author={da Silva, Rafael Ferreira and Maheshwari, Ketan and Skluzacek, T and Souza, Renan and Wilkinson, Sean},
+  booktitle={European Geosciences Union (EGU)},
+  year={2024},
+}
+
+@inproceedings{azevedo_hkpoly2024,
+author = {Azevedo, Leonardo Guerreiro and Souza, Renan and Soares, Elton and Thiago, Raphael Melo and Tesolin, Julio Cesar Cardoso and Oliveira, Anna Carolina Carvalho Moreira and Moreno, Marcio Ferreira},
+title = {{HKPoly}: A Polystore Architecture to Support Data Linkage and Queries on Distributed and Heterogeneous Data},
+year = {2024},
+isbn = {9798400709968},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3658271.3658322},
+doi = {10.1145/3658271.3658322},
+booktitle = {Proceedings of the 20th Brazilian Symposium on Information Systems (SBSI)},
+articleno = {50},
+numpages = {10},
+keywords = {Business process, Database integration, Distributed databases, Microservices, Provenance., Query processing},
+series = {SBSI '24}
+}
+
+@inproceedings{souza2023towards,
+  title={Towards Lightweight Data Integration using Multi-workflow Provenance and Data Observability},
+  author={Souza, Renan and Skluzacek, Tyler J and Wilkinson, Sean R and Ziatdinov, Maxim and da Silva, Rafael Ferreira},
+  booktitle={IEEE International Conference on e-Science},
+  doi={10.1109/e-Science58273.2023.10254822},
+  url={https://doi.org/10.1109/e-Science58273.2023.10254822},
+  pdf={https://arxiv.org/pdf/2308.09004.pdf},
+  year={2023},
+  abstract={Modern large-scale scientific discovery requires multidisciplinary collaboration across diverse computing facilities, including High Performance Computing (HPC) machines and the Edge-to-Cloud continuum. Integrated data analysis plays a crucial role in scientific discovery, especially in the current AI era, by enabling Responsible AI development, FAIR, Reproducibility, and User Steering. However, the heterogeneous nature of science poses challenges such as dealing with multiple supporting tools, cross-facility environments, and efficient HPC execution. Building on data observability, adapter system design, and provenance, we propose MIDA: an approach for lightweight runtime Multi-workflow Integrated Data Analysis. MIDA defines data observability strategies and adaptability methods for various parallel systems and machine learning tools. With observability, it intercepts the dataflows in the background without requiring instrumentation while integrating domain, provenance, and telemetry data at runtime into a unified database ready for user steering queries. We conduct experiments showing end-to-end multi-workflow analysis integrating data from Dask and MLFlow in a real distributed deep learning use case for materials science that runs on multiple environments with up to 276 GPUs in parallel. We show near-zero overhead running up to 100,000 tasks on 1,680 CPU cores on the Summit supercomputer.}
+}
+
+@inproceedings{rosendo2023provlight,
+  title={{ProvLight}: Efficient Workflow Provenance Capture on the Edge-to-Cloud Continuum},
+  author={Rosendo, Daniel and Mattoso, Marta and Costan, Alexandru and Souza, Renan and Pina, D{\'e}bora and Valduriez, Patrick and Antoniu, Gabriel},
+  booktitle={IEEE International Conference on Cluster Computing},
+  doi={10.1109/CLUSTER52292.2023.00026},
+  url={https://www.computer.org/csdl/proceedings-article/cluster/2023/079200a221/1SfUrCnjgAM},
+  pdf={https://arxiv.org/pdf/2307.10658},
+  year={2023}
+}
+
+@inproceedings{cunha_2021_context,
+  title={Context-aware Execution Migration Tool for Data Science Jupyter Notebooks on Hybrid Clouds},
+  author={Cunha, Renato LF and Real, Lucas V and Souza, Renan and Silva, Bruno and Netto, Marco AS},
+  booktitle={IEEE International Conference on e-Science},
+  year={2021},
+  doi={10.1109/eScience51609.2021.00013},
+  pdf={https://arxiv.org/pdf/2107.00187.pdf}
+}
+
+
+@inproceedings{azevedo_supporting_2021,
+  title={Supporting Polystore Queries using Provenance in a Hyperknowledge Graph},
+  author={Azevedo, Leonardo and Souza, Renan and Soares, Elton and Thiago, Raphael and Oliveira, Anna and Moreno, Marcio},
+  booktitle={International Semantic Web Conference (ISWC)},
+  year={2021},
+  pages = {1--4},
+  pdf = {http://ceur-ws.org/Vol-2980/paper368.pdf}
+}
+
+@inproceedings{souza_2021_ctd_sbbd,
+  title={User Steering Support in Large-scale Workflows},
+  author={Souza, Renan},
+  booktitle = {PhD Thesis Contest: Brazilian Symposium on Databases ({SBBD})},
+  year={2021},
+  pdf = {https://sol.sbc.org.br/index.php/sbbd_estendido/article/download/18185/18019}
+}
+
+
+@inproceedings{soares_2021_recommender,
+  title={A Recommender for Choosing Data Systems based on Application Profiling and Benchmarking},
+  author={Soares, Elton and Souza, Renan and Thiago, Raphael and Machado, Marcelo and Azevedo, Leonardo},
+  booktitle={Brazilian Symposium on Databases ({SBBD})},
+  year={2021},
+  pages = {265-270},
+  pdf = {https://sol.sbc.org.br/index.php/sbbd/article/download/17883/17717/}
+}
+
+
+
+@inproceedings{brandao2020cycle,
+  title={Cycle Orchestrator: A Knowledge-Based Approach for Structuring Cyclic ML Pipelines in the O\&G Industry},
+  author={Brand{\~a}o, Rafael and Louren{\c{c}}o, Vitor and Machado, Marcelo and Azevedo, Leonardo and Cardoso, Marcelo and Souza, Renan and Lima, Guilherme and Cerqueira, Renato and Moreno, Marcio},
+  booktitle={International Semantic Web Conference (ISWC)},
+  year={2020}
+}
+
+@inproceedings{brandao2020knowledge,
+  title={A Knowledge-Based Approach for Structuring Cyclic Workflows},
+  author={Brand{\~a}o, Rafael and Louren{\c{c}}o, Vitor and Machado, Marcelo and Azevedo, Leonardo and Cardoso, Marcelo and Souza, Renan and Lima, Guilherme and Cerqueira, Renato and Moreno, Marcio},
+  booktitle={International Semantic Web Conference (ISWC)},
+  year={2020}
+}
+
+@inproceedings{souza_runtime_2020,
+	title = {Runtime Steering of Parallel CFD Simulations},
+	booktitle = {International Conference on Parallel Computational Fluid Dynamics},
+	author = {Souza, Renan and Camata, J. and Mattoso, Marta and Coutinho, Alvaro},
+	year = {2020}
+}
+
+
+@inproceedings{azevedo_experiencing_2020,
+	title = {Experiencing {ProvLake} to Manage the Data Lineage of AI Workflows},
+	booktitle = {Innovation Summit on Information Systems (EISI) in Brazilian Symposium in Information Systems (SBSI)},
+	author = {Azevedo, Leonardo and Souza, Renan and Thiago, Raphael and Soares, Elton and Moreno, Marcio},
+	year = {2020}
+}
+
+
+@inproceedings{azevedo_federated_2020,
+	title = {Modern Federated Databases: an Overview},
+	booktitle = {International Conference on Enterprise Information Systems (ICEIS)},
+	author = {Azevedo, Leonardo and Souza, Renan and Soares, Elton and Moreno, Marcio},
+	year = {2020}
+}
+
+
+@inproceedings{souza_aapg_2020,
+	title = {Supporting the Training of Physics Informed Neural Networks for Seismic Inversion Using Provenance},
+	booktitle = {American Association of Petroleum Geologists Annual Convention and Exhibition ({AAPG})},
+	author = {Souza, Renan and Codas, A. and Nogueira Junior, J. Almeida and Quinones, M. P. and Azevedo, L. and Thiago, R. and Soares, E. and Cardoso, M. and Martins, L.},
+	year = {2020}
+}
+
+@inproceedings{souza_eage_2020,
+	title = {Managing Data Lineage of {O\&G} Machine Learning Models: The Sweet Spot for Shale Use Case},
+	booktitle = {European Association of Geoscientists and Engineers (EAGE) Digitalization Conference and Exhibition},
+	author = {Thiago, Raphael and Souza, Renan and Azevedo, L. and Soares, E. and Santos, Rodrigo, and Santos, Wallas and De Bayser, Max and Cardoso, M. and Moreno, M. and Cerqueira, Renato},
+	year = {2020},
+	doi = {10.3997/2214-4609.202032075},
+	pdf = {https://arxiv.org/pdf/2003.04915.pdf}
+}
+
+@inproceedings{souza_efficient_2019,
+	title = {Efficient Runtime Capture of Multiworkflow Data Using Provenance},
+	pdf = {https://hal-lirmm.ccsd.cnrs.fr/lirmm-02265932/document},
+	pages = {1--10},
+	booktitle = {IEEE International Conference on e-Science},
+	author = {Souza, Renan and Azevedo, Leonardo and Thiago, Raphael and Soares, Elton and Nery, Marcelo and Netto, Marco and Brazil, Emilio Vital and Cerqueira, Renato and Valduriez, Patrick and Mattoso, Marta},
+	year = {2019},
+	pdf = {https://hal-lirmm.ccsd.cnrs.fr/lirmm-02265932/document},
+	url = {https://doi.org/10.1109/eScience.2019.00047},
+	keywords = {Multiworkflow provenance, Multi-Data Lineage, Data Lake Provenance, ProvLake},
+	doi = {10.1109/eScience.2019.00047},
+	abstract = {Computational  Science  and  Engineering  (CSE) projects are typically developed by multidisciplinary teams. Despite being part of the same project, each team manages its own workflows, using  specific  execution  environments  and  data processingtools. Analyzing the data processed by all workflows globally is a core task in a CSE project. However, this analysis is hard because the data generated by these workflows are not integrated. In addition, since these workflows may take a long time to execute, data analysis needs to be done at runtime to reduce cost and time of the CSE project. A typical solution in scientific data analysis is to capture and relate the data in a provenance database while the workflows run, thus allowing for data analysisat runtime. However, the main problem is that such data capture competes with the running workflows, adding significant overhead to their execution. To mitigate this problem, we introduce in this paper a system called ProvLake, which adopts design principles for providing efficientdistributed data capture from the workflows. While capturing the data, ProvLake logically integrates and ingests them into a provenance database ready for analyses at runtime. We validated  ProvLake ina  real  use  case  in  the  O&G  industry encompassing four workflows that process 5TB datasets for a deep learning classifier. Compared with Komadu, the closest solution that meets our goals, our approach enables runtime multiworkflow data analysis with much smaller overhead, such as 0.1\%.}
+}
+@inproceedings{souza_managing_2019,
+	title = {Managing Data Traceability in the Data Lifecycle for Deep Learning Applied to Seismic Data},
+	url = {https://www.searchanddiscovery.com/abstracts/html/2019/ace2019/abstracts/1718.html},
+	booktitle = {American Association of Petroleum Geologists Annual Convention and Exhibition ({AAPG})},
+	author = {Souza, Renan and Brazil, Emilio Vital and Azevedo, Leonardo and Ferreira, Rodrigo and	Chevitarese, Daniel and Soares, Elton and Thiago, Raphael and Nery, Marcelo and Torres, Viviane and Cerqueira, Renato},
+	year = {2019}
+}
+
+@inproceedings{souza_provenancedata_2019,
+    title={Provenance Data in the Machine Learning Lifecycle in Computational Science and Engineering},
+    author={Souza, Renan and Azevedo, Leonardo and Lourenço, Vítor and Soares, Elton and Thiago, Raphael and Brandão, Rafael and Civitarese, Daniel and Vital Brazil, Emilio and  Moreno, Marcio and  Valduriez, Patrick and  Mattoso, Marta and Cerqueira, Renato and A. S. Netto, Marco},
+    year={2019},
+    pages = {1--10},
+    booktitle = {Workflows in Support of Large-Scale Science ({WORKS}) co-located with the {ACM}/{IEEE} International Conference for High Performance Computing, Networking, Storage, and Analysis ({SC})},
+    pdf = {https://arxiv.org/pdf/1910.04223},
+    doi = {10.1109/WORKS49585.2019.00006},
+    keywords = {Machine Learning Lifecycle, Workflow Provenance, Computational Science and Engineering},
+    abstract = {Machine Learning (ML) has become essential in several industries. In Computational Science and Engineering (CSE), the complexity of the ML lifecycle comes from the large variety of data, scientists' expertise, tools, and workflows. If data are not tracked properly during the lifecycle, it becomes unfeasible to recreate a ML model from scratch or to explain to stakeholders how it was created. The main limitation of provenance tracking solutions is that they cannot cope with provenance capture and integration of domain and ML data processed in the multiple workflows in the lifecycle while keeping the provenance capture overhead low. To handle this problem, in this paper we contribute with a detailed characterization of provenance data in the ML lifecycle in CSE; a new provenance data representation, called PROV-ML, built on top of W3C PROV and ML Schema; and extensions to a system that tracks provenance from multiple workflows to address the characteristics of ML and CSE, and to allow for provenance queries with a standard vocabulary. We show a practical use in a real case in the Oil and Gas industry, along with its evaluation using 48 GPUs in parallel.}
+}
+
+@inproceedings{souza_towards_2018,
+	location = {Rio de Janeiro, Brazil},
+	title = {Towards a human-in-the-loop library for tracking hyperparameter tuning in deep learning development},
+	pdf = {http://ceur-ws.org/Vol-2170/paper12.pdf},
+	eventtitle = {Latin American Data Science ({LaDaS}) workshop co-located with the Very Large Database ({VLDB}) conference},
+	pages = {84--87},
+	booktitle = {Latin American Data Science ({LaDaS}) workshop co-located with the Very Large Database ({VLDB}) conference},
+	author = {Souza, Renan and Neves, Liliane and Azeredo, Leonardo and Luiz, Ricardo and Tady, Elaine and Cavalin, Paulo and Mattoso, Marta},
+	year = {2018}
+}
+
+
+@inproceedings{Silva2018Capturing,
+	title = {Capturing Provenance for Runtime Data Analysis in Computational Science and Engineering Applications},
+	isbn = {978-3-319-98379-0},
+	series = {Lecture Notes in Computer Science ({LNCS})},
+	pages = {183--187},
+	booktitle = {Provenance and Annotation of Data and Processes - International Provenance and Annotation Workshop (IPAW)},
+	publisher = {Springer International Publishing},
+	author = {Silva, Vítor and Souza, Renan and Camata, Jose and de Oliveira, Daniel and Valduriez, Patrick and Coutinho, Alvaro L. G. A. and Mattoso, Marta},
+	year = {2018},
+	doi = {10.1007/978-3-319-98379-0_15}
+}
+
+
+@inproceedings{Souza2018Provenance,
+	title = {Provenance of Dynamic Adaptations in User-Steered Dataflows},
+	author = {Souza, Renan and Mattoso, Marta},
+	isbn = {978-3-319-98379-0},
+	doi = {10.1007/978-3-319-98379-0_2},
+	series = {Lecture Notes in Computer Science ({LNCS})},
+	pages = {16--29},
+	publisher = {Springer International Publishing},
+	year = {2018},
+	booktitle = {Provenance and Annotation of Data and Processes - International Provenance and Annotation Workshop (IPAW)},
+	pdf = {https://www.researchgate.net/publication/327460259_Provenance_of_Dynamic_Adaptations_in_User-Steered_Dataflows_7th_International_Provenance_and_Annotation_Workshop_IPAW_2018_London_UK_July_9-10_2018_Proceedings}
+}
+
+
+@inproceedings{de2018ravel,
+  title={Ravel: A MAS orchestration platform for Human-Chatbots Conversations},
+  author={de Bayser, Maira Gatti and Pinhanez, Claudio and Candello, Heloisa and Affonso, Marisa and Vasconcelos, Mauro Pichiliani and Guerra, Melina Alberio and Cavalin, Paulo and Souza, Renan},
+  booktitle={International Workshop on Engineering Multi-Agent Systems (EMAS@AAMAS 2018)},
+  pdf = {http://emas2018.dibris.unige.it/images/papers/EMAS18-19.pdf},
+  year={2018}
+}
+
+
+
+@inproceedings{valduriez:lirmm-01867804,
+  title = {{Scientific Data Analysis Using Data-Intensive Scalable Computing: the SciDISC Project}},
+  author = {Valduriez, Patrick and Mattoso, Marta and Akbarinia, Reza and Borges, Heraldo and Camata, José and Coutinho, Alvaro L G A and Gaspar, Daniel and Lemus, Noel and Liu, Ji and Lustosa, Hermano and Masseglia, Florent and Nogueira Da Silva, Fabricio and Silva, Vitor and Souza, Renan and Ocaña, Kary and Ogasawara, Eduardo and Oliveira, Daniel and Pacitti, Esther and Porto, F{\'a}bio and Shasha, Dennis},
+  url = {https://hal-lirmm.ccsd.cnrs.fr/lirmm-01867804},
+  booktitle = {{LADaS: Latin America Data Science Workshop}},
+  address = {Rio de Janeiro, Brazil},
+  publisher = {{CEUR-WS.org}},
+  volume = {CEUR Workshop Proceedings},
+  number = {2170},
+  year = {2018},
+  keywords = {HPC ; Scalable Data-Intensive Computing ; Big data ; Scientific data},
+  pdf = {https://hal-lirmm.ccsd.cnrs.fr/lirmm-01867804/file/ldas%202018%20-%20scidisc.pdf}
+}
+
+
+
+
+@inproceedings{Souza2017Tracking,
+	location = {Denver, {CO}},
+	title = {Tracking of online parameter fine-tuning in scientific workflows},
+	booktitle = {Workflows in Support of Large-Scale Science ({WORKS}) workshop  co-located with the {ACM}/{IEEE} International Conference for High Performance Computing, Networking, Storage, and Analysis ({SC})},
+	author = {Souza, Renan and Silva, Vítor and Camata, José and Coutinho, Alvaro and Valduriez, Patrick and Mattoso, Marta},
+	year = {2017},
+	url = {https://hal-lirmm.ccsd.cnrs.fr/lirmm-01620974}
+}
+
+
+@inproceedings{Souza2017Spark,
+	title = {Spark Scalability Analysis in a Scientific Workflow},
+	pdf = {http://sbbd.org.br/2017/wp-content/uploads/sites/3/2018/02/p288-293.pdf},
+	pages = {288--293},
+	booktitle = {Brazilian Symposium on Databases ({SBBD})},
+	author = {Souza, Renan and Silva, Vítor and Miranda, Pedro and Lima, Alexandre A B and Valduriez, Patrick and Mattoso, Marta},
+	year = {2017}
+}
+
+@inproceedings{souza_2017_msc_contest,
+	title = {Parallel Execution of Workflows driven by Distributed Database Techniques},
+	pdf = {https://scholar.google.com.br/scholar?oi=bibs&cluster=17975638527136409759&btnI=1&hl=en},
+	booktitle = {MSc Thesis Contest: Brazilian Symposium on Databases ({SBBD})},
+	author = {Souza, Renan},
+	year = {2017}
+}
+
+
+
+@inproceedings{Souza2016Online,
+	title = {Online Input Data Reduction in Scientific Workflows},
+	url = {https://hal.archives-ouvertes.fr/lirmm-01400538},
+	pages = {1--10},
+	booktitle = {Workflows in Support of Large-Scale Science ({WORKS}) workshop  co-located with the {ACM}/{IEEE} International Conference for High Performance Computing, Networking, Storage, and Analysis ({SC})},
+	author = {Souza, Renan and Silva, Vítor and Coutinho, Alvaro and Valduriez, Patrick and Mattoso, Marta},
+	year = {2016}
+}
+
+
+@inproceedings{Silva2016Integrating,
+	location = {Salt Lake City, {USA}},
+	title = {Integrating Domain-data Steering with Code-profiling Tools to Debug Data-intensive Workflows},
+	booktitle = {Workflows in Support of Large-Scale Science ({WORKS}) workshop  co-located with the {ACM}/{IEEE} International Conference for High Performance Computing, Networking, Storage, and Analysis ({SC})},
+	author = {Silva, Vítor and Neves, Leonardo and Souza, Renan and Coutinho, Alvaro and Oliveira, Daniel De and Mattoso, Marta},
+	year = {2016},
+	keywords = {Provenance, Performance analysis, Scientific Workflow, Debugging}
+}
+
+
+@article{camata_applying_2016,
+	title = {Applying future Exascale {HPC} methodologies in the energy sector},
+	booktitle = {Russian Supercomputing days},
+	url = {https://upcommons.upc.edu/handle/2117/90905},
+	pages = {9--19},
+	author = {Camata, José J. and Cela, José M. and Costa, Danilo and Coutinho, Alvaro L. G. A.  and Fernández-Galisteo, Daniel and Souza, Renan and others},
+	keywords = {Algorithms and architectures for advanced scientific computing, Àrees temàtiques de la {UPC}::Energies, Biomass, Energy sources, Exascale, Hidrocarburs, {HPC}, Hydrocarbon, Hydrocarbon processing, Supercomputadors, Wind energy},
+	year = {2016},
+	pdf = {https://upcommons.upc.edu/bitstream/handle/2117/90905/Applying%20future%20Exascale%20HPC%20methodologies%20in%20the%20energy%20sector.pdf}
+}
+
+
+
+
+@inproceedings{cavalin2016building,
+  title={Building a question-answering corpus using social media and news articles},
+  author={Cavalin, Paulo and Figueiredo, Flavio and de Bayser, Maíra and Moyano, Luis and Candello, Heloisa and Appel, Ana and Souza, Renan},
+  booktitle={International Conference on Computational Processing of the Portuguese Language},
+  pages={353--358},
+  year={2016}
+}
+
+
+
+@inproceedings{camata:lirmm-01654914,
+  TITLE = {{Enhancing Energy Production with Exascale HPC Methods}},
+  author = {Camata, José and Cela, José M and Costa, Danilo and Coutinho, Alvaro L. G. A. and Fernández-Galisteo, Daniel and Jimenez, Carmen and Kourdioumov, Vadim and Mattoso, Marta and Mayo-García, Rafael and Miras, Thomas and Moríñigo, José A and Navarro, Jorge and Navaux, Philippe O A and De Oliveira, Daniel and Rodríguez-Pascual, Manuel and Silva, Vítor and Souza, Renan and Valduriez, Patrick},
+  url = {https://hal-lirmm.ccsd.cnrs.fr/lirmm-01654914},
+  booktitle = {{CARLA: Latin American High Performance Computing Conference}},
+  address = {Mexico City, Mexico},
+  publisher = {{Springer}},
+  volume = {Communications in Computer and Information Science},
+  number = {697},
+  pages = {233-246},
+  year = {2016},
+  doi = {10.1007/978-3-319-57972-6\_17},
+  pdf = {https://hal-lirmm.ccsd.cnrs.fr/lirmm-01654914/file/Enhancing%20Energy%20Production%20with%20Exascale%20HPC.pdf}
+}
+
+@inproceedings{Souza2015Parallel,
+	location = {Salt Lake City, {USA}},
+	title = {Parallel Execution of Workflows Driven by a Distributed Database Management System},
+	url = {http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/tech_poster_pages/post284.html},
+	pdf = {http://sc15.supercomputing.org/sites/all/themes/SC15images/tech_poster/poster_files/post284s2-file3.pdf},
+	pages = {1--3},
+	booktitle = {{ACM}/{IEEE} International Conference for High Performance Computing, Networking, Storage, and Analysis ({SC})},
+	author = {Souza, Renan and Silva, Vítor and Oliveira, Daniel and Valduriez, Patrick and Lima, Alexandre A. B. and Mattoso, Marta},
+	year = {2015}
+}
+
+
+@inproceedings{castro2015abordagem,
+  title={Uma Abordagem para Publicação de Dados de Proveniência de Workflows Científicos na Web Semântica},
+  author={Castro, Rachel and Souza, Renan and Silva, Vítor and Ocaña, Kary and Oliveira, Daniel and Mattoso, Marta},
+  booktitle={Brazilian Symposium on Databases ({SBBD})},
+  year={2015}
+}
+
+@inproceedings{barbosa2016applying,
+  title={Applying data warehousing and big data techniques to analyze internet performance},
+  author={Barbosa, TMS and Souza, Renan and Cruz, SMS and Campos, ML and Cottrell, R Les},
+  year={2015},
+  booktitle={International Conference on Internet Applications, Protocols, and Services},
+  pdf = {https://www.slac.stanford.edu/pubs/slacpubs/16250/slac-pub-16464.pdf}
+}
+
+@inproceedings{souza2014linked,
+  title={Linked open data publication strategies: Application in networking performance measurement data},
+  author={Souza, Renan and Cottrell, Les and White, Bebo and Campos, Maria L and Mattoso, Marta},
+  booktitle={ASE BigData/SocialCom/CyberSecurity, Stanford, CA},
+  pdf = {https://www.slac.stanford.edu/cgi-bin/getdoc/slac-pub-15950.pdf},
+  year={2014}
+}

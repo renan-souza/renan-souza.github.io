@@ -1,0 +1,511 @@
+<!DOCTYPE html><html lang="en" class="scroll-smooth" style="--cobaltBlue: #0047AB;"> <head><meta charset="utf-8"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="keywords" content="accelerated computing, accountability, agentic ai, ai, ai engineer, ai ethics, ai for science, ai
+governance, ai hpc, ai infrastructure, ai lifecycle, ai observability, ai platform, ai workflow
+provenance, airflow, amd profiling, american science cloud, amsc, apache spark, artificial
+intelligence, auditable workflows, automated experimentation, autonomous laboratories, big data, big
+data engineer, ci/cd, ciencia da computacao, cloud computing, computer engineering, computer
+science, computing continuum, controla, coppe, cross facility workflows, dask, data architect, data
+architecture, data engineer, data engineering, data integration, data lake, data lakehouse, data
+lifecycle, data lineage, data management, data provenance, data reduction, data science, data
+traceability, databases, distributed ai, distributed computing, distributed database, distributed
+systems, distributed tracing, docker, e science, edge computing, edge to cloud continuum, energy
+efficient ai, event driven architecture, event streaming, experiment in the loop, explainable ai,
+fault tolerance, federal university of rio de janeiro, federated workflows, flowcept, flowcept
+provenance, foundation model inference, frontier, github actions, heterogeneous data, high
+performance computing, hpc, hpc workflows, hyperparameter tuning, ibm, ibm research, ieee e science,
+in memory data management, interactive computing notebooks, iswc, jenkins, kafka, knowledge graphs,
+kubernetes, large language models, leadership computing facility, lineage, linked open data, llm,
+llm agents, low latency systems, machine learning, marta mattoso, mcp agents, message driven
+architecture, metadata first, missouri state university, mlflow, mlops, model deployment, model
+monitoring, multi agent systems, multi database, multi gpu inference, multimodal ai, nvidia
+profiling, oak ridge, oak ridge national lab, oak ridge national laboratory, observability, olcf,
+opal doe, open data publishing, openshift, orchestrated platform for autonomous laboratories, ornl,
+owl, parallel workflows, patrick valduriez, persistent event streaming for hpc, physics informed
+neural networks, polystore, polystore architecture knowledge graphs, production ai, program context
+migration, prompt engineering, prov agent, provenance, provenance aware systems, provenance capture,
+provenance first, provenance modeling, provenance monitoring, provlight, pub/sub, rabbitmq, rag,
+rdf, redis, reliability engineering, renan, renan brazil, renan computer science, renan coppe, renan
+data, renan data engineering, renan data management, renan data science, renan databases, renan
+distributed, renan distributed database, renan distributed systems, renan doctorate, renan dsc,
+renan engineering, renan federal university of rio de janeiro, renan francisco, renan francisco
+ornl, renan francisco santos souza, renan francisco santos souza ornl, renan hpc, renan ibm, renan
+ibm research, renan knowledge engineering, renan linked open data, renan missouri, renan msu, renan
+oak ridge, renan oak ridge national lab, renan oak ridge national laboratory, renan ontologies,
+renan ontology, renan ornl, renan parallel, renan phd, renan provenance, renan research, research
+software engineer, renan researcher, renan rio, renan rio de janeiro, renan santos souza ornl, renan
+scholar, renan scientific, renan scientist, renan semantic web, renan slac, renan souza, renan souza
+brazil, renan souza coppe, renan souza data, renan souza data engineering, renan souza data science,
+renan souza databases, renan souza distributed, renan souza distributed systems, renan souza
+doctorate, renan souza dsc, renan souza engineering, renan souza federal university of rio de
+janeiro, renan souza hpc, renan souza ibm, renan souza ibm research, renan souza knowledge
+engineering, renan souza linked data, renan souza missouri, renan souza msu, renan souza oak ridge,
+renan souza oak ridge national lab, renan souza oak ridge national laboratory, renan souza ornl,
+renan souza parallel, renan souza phd, renan souza provenance, renan souza research, renan souza
+researcher, renan souza rio, renan souza rio de janeiro, renan souza scholar, renan souza scientist,
+renan souza semantic web, renan souza slac, renan souza stanford, renan souza ufrj, renan souza
+universidade federal do rio de janeiro, renan souza workflows, renan stanford, renan steering, renan
+systems, renan ufrj, renan universidade federal do rio de janeiro, renan workflows, renansouza.org,
+reproducible workflows, researcher edge cloud hpc, responsible ai, retrieval augmented generation,
+root cause analysis, runtime steering, scalable data platforms, scalable systems, scientific machine
+learning, scientific reproducibility, scientific workflows, seismic inversion, semantic web, sigmod,
+slac, slac national accelerator laboratory, slurm, software engineer, software engineering, souza
+coppe, souza ibm, souza oak ridge, souza oak ridge national lab, souza oak ridge national
+laboratory, souza ornl, souza ufrj, sparql, stanford university, streaming data, supercomputer,
+supercomputing, supercomputing sc, telemetry, tool using agents, transparent ai, trustworthy ai,
+ufrj, universidade federal do rio de janeiro, user steering, uspto patents, vldb, workflow
+management, workflow observability, workflow orchestration, workflow performance debugging, workflow
+provenance, works workshop, xloop"><title>Renan Souza, Ph.D.</title><link rel="stylesheet" href="/_astro/_slug_.lC_XO7oO.css"></head> <body class="bg-white min-h-screen flex flex-col font-sans" style="--cobaltBlue: #0047AB;"> <header class="w-full max-w-4xl mx-auto px-6 pt-8 pb-4" style="--cobaltBlue: #0047AB;"> <div class="flex justify-between items-center h-12 relative" style="--cobaltBlue: #0047AB;"> <div class="flex items-center gap-4" style="--cobaltBlue: #0047AB;"> <div id="mobile-menu-wrapper" class="md:hidden relative w-8 h-8 flex items-center justify-center" style="--cobaltBlue: #0047AB;"> <button id="menu-toggle" class="flex flex-col justify-center items-start w-8 h-8 gap-[5px] focus:outline-none z-10 transition-opacity" style="--cobaltBlue: #0047AB;"> <span class="block w-7 h-[3px] bg-slate-600 rounded-full" style="--cobaltBlue: #0047AB;"></span> <span class="block w-7 h-[3px] bg-slate-600 rounded-full" style="--cobaltBlue: #0047AB;"></span> <span class="block w-7 h-[3px] bg-slate-600 rounded-full" style="--cobaltBlue: #0047AB;"></span> </button> <ul id="mobile-nav-menu" class="inactive absolute top-0 left-0 w-64 bg-white/95 z-[100] py-2 shadow-2xl border border-slate-100 rounded-lg backdrop-blur-md flex flex-col uppercase font-bold text-[13px] tracking-wider text-slate-400" style="--cobaltBlue: #0047AB;"> <li class="border-b border-slate-50 last:border-none" style="--cobaltBlue: #0047AB;"> <a href="/" class="nav-hover-cobalt hover:text-slate-900 transition-colors block py-4 px-6" style="--cobaltBlue: #0047AB;"> Home </a> </li><li class="border-b border-slate-50 last:border-none" style="--cobaltBlue: #0047AB;"> <a href="/resume" class="nav-hover-cobalt hover:text-slate-900 transition-colors block py-4 px-6" style="--cobaltBlue: #0047AB;"> Resume </a> </li><li class="border-b border-slate-50 last:border-none" style="--cobaltBlue: #0047AB;"> <a href="/full_cv" class="nav-hover-cobalt hover:text-slate-900 transition-colors block py-4 px-6" style="--cobaltBlue: #0047AB;"> Research CV </a> </li><li class="border-b border-slate-50 last:border-none" style="--cobaltBlue: #0047AB;"> <a href="/publications" class="nav-hover-cobalt hover:text-slate-900 transition-colors block py-4 px-6" style="--cobaltBlue: #0047AB;"> Publications and Patents </a> </li><li class="border-b border-slate-50 last:border-none" style="--cobaltBlue: #0047AB;"> <a href="/events" class="nav-hover-cobalt hover:text-slate-900 transition-colors block py-4 px-6" style="--cobaltBlue: #0047AB;"> Talks and Events </a> </li> </ul> </div> <h1 class="text-2xl sm:text-3xl md:text-4xl tracking-tight m-0 p-0 font-bold leading-none flex items-center" style="--cobaltBlue: #0047AB;"> Renan Souza, Ph.D. </h1> </div> <div class="flex items-center gap-3" style="--cobaltBlue: #0047AB;"> <a href="https://linkedin.com/in/renansouza1" target="_blank" rel="noopener noreferrer" class="hover:opacity-60 transition-opacity" style="--cobaltBlue: #0047AB;"> <div class="w-8 h-8 cobalt-icon" style="--icon-url: url('/images/social/linkedin.png');; --cobaltBlue: #0047AB;"></div> </a> <a href="https://scholar.google.com/citations?user=x9t36ewAAAAJ" target="_blank" rel="noopener noreferrer" class="hover:opacity-60 transition-opacity" style="--cobaltBlue: #0047AB;"> <div class="w-8 h-8 cobalt-icon" style="--icon-url: url('/images/social/google_scholar.png');; --cobaltBlue: #0047AB;"></div> </a> </div> </div> <div class="mt-2" style="--cobaltBlue: #0047AB;"><p class="text-base text-slate-500 font-normal m-0 p-0" style="--cobaltBlue: #0047AB;">Applied Scientist &amp; Sr. Software Engineer | Data &amp; AI Platforms for Edge-Cloud-HPC</p></div> <nav class="hidden md:block mt-6" style="--cobaltBlue: #0047AB;"> <ul class="flex flex-wrap gap-x-2 gap-y-1 font-bold uppercase tracking-wider text-slate-400" style="--cobaltBlue: #0047AB;"> <li style="--cobaltBlue: #0047AB;"> <a href="/" class="nav-hover-cobalt hover:text-slate-900 px-3 py-1.5 rounded transition-colors" style="--cobaltBlue: #0047AB;"> Home </a> </li><li style="--cobaltBlue: #0047AB;"> <a href="/resume" class="nav-hover-cobalt hover:text-slate-900 px-3 py-1.5 rounded transition-colors" style="--cobaltBlue: #0047AB;"> Resume </a> </li><li style="--cobaltBlue: #0047AB;"> <a href="/full_cv" class="nav-hover-cobalt hover:text-slate-900 px-3 py-1.5 rounded transition-colors" style="--cobaltBlue: #0047AB;"> Research CV </a> </li><li style="--cobaltBlue: #0047AB;"> <a href="/publications" class="nav-hover-cobalt hover:text-slate-900 px-3 py-1.5 rounded transition-colors" style="--cobaltBlue: #0047AB;"> Publications and Patents </a> </li><li style="--cobaltBlue: #0047AB;"> <a href="/events" class="nav-hover-cobalt hover:text-slate-900 px-3 py-1.5 rounded transition-colors" style="--cobaltBlue: #0047AB;"> Talks and Events </a> </li> </ul> </nav> </header> <main class="w-full max-w-4xl mx-auto px-6 py-6 flex-grow" style="--cobaltBlue: #0047AB;">  <div class="max-w-3xl relative"> <div class="mb-4"> <a href="/cv/renan_souza_full_cv.pdf" class="text-[14px] font-bold text-blue-600 hover:text-blue-800 uppercase tracking-tight">
+[DOWNLOAD THE FULL CV IN PDF]
+</a> </div> <nav class="sticky top-[-1px] z-50 bg-white border-b border-slate-100 py-3 mb-8 shadow-[0_1px_0_0_rgba(0,0,0,0.02)]"> <ul class="flex flex-wrap gap-x-4 gap-y-2 text-[12px] font-bold uppercase tracking-tight text-slate-400"> <li class="text-slate-300">Jump to:</li> <li> <a href="#" class="hover:text-blue-600 transition-colors uppercase">
+Top
+</a> </li> <li> <a href="#about" class="hover:text-blue-600 transition-colors uppercase"> Summary </a> </li><li> <a href="#research_interests" class="hover:text-blue-600 transition-colors uppercase"> Expertise </a> </li><li> <a href="#education" class="hover:text-blue-600 transition-colors uppercase"> Education </a> </li><li> <a href="#experience" class="hover:text-blue-600 transition-colors uppercase"> Experience </a> </li><li> <a href="#skills" class="hover:text-blue-600 transition-colors uppercase"> Skills </a> </li><li> <a href="#projects" class="hover:text-blue-600 transition-colors uppercase"> Projects </a> </li><li> <a href="#programs" class="hover:text-blue-600 transition-colors uppercase"> Programmatic Leadership </a> </li><li> <a href="#internal_recognition" class="hover:text-blue-600 transition-colors uppercase"> Institutional Recognition </a> </li><li> <a href="#academic_recognition" class="hover:text-blue-600 transition-colors uppercase"> Academic Recognition </a> </li><li> <a href="#media" class="hover:text-blue-600 transition-colors uppercase"> Media Highlights </a> </li><li> <a href="#grants_fellowships" class="hover:text-blue-600 transition-colors uppercase"> Grants and Fellowships </a> </li><li> <a href="#service" class="hover:text-blue-600 transition-colors uppercase"> Service </a> </li><li> <a href="#teaching" class="hover:text-blue-600 transition-colors uppercase"> Teaching </a> </li><li> <a href="#badges" class="hover:text-blue-600 transition-colors uppercase"> Certifications </a> </li><li> <a href="#languages" class="hover:text-blue-600 transition-colors uppercase"> Languages </a> </li> </ul> </nav> <article class="prose prose-slate max-w-none"> <h2 id="summary">Summary <a id="about"></a></h2>
+<p>Tech lead, senior software engineer, and research scientist of intelligent data and AI platforms to
+accelerate scientific discovery. With 15+ years at IBM, ORNL, SLAC National Accelerator Laboratory,
+and the Federal University of Rio de Janeiro (UFRJ), I foster user-centric system design by keeping
+experts in the development loop, rapidly translating abstract requirements from domains such as
+Energy, Chemistry, Biology, and Climate into production-grade systems that are easier to operate,
+maintain, and scale. My research focuses on highly scalable, low-latency, observable, provenance-
+and metadata-first architectures that facilitate comprehensive data analysis across heterogeneous
+infrastructure, bridging edge instruments, cloud clusters, and leadership-class supercomputers, as
+well as data integration across SQL and NoSQL databases, knowledge graphs, messaging, streaming
+systems, and parallel file systems. My current focus includes AI and machine learning, LLM-driven
+workflows, and agentic systems. I authored 50+ papers, received best thesis and paper awards, held
+10+ United States Patent and Trademark Office (USPTO) patents, and reviewed for major venues
+including IEEE Transactions on Parallel and Distributed Systems (TPDS), IEEE Big Data, IEEE
+eScience, Future Generation Computer Systems (FGCS), the Very Large Databases (VLDB) Journal, and
+ACM/IEEE Supercomputing.</p>
+<h2 id="areas-of-expertise">Areas of Expertise <a id="research_interests"></a></h2>
+<ul>
+<li>AI/ML, LLM-driven, and Agentic workflows</li>
+<li>Edge-Cloud-HPC computing</li>
+<li>Provenance-driven data analysis, lineage, and observability</li>
+<li>Scalable data engineering (SQL, NoSQL, KGs, Streaming, Parallel Data Processing)</li>
+</ul>
+<h2 id="education">Education <a id="education"></a></h2>
+<p><strong>Federal University of Rio de Janeiro, Brazil</strong></p>
+<p>    <strong>Ph.D. in Computer Science</strong> | Sep 2015 — Dec 2019</p>
+<p>        <em>Thesis: <a href="https://www.cos.ufrj.br/index.php/en/publicacoes-pesquisa/details/20/2940" target="_blank">Supporting User Steering in Large-scale Workflows with Provenance Data</a></em></p>
+<p>    <strong>M.Sc. in Computer Science</strong> | Jan 2013 — Jul 2015</p>
+<p>        <em>Thesis: <a href="https://www.cos.ufrj.br/index.php/pt-BR/publicacoes-pesquisa/details/15/2562" target="_blank">Controlling the Parallel Execution of Workflows Relying on a Distributed Database</a></em></p>
+<p>    <strong>B.Sc. in Computer Science</strong> | Jan 2009 — Dec 2012</p>
+<p>        <em>Thesis: <a href="https://renan-souza.github.io/data/papers/souza-bsc-thesis.pdf" target="_blank">Linked Open Data Publication Strategies: An Application in Network Performance Data</a></em></p>
+<p>    <em>International experience:</em></p>
+<p>        Visiting Ph.D. Student - Inria/Univ. Montpellier, France</p>
+<p>        Computer Science exchange student - Missouri State University, U.S.</p>
+<h2 id="experience">Experience <a id="experience"></a></h2>
+<p><strong>Oak Ridge National Laboratory</strong> <span style="float:right">Oct 2022 — Present</span></p>
+<p><em>Staff Scientist &#x26; Sr. Software Engineer, HPC Workflows, Data &#x26; AI</em> | Knoxville, USA</p>
+<ul>
+<li>
+<p>Leading R&#x26;D on workflow provenance and observability for AI-driven science, focusing on
+transparency, reliability, and reproducibility in end-to-end workflows.</p>
+</li>
+<li>
+<p>Designing and developing provenance models and open source systems (e.g., Flowcept) to connect user
+intent, agent decisions, workflow executions, and downstream results in unified traces.</p>
+</li>
+<li>
+<p>Validated and applied these methods through high-profile projects in additive manufacturing,
+electron microscopy, and advanced biological analysis across Edge-Cloud-HPC environments.</p>
+</li>
+<li>
+<p>Published and presented results in HPC and eScience venues, and drove community engagement through
+tutorials and reference architectures.</p>
+</li>
+</ul>
+<p><strong>IBM Research</strong> <span style="float:right">Apr 2015 — Oct 2022</span></p>
+<p><em>Staff Scientist &#x26; Sr. Software Engineer, Cloud, Data &#x26; AI</em> | Rio de Janeiro, Brazil</p>
+<ul>
+<li>
+<p>Led applied R&#x26;D on hybrid cloud and HPC data platforms for AI systems, advancing scalable
+architectures on Kubernetes and OpenShift for distributed, enterprise-grade workloads.</p>
+</li>
+<li>
+<p>Developed and validated knowledge graph-centric approaches for large-scale data integration,
+lineage, and governance across heterogeneous and distributed data stores and AI pipelines.</p>
+</li>
+<li>
+<p>Partnered closely with internal global teams and major external clients, particularly in the Energy
+sector, to translate research into deployable systems adopted in production.</p>
+</li>
+<li>
+<p>Produced sustained research impact through peer-reviewed publications and 10+ USPTO patents spanning
+provenance, polystores, AI lifecycle management, and hybrid cloud systems.</p>
+</li>
+</ul>
+<p><strong>SLAC National Accelerator Laboratory</strong> <span style="float:right">May 2013 — Dec 2014</span></p>
+<p><em>Research Software Engineering Intern</em> | Menlo Park, USA</p>
+<ul>
+<li>Applied semantic web and scalable data management methods to publish structured measurement data for
+broad community use.</li>
+</ul>
+<p><strong>Federal University of Rio de Janeiro</strong> <span style="float:right">Jan 2010 — Sep 2014</span></p>
+<p><em>Software Engineer (Intern → Engineer)</em> | Rio de Janeiro, Brazil</p>
+<ul>
+<li>
+<p>Led applied research on semantic web and linked open data systems, translating ontology-based models
+into production platforms for public-sector information access in user-facing systems.</p>
+</li>
+<li>
+<p>Developed data warehousing approaches for integrating structured and unstructured data to support
+big data analytics, reporting, and information discovery across heterogeneous sources.</p>
+</li>
+</ul>
+<p><strong>Petrobras</strong> <span style="float:right">May 2007 — May 2008</span></p>
+<p><em>IT Intern</em> | Rio de Janeiro, Brazil</p>
+<ul>
+<li>Early industry experience in software development and user support.</li>
+</ul>
+<h2 id="technical-knowledge">Technical Knowledge <a id="skills"></a></h2>
+<ul>
+<li>
+<p>Programming Languages: Python, Java, C, C++, C#, Shell, NodeJS, Scala, Lua</p>
+</li>
+<li>
+<p>Data Science &#x26; ML: PyTorch, MLFlow, Airflow, Pandas, Polars, Jupyter, Matplotlib, Plotly</p>
+</li>
+<li>
+<p>Agentic AI: MCP, LangChain, CrewAI, Streamlit, Chainlit, RAG, LLM-based orchestration</p>
+</li>
+<li>
+<p>Big Data, Streaming, and Messaging: Spark, Dask, Parsl, Kafka, Redis, RabbitMQ</p>
+</li>
+<li>
+<p>Databases &#x26; Data Lakes: PostgreSQL, MySQL Cluster, MongoDB, Elasticsearch, HBase, Hive, Redis, LMDB; Object Storages,
+Polystores, Data lakes, Data warehouses, and Data Lakehouses</p>
+</li>
+<li>
+<p>Knowledge Graphs: AllegroGraph, Jena, Virtuoso, RDF, SPARQL, OWL</p>
+</li>
+<li>
+<p>Parallel &#x26; Distributed Programming: MPI, OpenMP, CUDA, PubSub</p>
+</li>
+<li>
+<p>Cloud, HPC, DevOps: Kubernetes, OpenShift; Slurm, LSF; Nvidia/AMD GPU Profiling; Prometheus, Grafana</p>
+</li>
+</ul>
+<h2 id="selected-projects">Selected Projects <a id="projects"></a></h2>
+<h4 id="orchestrated-platform-for-autonomous-laboratories-opal"><a href="https://opal-doe.org/">Orchestrated Platform for Autonomous Laboratories (OPAL)</a></h4>
+<p>OPAL (FAMOUS) advances autonomous science across multiple laboratories using AI agents, robotics,
+and automation, enabling HPC-scale, human-in-the-loop discovery workflows.</p>
+<h4 id="american-science-cloud-amsc"><a href="https://american-science-cloud.github.io/amsc-site/">American Science Cloud (AmSC)</a></h4>
+<p>AmSC is a core pillar of the DOE Genesis Mission, delivering a secure, federated platform for
+AI-driven science across national laboratories. At ORNL, work within the Intelligent Interface team
+focuses on shaping agentic AI workflows that integrate data, compute, and facilities for scalable,
+reusable, mission-aligned discovery.</p>
+<h4 id="advanced-manufacturing-into-leadership-class-supercomputers-via-ai-agents"><a href="https://dl.acm.org/doi/10.1145/3731599.3767592">Advanced Manufacturing into Leadership-class Supercomputers via AI Agents</a></h4>
+<p>A core AmSC use case demonstrating agentic AI integration between advanced manufacturing facilities
+and leadership-class supercomputers. I provide technical leadership in defining the end-to-end
+architecture and translating the scientific vision into an operational platform, including
+multi-agent communication, provenance-aware infrastructure, and dynamic steering across facilities.</p>
+<h4 id="flowcept"><a href="https://flowcept.org/">Flowcept</a></h4>
+<p>Flowcept is a provenance platform that captures runtime data with low overhead and links tasks,
+lineage, telemetry, and AI-agent interactions into end-to-end traces for accountability and
+reproducibility. I created and lead the platform, which underpins multiple DOE initiatives, such as OPAL (BER/ASCR)
+and broader Autonomous Science (ASCR-ACT), and research work on provenance for agentic workflows.</p>
+<h4 id="provlake"><a href="https://research.ibm.com/projects/provlake">ProvLake</a></h4>
+<p>ProvLake is a knowledge-graph-driven data lineage and management platform for hybrid data lakes
+spanning SQL databases, NoSQL stores, cloud object storage, and HPC file systems. It captures and
+integrates fine-grained data relationships across distributed workflows and services into a unified, semantic-rich
+provenance knowledge graph, enabling cross-store querying, explainability, and governance of complex
+AI and scientific pipelines. I created and led ProvLake as a foundational platform adopted across
+multiple IBM Research programs, supporting large-scale industry and internally funded research
+initiatives.</p>
+<h2 id="selected-programmatic-leadership-contributions-and-artifacts">Selected Programmatic Leadership, Contributions, and Artifacts <a id="programs"></a></h2>
+<p><strong>OPAL - Orchestrated Platform for Autonomous Laboratories (FAMOUS)</strong> <span style="float:right">2025 — Present</span></p>
+<ul>
+<li>
+<p><strong>Role:</strong> Technical leadership for agentic AI and cross-facility workflow architecture</p>
+</li>
+<li>
+<p><strong>Scope and contributions:</strong> Technical leader designing, implementing, and deploying the Agentic AI platform, translating expert
+intent into interactive HPC execution and multimodal analytics, using Flowcept for agentic
+provenance while integrating ORNL’s APPL experimental workflows with OLCF Frontier in collaboration with
+biologists, AI researchers, and software engineers.</p>
+</li>
+<li>
+<p><strong>Validation and impact:</strong> Demonstrated and reviewed with ORNL and ANL senior leadership in biological systems; endorsed by DOE
+leadership; publicly highlighted by the DOE Undersecretary; used within OPAL and informing
+Genesis-aligned autonomous laboratory efforts.</p>
+</li>
+</ul>
+<p><strong>American Science Cloud (AmSC)</strong> <span style="float:right">2025 — Present</span></p>
+<ul>
+<li>
+<p><strong>Role:</strong> Technical contributor shaping agentic AI workflow frameworks</p>
+</li>
+<li>
+<p><strong>Scope and contributions:</strong> Contributing to the early design of agentic AI workflow patterns to integrate data, compute,
+facilities, and AI agents across national laboratories, working with multidisciplinary teams of
+domain scientists, computational scientists, and engineers as the platform evolves.</p>
+</li>
+<li>
+<p><strong>Validation and impact:</strong> Contributions inform ongoing architectural discussions within AmSC and related Genesis-aligned
+efforts (e.g., ModCon, FAMOUS).</p>
+</li>
+</ul>
+<p><strong>Additive Manufacturing Agentic Workflow - MDF / AmSC Use Case</strong> <span style="float:right">2025 — Present</span></p>
+<ul>
+<li>
+<p><strong>Role:</strong> Technical leadership for agentic AI and cross-facility workflow architecture</p>
+</li>
+<li>
+<p><strong>Scope and contributions:</strong> Acted as technical leader driving architectural convergence and resolving system design deadlocks
+within a multidisciplinary team of 10+ contributors, delivering an agentic cross-facility workflow
+connecting advanced manufacturing at MDF with the OLCF ACE Testbed. Established Flowcept-enabled
+provenance for agentic safety, transparency, and end-to-end workflow traceability, enabling
+agent-to-agent and agent-to-compute coordination with dynamic steering.</p>
+</li>
+<li>
+<p><strong>Validation and impact:</strong> Established as a reusable architectural reference within AmSC and adopted as a core use case,
+positioning ORNL as a leader across DOE labs in cross-facility agentic workflows. Recognized by
+senior DOE leadership as a breakthrough example of AI agents leveraging leadership-class computing,
+with early publications at Supercomputing workshops and eScience. Supported AmSC infrastructure
+deployment and DOE booth demonstrations at Supercomputing’25, ensuring successful presentation to
+external audiences.</p>
+</li>
+</ul>
+<p><strong>ModCon - Transformational AI Models Consortium</strong> <span style="float:right">2025 — Present</span></p>
+<ul>
+<li>
+<p><strong>Role:</strong> Technical collaborator supporting Genesis-aligned platform direction</p>
+</li>
+<li>
+<p><strong>Scope and contributions:</strong> Collaborating with assigned ModCon team members by sharing architectural patterns, lessons learned, and implementation guidance from agentic, cross-facility workflow and provenance work, contributing to early design discussions within multidisciplinary teams.</p>
+</li>
+<li>
+<p><strong>Validation and impact:</strong> Contributions inform ongoing technical discussions with senior ANL researchers and early prototypes.</p>
+</li>
+</ul>
+<p><strong>INTERSECT LDRD: Multi-workflow Orchestration and Integrated Data Analysis Across Facilities</strong> <span style="float:right">2024 — 2025</span></p>
+<ul>
+<li>
+<p><strong>Role:</strong> Principal Investigator</p>
+</li>
+<li>
+<p><strong>Scope and contributions:</strong> Led a program on multi-workflow orchestration and data analysis across facilities, coordinating teams of 10+ scientists, computer scientists, and engineers across NCCS and CSM divisions to orchestrate AI workflows between ORNL MDF to OLCF ACE Testbed and ORNL CNMS to OLCF Summit; and established Flowcept as a provenance foundation through partnerships across ORNL and ANL.</p>
+</li>
+<li>
+<p><strong>Validation and impact:</strong> Managed $1M+ in funding; delivered cross-facility workflow demonstrations presented to senior DOE labs personnel, published in peer-reviewed venues; produced reusable orchestration and provenance artifacts (open source software and system architectures) that informed subsequent DOE efforts.</p>
+</li>
+</ul>
+<p><strong>IBM Research - Knowledge-Centric Systems</strong> <span style="float:right">2020 — 2022</span></p>
+<ul>
+<li>
+<p><strong>Role:</strong> Technical leadership for platform architecture and integration</p>
+</li>
+<li>
+<p><strong>Scope and contributions:</strong> Led platform integration for the AI Workbench, enabling knowledge-centric scientific discovery across global IBM Research teams. Led provenance and knowledge management for context-aware platform reconfiguration, supporting hybrid cloud-HPC execution in interactive notebooks, and established ProvLake as a core shared platform adopted across IBM Research labs.</p>
+</li>
+<li>
+<p><strong>Validation and impact:</strong> Peer-reviewed publications, executive-level demonstrations, cross-lab adoption, and a portfolio of patents supporting hybrid cloud-HPC platforms.</p>
+</li>
+</ul>
+<p><strong>IBM Research - AI for the Oil &#x26; Gas Industry Programs</strong> <span style="float:right">2018 — 2020</span></p>
+<ul>
+<li>
+<p><strong>Role:</strong> Technical leadership for data lakes and provenance platforms</p>
+</li>
+<li>
+<p><strong>Scope and contributions:</strong> Led the design and delivery of reusable data lake and provenance platforms supporting multiple concurrent AI programs for subsurface exploration, coordinating with 20+ researchers and engineers across IBM Research and industry-funded (e.g., Galp, Shell, ExxonMobil, Chevron) engagements.  This work initiated the ProvLake research and development effort, which later evolved into a shared provenance platform adopted across programs and IBM Research labs worldwide.</p>
+</li>
+<li>
+<p><strong>Validation and impact:</strong> Multi-year client adoption, executive-level demonstrations, media coverage, productization of platform components, peer-reviewed publications in scientific and industrial venues, and granted patents.</p>
+</li>
+</ul>
+<p><strong>IBM Research - Conversational AI Platform</strong> <span style="float:right">2016 — 2018</span></p>
+<ul>
+<li>
+<p><strong>Role:</strong> Technical leadership for scalability, deployment, and operations</p>
+</li>
+<li>
+<p><strong>Scope and contributions:</strong> Led architectural design, DevOps, and scalability for a conversational AI platform coordinating user interaction with multiple bots in a same chat, supporting multiple concurrent users accessing the platform, coordinating engineers and researchers to achieve high availability and efficiency on cloud infrastructure.</p>
+</li>
+<li>
+<p><strong>Validation and impact:</strong> Industry client demonstrations, peer-reviewed publications in AI venues, a highly cited (100+) patent, and successful scaling to thousands of concurrent users.</p>
+</li>
+</ul>
+<h2 id="selected-institutional-recognition">Selected Institutional Recognition <a id="internal_recognition"></a></h2>
+<ul>
+<li>
+<p>ORNL performance award for top performers (2025).</p>
+</li>
+<li>
+<p>IBM Patent Plateaus for high-impact software innovations (8+ USPTO patents) (2020, 2021).</p>
+</li>
+</ul>
+<h2 id="selected-academic-recognition">Selected Academic Recognition <a id="academic_recognition"></a></h2>
+<ul>
+<li>
+<p>2025, Distinguished Paper Award, WORKS @ IEEE/ACM Supercomputing — The (R)evolution of Scientific Workflows in the Agentic AI Era: Towards Autonomous Science</p>
+</li>
+<li>
+<p>2021, Runner-up (2nd Place) - Best Ph.D. Thesis — User Steering Support in Large-scale Workflows</p>
+</li>
+<li>
+<p>2017, Honorable Mention - Best Paper — Spark Scalability Analysis in a Scientific Workflow</p>
+</li>
+<li>
+<p>2015, Best M.Sc. Thesis Award — Parallel Execution of Workflows driven by Distributed Database Techniques</p>
+</li>
+</ul>
+<h2 id="media-highlights">Media Highlights <a id="media"></a></h2>
+<p><strong>Galp-IBM AI Platform for Seismic Interpretation</strong> <a href="https://www.galp.com/corp/en/investors/publications-and-announcements/investor-announcements/investor-announcement/id/835" target="_blank">link</a></p>
+<p>Led workflows management for AI and knowledge-engineering for an AI-assisted seismic interpretation
+platform developed at IBM Research and deployed in production with Galp. The system integrated
+machine learning, visual analytics, and domain knowledge to accelerate geological decision-making on
+large-scale seismic data.</p>
+<p><strong>AI4Seismic: AI Platform for Geological Discovery</strong> <a href="https://www.siam.org/publications/siam-news/articles/ai4seismic-platform-combines-artificial-intelligence-and-seismic-data-analysis" target="_blank">link</a></p>
+<p>Highlighted by SIAM News, this presentation introduced AI4Seismic, an end-to-end AI platform for
+seismic analysis that captures expert geological knowledge and integrates ML, provenance, and
+reproducible workflows to accelerate energy-critical geological discovery.</p>
+<p><strong>OPAL: AI-Assisted Biological Discovery with Frontier</strong> <a href="https://x.com/ScienceUnderSec/status/2016564854581088598" target="_blank">link1</a> <a href="https://www.linkedin.com/posts/oak-ridge-national-laboratory_early-breakthrough-for-ai-enabled-biological-activity-7421976255312400384--WwW" target="_blank">link2</a> <a href="https://www.linkedin.com/pulse/agentic-ai-breakthrough-automated-plant-ozddc/" target="_blank">link3</a></p>
+<p>ORNL Communications highlighted the OPAL project’s Agentic AI platform as an early, high-impact
+result of integrating laboratory instruments with the Frontier exascale supercomputer to enable
+autonomous, human-in-the-loop biological discovery under the DOE Genesis Mission.</p>
+<p><strong>DOE Genesis Mission Platform Demonstration</strong> <a href="https://www.youtube.com/live/Nluz7oEQcDg?t=3527s" target="_blank">link</a></p>
+<p>Work referenced in U.S. Congressional testimony by DOE undersecretary for science highlighting early
+Genesis Mission milestones, including AI-enabled workflows that autonomously coordinate experiments,
+HPC execution, and analysis across national laboratories.</p>
+<h2 id="grants-and-fellowships">Grants and Fellowships <a id="grants_fellowships"></a></h2>
+<p><strong>CAPES International Science Grant (2012-2013)</strong></p>
+<p>Competitive national fellowship supporting international research exchange, enabling academic
+placement at Missouri State University and research internship at SLAC National Accelerator
+Laboratory.</p>
+<p><strong>CAPES Master’s Scholarship (2013-2015)</strong></p>
+<p>Nationally funded graduate research scholarship.</p>
+<h2 id="scientific-community-service">Scientific Community Service <a id="service"></a></h2>
+<h4 id="chair-and-editor">Chair and Editor</h4>
+<ul>
+<li>
+<p>Frontiers in High Performance Computing - Editorial Board</p>
+</li>
+<li>
+<p>IEEE International Conference on e-Science (eScience’23) - Session Chair</p>
+</li>
+<li>
+<p>Brazilian Symposium on Databases (SBBD’20) - Session Chair</p>
+</li>
+</ul>
+<h4 id="technical-program-committee">Technical Program Committee</h4>
+<ul>
+<li>
+<p>International Workshop on AI Principles in Science Communication (AISC’25)</p>
+</li>
+<li>
+<p>Int. Symposium on Computer Architecture and High Performance Computing (SBAC-PAD’25,26)</p>
+</li>
+<li>
+<p>Workflows in Distributed Environments (WiDE’24)</p>
+</li>
+<li>
+<p>IEEE/ACM Supercomputing (SC’24)</p>
+</li>
+<li>
+<p>IEEE International Conference on e-Science (eScience’23)</p>
+</li>
+<li>
+<p>Workflows in Support of Large-Scale Science (WORKS at IEEE/ACM Supercomputing’20, 21, 23, 24, 25)</p>
+</li>
+<li>
+<p>Brazilian Workshop on Database and Artificial Intelligence Integration</p>
+</li>
+<li>
+<p>Brazilian Symposium on Databases (SBBD’20, 23, 24, 25, 26)</p>
+</li>
+<li>
+<p>Brazilian e-Science (BreSci’26)</p>
+</li>
+<li>
+<p>Innovation Summit on Information Systems (at SBSI’19,20)</p>
+</li>
+</ul>
+<h4 id="journal-reviewer">Journal Reviewer</h4>
+<ul>
+<li>
+<p>IEEE Transactions on Parallel and Distributed Systems</p>
+</li>
+<li>
+<p>Future Generation Computer Systems</p>
+</li>
+<li>
+<p>Concurrency Computation Practice and Experience</p>
+</li>
+<li>
+<p>Journal of Parallel and Distributed Computing</p>
+</li>
+<li>
+<p>The Very Large Databases (VLDB) Journal</p>
+</li>
+<li>
+<p>IEEE Transactions on Big Data</p>
+</li>
+<li>
+<p>Journal of Cloud Computing</p>
+</li>
+<li>
+<p>Computer Physics Communications</p>
+</li>
+<li>
+<p>Discover Data</p>
+</li>
+<li>
+<p>Frontiers in High Performance Computing</p>
+</li>
+</ul>
+<h2 id="teaching-and-supervisions">Teaching and Supervisions <a id="teaching"></a></h2>
+<h4 id="courses">Courses</h4>
+<ul>
+<li>
+<p><strong>Databases Laboratory</strong> (UFRJ), 2017. <em>Teacher assistant to Prof. Marta Mattoso</em></p>
+</li>
+<li>
+<p><strong>Semantic Web</strong> (UFRJ), 2013. <em>Teacher assistant to Prof. Maria Luiza Machado Campos</em></p>
+</li>
+<li>
+<p><strong>Logics for Computer Science</strong> (UFRJ), 2012-2013. <em>Teacher assistant to Prof. Mario Benevides</em></p>
+</li>
+<li>
+<p><strong>Metadata Management</strong> (UFRJ), 2011. <em>Teacher assistant to Prof. Adriana Vivacqua</em></p>
+</li>
+</ul>
+<h4 id="supervisions">Supervisions</h4>
+<ul>
+<li>
+<p>Pedro Paiva Miranda: A Mechanism for Fault Tolerance in Parallel Executions of Workflows supported by a Database. undergraduate (UFRJ), 2015.</p>
+</li>
+<li>
+<p>Rachel de Castro: Publication of Workflow Provenance Data in the Semantic Web. undergraduate (UFRJ), 2015.</p>
+</li>
+</ul>
+<h2 id="badges-and-certifications">Badges and Certifications <a id="badges"></a></h2>
+<ul>
+<li>
+<p><a href="https://www.credly.com/badges/be00b8c8-6a19-4b28-b3d9-0f4daadcd3bc" target="_blank">Machine Learning Specialist Professional</a>: Exploratory Data Analysis, Regression, Classification, Deep Learning, Reinforcement Learning,
+Unsupervised Learning, Time Series and Survival Analysis, AI Ethics and Explainability (2022).</p>
+</li>
+<li>
+<p><a href="https://www.credly.com/badges/583d9aff-aec5-48c3-8c05-22cb9e995f49" target="_blank">Trustworthy AI and AI Ethics</a>: Trustworthy AI foundations and applied AI ethics (2022).</p>
+</li>
+<li>
+<p><a href="https://www.credly.com/earner/earned/badge/cb71569c-ba67-4c1b-8d1a-229c491335dd" target="_blank">Enterprise Design Thinking Practitioner</a> (2022).</p>
+</li>
+<li>
+<p>LinkedIn Skill Assessment: Python, MySQL, Linux, T-SQL, NoSQL</p>
+</li>
+</ul>
+<h2 id="languages">Languages <a id="languages"></a></h2>
+<ul>
+<li>
+<p>English: Full professional proficiency</p>
+</li>
+<li>
+<p>Portuguese: Native</p>
+</li>
+<li>
+<p>Spanish: Reading fluent; speaking/listening intermediate</p>
+</li>
+</ul>
+<h2 id="publications-and-events">Publications and Events <a id="publications_events"></a></h2>
+<p>For all publications and patents, visit <a href="/publications">renansouza.org/publications</a>.</p>
+<p>For talks and presentations, visit <a href="/events">renansouza.org/events</a>.</p> </article> </div>  </main> <footer class="w-full max-w-4xl mx-auto px-6 py-8 border-t border-slate-50 text-slate-400 text-[10px] uppercase tracking-widest" style="--cobaltBlue: #0047AB;">
+&copy; 2026 Renan Souza | Last Updated: February 2026 </footer> <script type="module">const a=()=>{const t=document.getElementById("menu-toggle"),e=document.getElementById("mobile-nav-menu");!t||!e||(t.addEventListener("click",c=>{c.stopPropagation(),e.classList.replace("inactive","active"),t.style.opacity="0"}),document.addEventListener("click",c=>{e.contains(c.target)||(e.classList.replace("active","inactive"),t.style.opacity="1")}),e.querySelectorAll("a").forEach(c=>{c.addEventListener("click",()=>{e.classList.replace("active","inactive"),t.style.opacity="1"})}))};a();document.addEventListener("astro:after-swap",a);</script> </body> </html>
